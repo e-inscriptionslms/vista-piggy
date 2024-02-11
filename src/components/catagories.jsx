@@ -1,13 +1,13 @@
 import React from 'react'
 
-const Catagories = () => {
+const Catagories = ({item}) => {
     return (
         <>
             <div className="container-fluid p-4">
                 <div className="row mt-2 border p-3">
                     <div className="col-sm-9">
                         <div className="categorys">
-                            <h1>Mathology</h1>
+                            <h1>{item?.cate_name}</h1>
                         </div>
                         <div className="row">
                             <div className="col-lg-6">

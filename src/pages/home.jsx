@@ -1,5 +1,6 @@
 import React from 'react'
 import Catagories from '../components/catagories'
+import { categroiesdata } from '../data/categroiesdata'
 
 const Home = () => {
     return (
@@ -95,11 +96,7 @@ const Home = () => {
                 </div>
             </section>
             {/* first  */}
-           {} <Catagories/>
-            <Catagories/>
-            <Catagories/>
-            <Catagories/>
-            <Catagories/>
+           {categroiesdata?.map((item,index)=><Catagories item={item} key={index}/>)}             
         </>
 
     )
