@@ -5,6 +5,7 @@ import { useEffect } from 'react';
 import Aos from 'aos';
 import MainBlogPage from './pages/mainBlogPage';
 import BlogPage from './pages/BlogPage';
+import CategoriesPage from './pages/CategoriesPage';
 
 
 function App() {
@@ -17,8 +18,16 @@ function App() {
     <Route path='/' element={<Layout/>}>
       <Route index element={<Home/>}/>
       {/* other page route code write here... */}
-      <Route path='/blog' element={<MainBlogPage/>}/>
-      <Route path='/name' element={<BlogPage/>}/>
+      <Route path='/main' element={<BlogPage/>}/>
+      <Route path='/blog' element={<MainBlogPage/>}>
+        <Route path='mythology' element={<CategoriesPage/>}/>
+        <Route path='technology' element={<CategoriesPage/>}/>
+        <Route path='weird' element={<CategoriesPage/>}/>
+        <Route path='animals' element={<CategoriesPage/>}/>
+        <Route path='entertainment' element={<CategoriesPage/>}/>
+        <Route path='history' element={<CategoriesPage/>}/>
+      </Route>
+      {/* <Route path='/' element={} /> */}
       </Route>
    </Routes>
    </>

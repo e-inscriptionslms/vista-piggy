@@ -3,7 +3,7 @@
 }
 
 body {
-  background: rgb(250, 250, 250);
+  background: rgb(240, 234, 234);
   font-family: Lato, Helvetica, Arial, sans-serif;
 }
 
@@ -128,6 +128,7 @@ a {
   /* margin-left: 5%;
     margin-top: 5%; */
   box-shadow: 1px 1px 10px 10px rgb(214, 211, 211);
+  background-color:rgba(246, 151, 151, 0.3) ;
 }
 
 .img6 {
@@ -158,6 +159,7 @@ a {
   border-radius: 15px;
   margin-top: 5%;
   box-shadow: 1px 1px 10px 10px rgb(243, 239, 239);
+  background-color: rgba(246, 151, 151, 0.3);
 }
 
 .breadcrumb-section {
@@ -198,13 +200,16 @@ a {
 }
 
 .bg-theme{
-  background-color: rgba(100, 72, 92,0.7);
+  background-color: #b30026;
 }
 
 .section-theme{
-  background-color: rgba(100, 72, 92,0.3)
+  background-color: rgba(246, 151, 151, 0.3)
 }
 
 ul{
   list-style: none;
+}
+ul>li{
+  color: white;
 }
