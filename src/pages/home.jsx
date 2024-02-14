@@ -7,7 +7,7 @@ const Home = () => {
         <>
             <section id="bredcrum">
                 <div className="container-fluid p-4">
-                    <div className="row mt-5 border">
+                    <div className="row mt-5 border section-theme">
                         <div className="col-sm-12 col-md-6 col-lg-6 col-xl-6 p-3">
                             <div className="row justify-content-evenly">
                                 <div
