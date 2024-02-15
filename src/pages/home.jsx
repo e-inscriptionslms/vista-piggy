@@ -1,6 +1,9 @@
 import React from 'react'
-import Catagories from '../components/catagories'
-import { categroiesdata } from '../data/categroiesdata'
+import Catagories from '../components/catagories';
+import { categroiesdata } from '../data/categroiesdata';
+
+import { Link } from 'react-router-dom'
+import { Route_Path } from '../RoutePath/routepath';
 
 const Home = () => {
     return (
@@ -15,7 +18,7 @@ const Home = () => {
                                     data-aos="fade-top"
                                     data-aos-duration={2000}
                                 >
-                                    <div className="p-2 rounded-2 overflow-hidden header_img1 ">
+                                    <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/123`}><div className="p-2 rounded-2 overflow-hidden header_img1 ">
                                         <span className="mt-4 bg-danger text-white rounded-2 p-1">
                                             Technolgy
                                         </span>
@@ -28,6 +31,7 @@ const Home = () => {
                                             <span>December 14, 2023</span>
                                         </div>
                                     </div>
+                                    </Link>
                                 </div>
                                 <div
                                     className="col-md-6 col-lg-6 col-xl-6 p-1"

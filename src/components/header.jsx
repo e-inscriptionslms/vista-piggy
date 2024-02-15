@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
+import {Route_Path} from '../RoutePath/routepath';
 
 function Header() {
     return (
@@ -12,13 +13,13 @@ function Header() {
                     <div className='me-2 d-flex align-items-center'>
                         <div className='me-4'>
                             <ul className='d-flex gap-4 mt-3'>
-                                <li><Link to="/">Home</Link></li>
-                                <li><Link to="/mythology">Mythology</Link></li>
-                                <li><Link to="/technology">Technology</Link></li>
-                                <li><Link to="/weird">Weird</Link></li>
-                                <li><Link to="/animals">Animals</Link></li>
-                                <li><Link to="/entertainment">Entertainment</Link></li>
-                                <li><Link to="/history">History</Link></li>
+                                <li><Link to={Route_Path.HOME}>Home</Link></li>
+                                <li><Link to={`${Route_Path.BLOG}/${Route_Path.MYTHOLOGY}`}>Mythology</Link></li>
+                                <li><Link to={`${Route_Path.BLOG}/${Route_Path.TECHNOLOGY}`}>Technology</Link></li>
+                                <li><Link to={`${Route_Path.BLOG}/${Route_Path.WEIRD}`}>Weird</Link></li>
+                                <li><Link to={`${Route_Path.BLOG}/${Route_Path.ANIMALS}`}>Animals</Link></li>
+                                <li><Link to={`${Route_Path.BLOG}/${Route_Path.ENTERTAINMENT}`}>Entertainment</Link></li>
+                                <li><Link to={`${Route_Path.BLOG}/${Route_Path.HISTORY}`}>History</Link></li>
                             </ul>
                         </div>
                         <div class="pull-right flip hidden-sm hidden-xs mt-18">

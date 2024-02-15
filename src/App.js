@@ -6,6 +6,8 @@ import Aos from 'aos';
 import MainBlogPage from './pages/mainBlogPage';
 import BlogPage from './pages/BlogPage';
 import CategoriesPage from './pages/CategoriesPage';
+import {Route_Path}  from './RoutePath/routepath';
+import NotFound from './pages/NotFound';
 
 
 function App() {
@@ -15,20 +17,20 @@ function App() {
   return (
    <>
    <Routes>
-    <Route path='/' element={<Layout/>}>
+    <Route path={Route_Path.HOME} element={<Layout/>}>
       <Route index element={<Home/>}/>
       {/* other page route code write here... */}
-      <Route path='/main' element={<BlogPage/>}/>
-      <Route path='/blog' element={<MainBlogPage/>}>
-        <Route path='mythology' element={<CategoriesPage/>}/>
-        <Route path='technology' element={<CategoriesPage/>}/>
-        <Route path='weird' element={<CategoriesPage/>}/>
-        <Route path='animals' element={<CategoriesPage/>}/>
-        <Route path='entertainment' element={<CategoriesPage/>}/>
-        <Route path='history' element={<CategoriesPage/>}/>
+      <Route path={Route_Path.BLOG} element={<MainBlogPage/>}>
+        <Route path={Route_Path.MYTHOLOGY} element={<CategoriesPage/>}/>
+        <Route path={Route_Path.TECHNOLOGY}  element={<CategoriesPage/>}/>
+        <Route path={Route_Path.ANIMALS} element={<CategoriesPage/>}/>
+        <Route path={Route_Path.WEIRD} element={<CategoriesPage/>}/>
+        <Route path={Route_Path.ENTERTAINMENT} element={<CategoriesPage/>}/>
+        <Route path={Route_Path.HISTORY} element={<CategoriesPage/>}/>
+      <Route path={`${Route_Path.B1}/:id`} element={<BlogPage/>}/>
       </Route>
-      {/* <Route path='/' element={} /> */}
       </Route>
+      <Route path='*' element={<NotFound/>}/>
    </Routes>
    </>
   );
