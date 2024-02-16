@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
 import {Route_Path} from '../RoutePath/routepath';
+import { categroiesdata } from '../data/categroiesdata';
 
 function Header() {
     return (

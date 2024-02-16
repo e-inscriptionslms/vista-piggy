@@ -1,11 +1,19 @@
 export const bolgdata = [
     {
-        bolgname: "Nishiyama Onsen Keiunkan: The World's Oldest Hotel With 18 Amazing Facts",
+        title: "Nishiyama Onsen Keiunkan: The World's Oldest Hotel With 18 Amazing Facts",
         date: "November 24, 2023",
         cate_name: "history",
-        image: "",
-        discritions:"",
-        subtitle:"",
+        base_title:"",
+         discritions1 :{
+            title:"",
+            image:"",
+            content1:""
+         },
+         discritions2 :{
+            title:"",
+            image:"",
+            content1:""
+         }
 
     },
     {
