@@ -337,7 +337,7 @@ export const bolgdata = [
         slug: "Thanator-(Palulukan)",
         date: "june 11, 2023",
         image: "",
-        cate_name: "mythology",
+        cate_name: "entertainment",
         base_title: "In the enchanting world of Pandora, a moon in the Alpha Centauri star system, the ecosystem is teeming with extraordinary creatures. One such remarkable creature is the Thanator, also known as the Palulukan. As Pandora's apex predator, the Thanator is a fearsome and awe-inspiring creature that dominates the planet's lush forests. In this article, we will delve into the intriguing world of the Thanator and uncover ten fascinating facts about this enigmatic creature. From its physical characteristics to its hunting strategies, the Thanator showcases the marvels of Pandora's diverse and unique wildlife.",
         discritions1: {
             title: "The Thanator's Colossal Size and Powerful Adaptations Make It The Undisputed Apex Predator in Pandora's Ecosystem",

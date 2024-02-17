@@ -1,0 +1,8 @@
+export function Cate_data(bolgdata){
+   let arr = []
+   for(let i of bolgdata){
+    arr.push(i.cate_name)
+   }
+   
+   return arr?.filter((ele,index,arr)=>arr.indexOf(ele) === index)
+}

@@ -1,13 +1,15 @@
 import React, { useState } from 'react'
-import Catagories from '../components/catagories';
-import { categroiesdata } from '../data/categroiesdata';
 import { Link } from 'react-router-dom'
 import { Route_Path } from '../RoutePath/routepath';
 import { bolgdata } from '../data/bolgdata';
+import { Cate_data } from '../helper/helper';
+import Catagories from '../components/catagories';
 
 const Home = ({}) => {
     const  [data ,setdata ] = useState(bolgdata) 
+    const [cate,setCate] = useState(Cate_data(data))
     console.log(data)
+
     return (
         <>
             <section id="bredcrum">
@@ -98,7 +100,9 @@ const Home = ({}) => {
                 </div>
             </section>
             {/* first  */}
-                        
+            {cate?.map((item,index)=>(
+                <Catagories item={item} key={index}  />
+            ))}       
         </>
 
     )
