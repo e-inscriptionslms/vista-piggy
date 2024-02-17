@@ -1,11 +1,13 @@
-import React from 'react'
+import React, { useState } from 'react'
 import Catagories from '../components/catagories';
 import { categroiesdata } from '../data/categroiesdata';
-
 import { Link } from 'react-router-dom'
 import { Route_Path } from '../RoutePath/routepath';
+import { bolgdata } from '../data/bolgdata';
 
-const Home = () => {
+const Home = ({}) => {
+    const  [data ,setdata ] = useState(bolgdata) 
+    console.log(data)
     return (
         <>
             <section id="bredcrum">
@@ -20,15 +22,14 @@ const Home = () => {
                                 >
                                     <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/123`}><div className="p-2 rounded-2 overflow-hidden header_img1 ">
                                         <span className="mt-4 bg-danger text-white rounded-2 p-1">
-                                            Technolgy
+                                            {data[data.length-1]?.cate_name}
                                         </span>
                                         <div className="mt-7 text-white">
                                             <h5>
-                                                Feng Huang: 12 Facts Revealed About The Graceful Chinese
-                                                Phoenix{" "}
+                                               {data[data.length-1]?.title}
                                             </h5>
                                             <span>Editorial Staff</span>
-                                            <span>December 14, 2023</span>
+                                            <span>{data[data.length-1]?.date}</span>
                                         </div>
                                     </div>
                                     </Link>
@@ -40,15 +41,14 @@ const Home = () => {
                                 >
                                     <div className="p-2 rounded-2 overflow-hidden header_img2">
                                         <span className="mt-4 bg-danger text-white rounded-2 p-1">
-                                            Technolgy
+                                        {data[data.length-2]?.cate_name}
                                         </span>
                                         <div className="mt-7 text-white">
                                             <h5>
-                                                Feng Huang: 12 Facts Revealed About The Graceful Chinese
-                                                Phoenix{" "}
+                                            {data[data.length-2]?.title}
                                             </h5>
                                             <span>Editorial Staff</span>
-                                            <span>December 14, 2023</span>
+                                            <span>{data[data.length-2]?.date}</span>
                                         </div>
                                     </div>
                                 </div>
@@ -63,15 +63,14 @@ const Home = () => {
                                 >
                                     <div className="bg-light p-3 rounded-2 border overflow-hidden header_img3">
                                         <span className="mt-4 bg-danger text-white rounded-2 p-1">
-                                            Technolgy
+                                        {data[data.length-3]?.cate_name}
                                         </span>
                                         <div className="mt-6 text-white">
                                             <h5>
-                                                Feng Huang: 12 Facts Revealed About The Graceful Chinese
-                                                Phoenix{" "}
+                                            {data[data.length-3]?.title}
                                             </h5>
                                             <span>Editorial Staff</span>
-                                            <span>December 14, 2023</span>
+                                            <span>{data[data.length-3]?.date}</span>
                                         </div>
                                     </div>
                                 </div>
@@ -82,15 +81,14 @@ const Home = () => {
                                 >
                                     <div className="bg-light p-3 rounded-2 border overflow-hidden header_img4">
                                         <span className="mt-4 bg-danger text-white rounded-2 p-1">
-                                            Technolgy
+                                        {data[data.length-4]?.cate_name}
                                         </span>
                                         <div className="mt-6 text-white">
                                             <h5>
-                                                Feng Huang: 12 Facts Revealed About The Graceful Chinese
-                                                Phoenix{" "}
+                                            {data[data.length-4]?.title}
                                             </h5>
                                             <span>Editorial Staff</span>
-                                            <span>December 14, 2023</span>
+                                            <span>{data[data.length-4]?.date}</span>
                                         </div>
                                     </div>
                                 </div>
@@ -100,7 +98,7 @@ const Home = () => {
                 </div>
             </section>
             {/* first  */}
-           {categroiesdata?.map((item,index)=><Catagories item={item} key={index}/>)}             
+                        
         </>
 
     )
