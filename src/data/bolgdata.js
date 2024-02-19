@@ -1,4 +1,4 @@
-export const bolgdata = [
+export const bolgdata = JSON.stringify([
     {
         title: "Nishiyama Onsen Keiunkan: The World's Oldest Hotel With 18 Amazing Facts",
         slug: "nishiyama-onsen-keiunkan",
@@ -422,4 +422,4 @@ export const bolgdata = [
             },
         ]
     }
-]
+])

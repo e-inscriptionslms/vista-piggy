@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 import { Route_Path } from '../RoutePath/routepath'
 
 const Catagories = ({item}) => {
-   let data =  bolgdata?.filter((ele)=>ele.cate_name === item)
+   let data =  JSON.parse(bolgdata)?.filter((ele)=>ele.cate_name === item)
     return (
         <>
             <div className="container-fluid p-4">

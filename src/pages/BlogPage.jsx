@@ -9,7 +9,7 @@ const BlogPage = () => {
     const [blog_data,setBlogData] = useState(null)
 
     useState(()=>{
-    let Obj = bolgdata?.find((item)=>item.slug===slug)
+    let Obj = JSON.parse(bolgdata)?.find((item)=>item.slug===slug)
     setBlogData(Obj)
     },[blog_data])
     return (
