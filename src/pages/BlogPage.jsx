@@ -7,14 +7,14 @@ import { Base_Url } from '../helper/helper'
 const BlogPage = () => {
     const {slug} = useParams()
     const [blog_data,setBlogData] = useState(null)
-console.log(Base_Url()+blog_data?.discritions1['image']);
+
     useState(()=>{
     let Obj = bolgdata?.find((item)=>item.slug===slug)
     setBlogData(Obj)
     },[blog_data])
     return (
         <>
-        <BreadcrumbSection/>
+        <BreadcrumbSection cate={blog_data && blog_data?.cate_name}/>
             <div className="container mt-4 p-5">
                <div className='row'>
                 <div className='col-9 p-3'>
@@ -27,13 +27,16 @@ console.log(Base_Url()+blog_data?.discritions1['image']);
                     <p className='mt-4'>{blog_data && blog_data?.base_title}</p>
                     <p className='mt-3'></p>
                     <hr />
-                     <h3 className='text-danger'>1. {blog_data && blog_data?.discritions1?.title}</h3>
-                     <img className='blog_img' src={Base_Url()+ (blog_data && blog_data?.discritions1['image'])} alt="img1" width="100%" />
+                    {blog_data && blog_data?.discritions?.map((item,index)=>(
+                      <div key={index}>
+                      <h3 className='text-danger'>{index+1} .{item.title}</h3>
+                      <img className='blog_img' src={Base_Url()+item.image} alt="img1" width="100%" />
+                     {item.contents?.map((item,index)=>(
+                      <p className='mt-3' key={index}>{item}</p>
+                     ))}
+                     </div>
+                    ))}
                     </div>
-                    <p className='mt-3'></p>
-                    <p className='mt-3'></p>
-                    <p className='mt-3'></p>
-                    <p className='mt-3'></p>
                     </div>
                   </div>
                 <div className='col-3'></div>
