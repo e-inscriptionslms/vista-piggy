@@ -27,7 +27,7 @@ function App() {
         <Route path={Route_Path.WEIRD} element={<CategoriesPage/>}/>
         <Route path={Route_Path.ENTERTAINMENT} element={<CategoriesPage/>}/>
         <Route path={Route_Path.HISTORY} element={<CategoriesPage/>}/>
-      <Route path={`${Route_Path.B1}/:id`} element={<BlogPage/>}/>
+      <Route path={`${Route_Path.B1}/:slug`} element={<BlogPage/>}/>
       </Route>
       </Route>
       <Route path='*' element={<NotFound/>}/>

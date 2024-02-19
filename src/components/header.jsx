@@ -1,7 +1,6 @@
-import React from 'react'
+import React from 'react';
 import { Link } from 'react-router-dom';
 import {Route_Path} from '../RoutePath/routepath';
-import { categroiesdata } from '../data/categroiesdata';
 
 function Header() {
     return (
@@ -23,12 +22,12 @@ function Header() {
                                 <li><Link to={`${Route_Path.BLOG}/${Route_Path.HISTORY}`}>History</Link></li>
                             </ul>
                         </div>
-                        <div class="pull-right flip hidden-sm hidden-xs mt-18">
-                            <div class="m-0" style={{display: "flex", gap: "15px"}}>
-                                <input id="dynamicInput" type="text" value="" placeholder="" class="form-control"
+                        <div className="pull-right flip hidden-sm hidden-xs mt-18">
+                            <div className="m-0" style={{display: "flex", gap: "15px"}}>
+                                <input id="dynamicInput" type="text" placeholder="" className="form-control"
                                     style={{width: "240px"}}/>
-                                    <button class="search-btn">
-                                        <i class="fa-solid fa-magnifying-glass"></i>
+                                    <button className="search-btn">
+                                        <i className="fa-solid fa-magnifying-glass"></i>
                                     </button>
                             </div>
                         </div>

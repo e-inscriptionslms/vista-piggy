@@ -1,5 +1,7 @@
 import React from 'react'
 import { bolgdata } from '../data/bolgdata'
+import { Link } from 'react-router-dom'
+import { Route_Path } from '../RoutePath/routepath'
 
 const Catagories = ({item}) => {
    let data =  bolgdata?.filter((ele)=>ele.cate_name === item)
@@ -14,23 +16,29 @@ const Catagories = ({item}) => {
                         <div className="row">
                             <div className="col-lg-6">
                                 <div className="row">
-                                    {data?.length>=1?<div
+                                    {data && data?.length>=1?
+                                    <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length-1]?.slug}`}>
+                                    <div
                                         className="col-sm-6 shadow p-1"
                                         data-aos="fade-right"
                                         data-aos-duration={2000}
                                     >
+                                        
                                         <img
                                             src="http://localhost:3000/images/Dawadawa-Parkia-Biglobosa-Weird-Flowers-1-740x400.webp"
                                             style={{ width: "100%", objectFit: "cover" }}
+                                            alt='img2'
                                         />
                                         <p className="category_contantimg">{item}</p>
-                                        <h3>{data[data.length-1]?.title}</h3>
-                                        <p>
-                                        {data[data.length-1]?.base_title}
+                                        <h3 className='h3hover'>{data && data[data.length-1]?.title}</h3>
+                                        <p >
+                                        {data && data[data.length-1]?.base_title}
                                         </p>
-                                        <p>Editorial Staff {data[data.length-1]?.date}</p>
-                                    </div>:""}
-                                   {data?.length>=2?<div
+                                        <p>Editorial Staff {data && data[data.length-1]?.date}</p>
+                                    </div>
+                                    </Link>:""}
+                                   {data && data?.length>=2?
+                                   <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length-2]?.slug}`}>                                   <div
                                         className="col-sm-6 shadow p-1"
                                         data-aos="fade-left"
                                         data-aos-duration={2000}
@@ -38,15 +46,19 @@ const Catagories = ({item}) => {
                                         <img
                                             src="http://localhost:3000/images/Dawadawa-Parkia-Biglobosa-Weird-Flowers-1-740x400.webp"
                                             style={{ width: "100%", objectFit: "cover" }}
+                                            alt='img2'
                                         />
                                         <p className="category_contantimg">{item}</p>
-                                        <h3>{data[data.length-2]?.title}</h3>
+                                        <h3>{data && data[data.length-2]?.title}</h3>
                                         <p>
-                                        {data[data.length-2]?.base_title}
+                                        {data && data[data.length-2]?.base_title}
                                         </p>
-                                        <p>Editorial Staff {data[data.length-2]?.date}</p>
-                                    </div>:""}
-                                   {data?.length>=3?<div
+                                        <p>Editorial Staff {data && data[data.length-2]?.date}</p>
+                                    </div>
+                                    </Link>:""}
+                                   {data && data?.length>=3?
+                                   <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length-3]?.slug}`}>
+                                   <div
                                         className="col-sm-4 shadow p-1"
                                         data-aos="flip-up"
                                         data-aos-duration={2000}
@@ -54,12 +66,16 @@ const Catagories = ({item}) => {
                                         <img
                                             src="http://localhost:3000/images/Horse-With-Blue-Eyes-280x210.webp"
                                             style={{ width: "100%", objectFit: "cover" }}
+                                            alt='img2'
                                         />
                                         <p className="category_contantimg">{item}</p>
-                                        <h3>{data[data.length-3]?.title}</h3>
-                                        <p>Editorial Staff {data[data.length-3]?.date}</p>
-                                    </div>:""}
-                                    {data?.length>=4?<div
+                                        <h3>{data && data[data.length-3]?.title}</h3>
+                                        <p>Editorial Staff {data && data[data.length-3]?.date}</p>
+                                    </div>
+                                    </Link>:""}
+                                    {data && data?.length>=4?
+                                    <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length-4]?.slug}`}>
+                                    <div
                                         className="col-sm-4 shadow p-1"
                                         data-aos="flip-up"
                                         data-aos-duration={2000}
@@ -67,12 +83,16 @@ const Catagories = ({item}) => {
                                         <img
                                             src="http://localhost:3000/images/Horse-With-Blue-Eyes-280x210.webp"
                                             style={{ width: "100%", objectFit: "cover" }}
+                                            alt='img2'
                                         />
                                         <p className="category_contantimg">{item}</p>
-                                        <h3>{data[data.length-4]?.title}</h3>
-                                        <p>Editorial Staff {data[data.length-4]?.base_title}</p>
-                                    </div>:""}
-                                    {data?.length>=5?<div
+                                        <h3>{data && data[data.length-4]?.title}</h3>
+                                        <p>Editorial Staff {data && data[data.length-4]?.base_title}</p>
+                                    </div>
+                                    </Link>:""}
+                                    {data && data?.length>=5?
+                                    <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length-5]?.slug}`}>
+                                    <div
                                         className="col-sm-4 shadow p-1"
                                         data-aos="flip-up"
                                         data-aos-duration={2000}
@@ -80,14 +100,18 @@ const Catagories = ({item}) => {
                                         <img
                                             src="http://localhost:3000/images/Horse-With-Blue-Eyes-280x210.webp"
                                             style={{ width: "100%", objectFit: "cover" }}
+                                            alt='img2'
                                         />
                                         <p className="category_contantimg">{item}</p>
-                                        <h3>{data[data.length-5]?.title}</h3>
-                                        <p>Editorial Staff {data[data.length-5]?.date}</p>
-                                    </div>:""}
+                                        <h3>{data && data[data.length-5]?.title}</h3>
+                                        <p>Editorial Staff {data && data[data.length-5]?.date}</p>
+                                    </div>
+                                    </Link>:""}
                                 </div>
                             </div>
-                            {data?.length>=6?<div
+                            {data && data?.length>=6?
+                            <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length-6]?.slug}`}>
+                            <div
                                 className="col-lg-6 shadow p-1"
                                 data-aos="flip-left"
                                 data-aos-easing="ease-out-cubic"
@@ -96,13 +120,15 @@ const Catagories = ({item}) => {
                                 <img
                                     src="http://localhost:3000/images/Yakumama-Vs-Titanboa-1-740x400.webp"
                                     style={{ width: "100%", height: 680 }}
+                                    alt='img2'
                                 />
-                                <h3>{data[data.length-6]?.title}</h3>
+                                <h3>{data && data[data.length-6]?.title}</h3>
                                 <p>
-                                {data[data.length-6]?.base_title}
+                                {data && data[data.length-6]?.base_title}
                                 </p>
-                                <p>Editorial Staff {data[data.length-6]?.date}</p>
-                            </div>:""}
+                                <p>Editorial Staff {data && data[data.length-6]?.date}</p>
+                            </div>
+                            </Link>:""}
                         </div>
                     </div>
                     <div className="col-sm-3 bg-primary" style={{ height: "100vh" }}></div>

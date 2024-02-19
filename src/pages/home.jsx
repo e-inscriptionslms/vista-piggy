@@ -1,14 +1,17 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Route_Path } from '../RoutePath/routepath';
 import { bolgdata } from '../data/bolgdata';
 import { Cate_data } from '../helper/helper';
 import Catagories from '../components/catagories';
 
-const Home = ({}) => {
+const Home = () => {
     const  [data ,setdata ] = useState(bolgdata) 
-    const [cate,setCate] = useState(Cate_data(data))
-    console.log(data)
+    const [cate,setCate] = useState(null)
+
+    useEffect(()=>{
+        setCate(Cate_data(data))
+    },[data])
 
     return (
         <>
@@ -22,16 +25,16 @@ const Home = ({}) => {
                                     data-aos="fade-top"
                                     data-aos-duration={2000}
                                 >
-                                    <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/123`}><div className="p-2 rounded-2 overflow-hidden header_img1 ">
+                                    <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data?.length-1]?.slug}`}><div className="p-2 rounded-2 overflow-hidden header_img1 ">
                                         <span className="mt-4 bg-danger text-white rounded-2 p-1">
-                                            {data[data.length-1]?.cate_name}
+                                            {data && data[data?.length-1]?.cate_name}
                                         </span>
                                         <div className="mt-7 text-white">
                                             <h5>
-                                               {data[data.length-1]?.title}
+                                               {data && data[data?.length-1]?.title}
                                             </h5>
                                             <span>Editorial Staff</span>
-                                            <span>{data[data.length-1]?.date}</span>
+                                            <span>{data && data[data?.length-1]?.date}</span>
                                         </div>
                                     </div>
                                     </Link>
@@ -41,18 +44,20 @@ const Home = ({}) => {
                                     data-aos="fade-top"
                                     data-aos-duration={2000}
                                 >
+                                    <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data?.length-2]?.slug}`}>
                                     <div className="p-2 rounded-2 overflow-hidden header_img2">
                                         <span className="mt-4 bg-danger text-white rounded-2 p-1">
-                                        {data[data.length-2]?.cate_name}
+                                        {data && data[data?.length-2]?.cate_name}
                                         </span>
                                         <div className="mt-7 text-white">
                                             <h5>
-                                            {data[data.length-2]?.title}
+                                            {data && data[data?.length-2]?.title}
                                             </h5>
                                             <span>Editorial Staff</span>
-                                            <span>{data[data.length-2]?.date}</span>
+                                            <span>{data && data[data?.length-2]?.date}</span>
                                         </div>
                                     </div>
+                                    </Link>
                                 </div>
                             </div>
                         </div>
@@ -63,36 +68,40 @@ const Home = ({}) => {
                                     data-aos="fade-top"
                                     data-aos-duration={2000}
                                 >
+                                    <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data?.length-3]?.slug}`}>
                                     <div className="bg-light p-3 rounded-2 border overflow-hidden header_img3">
                                         <span className="mt-4 bg-danger text-white rounded-2 p-1">
-                                        {data[data.length-3]?.cate_name}
+                                        {data && data[data?.length-3]?.cate_name}
                                         </span>
                                         <div className="mt-6 text-white">
                                             <h5>
-                                            {data[data.length-3]?.title}
+                                            {data && data[data?.length-3]?.title}
                                             </h5>
                                             <span>Editorial Staff</span>
-                                            <span>{data[data.length-3]?.date}</span>
+                                            <span>{data && data[data?.length-3]?.date}</span>
                                         </div>
                                     </div>
+                                    </Link>
                                 </div>
                                 <div
                                     className="col-12 p-1"
                                     data-aos="fade-top"
                                     data-aos-duration={2000}
                                 >
+                                    <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data?.length-4]?.slug}`}>
                                     <div className="bg-light p-3 rounded-2 border overflow-hidden header_img4">
                                         <span className="mt-4 bg-danger text-white rounded-2 p-1">
-                                        {data[data.length-4]?.cate_name}
+                                        {data && data[data?.length-4]?.cate_name}
                                         </span>
                                         <div className="mt-6 text-white">
                                             <h5>
-                                            {data[data.length-4]?.title}
+                                            {data && data[data?.length-4]?.title}
                                             </h5>
                                             <span>Editorial Staff</span>
-                                            <span>{data[data.length-4]?.date}</span>
+                                            <span>{data && data[data?.length-4]?.date}</span>
                                         </div>
                                     </div>
+                                    </Link>
                                 </div>
                             </div>
                         </div>

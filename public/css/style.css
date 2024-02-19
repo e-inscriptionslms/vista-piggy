@@ -213,3 +213,21 @@ ul{
 ul>li{
   color: white;
 }
+
+
+.h3hover{
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.h3hover:hover{
+  color: #f75050;
+}
+
+.row>a{
+  color: black;
+}
+
+.blog_img{
+  
+}
