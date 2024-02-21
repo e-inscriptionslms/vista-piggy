@@ -356,7 +356,7 @@ export const bolgdata = JSON.stringify([
         discritions: [
             {
                 title: "The Thanator's Colossal Size and Powerful Adaptations Make It The Undisputed Apex Predator in Pandora's Ecosystem",
-                image: "",
+                image: "images/entertainment/blog1/Palulukan animal.png",
                 contents: ["The Thanator is a colossal creature, reaching up to 24 feet (7.3 meters) in length and standing at a height of approximately 14 feet (4.3 meters). Its muscular body is covered in smooth, charcoal-gray skin, adorned with distinctive dark stripes that run along its body. The Thanator's sharp, serrated teeth and powerful jaws give it a formidable appearance, complemented by its imposing, bioluminescent yellow eyes. Its forelimbs are equipped with razor-sharp, curved claws, perfectly designed for capturing and subduing prey. The sheer size and imposing presence of the Thanator make it an unparalleled force in Pandora's ecosystem.",
                 ]
             },
@@ -370,7 +370,7 @@ export const bolgdata = JSON.stringify([
 
             {
                 title: " Thanator's Natural Camouflage and Disruptive Stripes Make It a Stealthy Predator, Enhancing Hunting Efficiency",
-                image: "",
+                image: "images/entertainment/blog1/Palulukan.png",
                 contents: ["One of the most intriguing aspects of the Thanator is its remarkable ability to blend seamlessly into its surroundings. Its skin possesses a natural camouflage, enabling it to disappear amidst the vibrant flora of Pandora's forests. The stripes on its body act as disruptive patterns, making it difficult for potential prey to detect its presence. This remarkable adaptation allows the Thanator to stalk its prey undetected, enhancing its hunting efficiency and increasing its chances of a successful kill.",
                 ]
             },
@@ -384,14 +384,14 @@ export const bolgdata = JSON.stringify([
 
             {
                 title: "Thanator's Flexible Diet, From Herbivores to Carnivores, Highlights Its Adaptability and Apex Predator Status in Pandora",
-                image: "",
+                image: "images/entertainment/blog1/Palulukan animal.png",
                 contents: ["Contrary to popular belief, the Thanator is not exclusively a carnivorous predator. While it primarily preys on the native herbivorous creatures of Pandora, it also exhibits omnivorous feeding habits. During periods of scarcity or when suitable prey is scarce, the Thanator can consume plant matter, such as fruits, leaves, and roots. This adaptability in diet showcases the creature's ability to sustain itself in challenging environments, further solidifying its position as Pandora's apex predator.",
                 ]
             },
 
             {
                 title: " Thanator prides: Alphas Lead, Females Nurture, and Subordinate Males Support Hunting, Ensuring Pandora's Ecosystem's Survival",
-                image: "",
+                image: "images/entertainment/blog1/Palulukans.png",
                 contents: ["The Thanator is not just a solitary hunter; it displays a complex social structure. Within its habitat, known as a pride, multiple Thanators can coexist in a hierarchical system. The dominant male, known as the Alpha, leads the pride and maintains control over breeding rights. Females play a vital role in nurturing and raising the young, while subordinate males assist in hunting and protecting the pride. This intricate social structure ensures cooperation and the survival of the species in the harsh and competitive environment of Pandora.",
                 ]
             },
@@ -405,7 +405,7 @@ export const bolgdata = JSON.stringify([
 
             {
                 title: "Thanators Use Low-Frequency Growls to Assert Dominance and Roaring Calls For Communication",
-                image: "",
+                image: "images/entertainment/blog1/Palulukan.png",
                 contents: ["Communication among Thanators involves a range of vocalizations. They emit low-frequency rumbling growls to establish dominance and assert their presence within the pride. Roaring calls serve as a means of communication between individuals, especially during territorial disputes or when calling for assistance. These vocalizations can travel vast distances through the dense forest, allowing the Thanators to maintain contact and coordinate their movements effectively. The intricate vocal repertoire of the Thanator demonstrates their advanced social interactions and reinforces the cohesion within the pride.",
                 ]
             },
@@ -514,7 +514,7 @@ export const bolgdata = JSON.stringify([
         discritions: [
             {
                 title: " Origin Of The Word 'Wyverns'",
-                image: "",
+                image: "images/mythology/blog4/wyvern dragon 1.png",
                 contents: ["The origin of the word 'wyverns' can be traced back to Old French, where it is derived from the term 'wyvre,' which means 'serpent' (snake). In heraldry, a wyvern is defined as a winged dragon with two legs and a barbed tail. The term 'wyvern' first appeared in Great Roll in 1312.",
 
                 ]
@@ -522,19 +522,19 @@ export const bolgdata = JSON.stringify([
 
             {
                 title: "Origins and Characteristics ",
-                image: "",
+                image: "images/mythology/blog4/wyvern mythical dragon 2.png",
                 contents: ["The wyvern dragon's origins can be traced back to medieval Europe, where it was often depicted in heraldry and literature. The wyvern dragon is typically depicted as a smaller and more ferocious version of the traditional dragon, with two legs instead of four. It is often depicted as a winged creature with a pointed tail that is used as a weapon. ",]
             },
             {
                 title: "Physical Description",
-                image: "",
+                image: "images/mythology/blog4/wyvern dragon mythology 3.png",
                 contents: ["A wyvern is a type of mythical dragon with two legs, two wings, and often a pointed tail which is said to be a venomous stinger. It is a popular creature in European literature, mythology, and folklore, and is often used in fantasy literature and video games. Unlike other dragons, wyverns are seldom fire-breathing creatures in heraldry and legend.",
                     "A wyvern is what academics refer to as a Dragonelle or Dragon-kin, despite the fact that it may  resemble a little dragon. This indicates that it lacks a breath weapon and has one or more  dragon-specific physical traits. Here a Wyvern is far less clever than its draconic kin, has only two legs (instead of four), and lacks the characteristic horns and scales of most dragons. ",]
             },
 
             {
                 title: "Special Abilities",
-                image: "",
+                image: "images/mythology/blog4",
                 contents: ["Wyverns can fly using their wings, which is a common ability among dragons and wyverns alike.",
                     "Venomous stinger at the tip of their tail, which they use to inject paralyzing venom into prey.",
                     "Wyverns can inject venom using small claws at the top of each foot",
@@ -546,7 +546,7 @@ export const bolgdata = JSON.stringify([
 
             {
                 title: "Symbolism and Influence",
-                image: "",
+                image: "images/mythology/blog4/wyvern dragon 5.png",
                 contents: ["The wyvern dragon has transcended geographical boundaries and epochs to emerge as a symbol of profound cultural and spiritual significance. Its timeless relevance lies in its ability to  encapsulate universal themes of power, strength, and the quest for higher truths. The wyvern dragon continues to influence contemporary culture and art, serving as a source of inspiration in various artistic expressions, from literature to video games.",]
             },
 
@@ -606,7 +606,6 @@ export const bolgdata = JSON.stringify([
                     "Their wingspan can be as large as 30 meters.",
                     "Wyverns are known to eat elephants, rhinos, and hippos",
                     "They live for over 100 years.",
-
                     "Wyverns are born brown and spiny, turning green or green-brown as adults. ",
                     "Wyvern eggs take 36 months to hatch.",
                     "Nomadic creatures, moving from place to place according to food availability",
@@ -614,7 +613,7 @@ export const bolgdata = JSON.stringify([
             },
             {
                 title: "Themes Associated With Wyverns In Modern Literature ",
-                image: "",
+                image: "images/mythology/blog4/wyvern dragon 5.png",
                 contents: ["Powerful and dangerous creatures: Wyverns are often depicted as powerful and dangerous creatures, with a venomous stinger at the end of their tail, setting them apart from dragons.",
                     "Symbols of power, strength, and the quest for higher truths: Wyverns are often used in modern times to represent power, strength, and the quest for higher truths.", "Differences from dragons: Wyverns are often depicted as a distinctive creature of legend, separate from dragons.",
                     "Modern interpretations: In modern times, the wyvern dragon has been interpreted in various ways, reflecting the diverse cultural and artistic influences that have shaped its mythology.",
@@ -632,14 +631,14 @@ export const bolgdata = JSON.stringify([
         title: "Aicha Kandicha: The Mysterious Moroccan Myth",
         slug: "aicha_kandicha",
         date: "feb 20, 2024",
-        image: " ",
+        image: "images/mythology/blog5/Aicha Kandicha 1.png",
         cate_name: "Mythologi",
         base_title: "Moroccan tradition features a female legendary person named Aicha Kandicha. Most depictions of her show her as a stunning young woman with the legs of a camel or goat. While accounts of Aicha Kandicha differ around Morocco, she is commonly believed to reside close to water sources and is claimed to exploit her beauty to entice local men before frightening or killing  them. There are a lot of myths about this creature.",
 
         discritions: [
             {
                 title: "- Origins and Variations ",
-                image: "",
+                image: "images/mythology/blog5/Aicha Kandicha 2.png",
                 contents: ["The origins of Aicha Kandicha are complex, with various regional interpretations. Some believe  she is a real person who lived during the Portuguese colonial era, while others suggest she is a  fairy or a demon. Her name has been associated with a Moroccan aristocrat who resisted     Portuguese occupation, as well as a countess or an Andalusian princess who fought against colonizers.",
                     " Believed to be a 16th-century countess from El Jadida who resisted Portuguese  colonization.",
                     "Some believe she was a Moroccan woman whose husband was killed by Portuguese  colonialism, leading her to become a fierce resistance fighter",
@@ -648,14 +647,14 @@ export const bolgdata = JSON.stringify([
             },
             {
                 title: "- Characteristics and Behavior",
-                image: "",
+                image: "images/mythology/blog5/Aicha Kandicha 3.png",
                 contents: ["Aicha Kandicha is typically described as a beautiful young woman with the legs of a hoofed  animal. She is said to use her beauty to seduce men, and then madden or kill them. Some  accounts suggest she is afraid of steel knives and needles, and that she has a male associate known as Hammu Qayyu. ",
 
                 ]
             },
             {
                 title: "Some Common Characteristics Of Aicha Kandicha In The Legend",
-                image: "",
+                image: "images/mythology/blog5/Aicha Kandicha In Popular Culture.png",
                 contents: ["A beautiful young woman with the legs of a hoofed animal such as a goat or camel.   ",
                     "Living near water sources, such as rivers, wells, or the sea",
                     "Seducing local men with her beauty, and then maddening or killing them.",
@@ -752,5 +751,5 @@ export const bolgdata = JSON.stringify([
 
         ]
     },
-    
+
 ])
