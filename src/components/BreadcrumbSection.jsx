@@ -1,6 +1,7 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
-const BreadcrumbSection = () => {
+const BreadcrumbSection = ({cate}) => {
     return (
         <>
             {/* Breadcrumb Section Begin */}
@@ -12,8 +13,8 @@ const BreadcrumbSection = () => {
                                 <div className="breadcrumb__text">
                                     <h2>Category</h2>
                                     <div className="breadcrumb__links">
-                                        <a href="#">Home</a>
-                                        <span>category</span>
+                                        <Link to="/">Home</Link>
+                                        <span>{cate}</span>
                                     </div>
                                 </div>
                             </div>

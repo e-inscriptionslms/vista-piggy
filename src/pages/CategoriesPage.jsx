@@ -7,7 +7,7 @@ import { bolgdata } from "../data/bolgdata";
 export default function CategoriesPage() {
    let cate = window.location.pathname.replace('/blog/','')
    console.log(cate);
-   let Data = bolgdata?.filter((item)=>item.cate_name === cate).reverse()
+   let Data = JSON.parse(bolgdata)?.filter((item)=>item.cate_name === cate).reverse()
    console.log(Data);
     return (
         <>
