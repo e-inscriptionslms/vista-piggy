@@ -166,27 +166,27 @@ export const bolgdata = JSON.stringify([
         title: "Are Sirens Real? Gruesome Facts About Dark Siren Mermaid",
         slug: "are-sirens-real",
         date: "September 03, 2023",
-        image: "",
+        image: "images/mythology/blog2/1.png",
         cate_name: "mythology",
         base_title: "Dark siren mermaids have been the stuff of stories and tales for a long time. People have been talking about these mysterious and fascinating creatures for generations. But here's the big question: Do they really exist? In this article, we're going to dig deep into the world of dark siren mermaids. We'll look at where these stories came from, the scary things people say about them, and whether there's any real proof behind these spooky legends.",
         discritions: [
             {
                 title: "What Are Dark Siren Mermaids?",
-                image: "",
+                image: "images/mythology/blog2/1.png",
                 contents: ["Dark siren mermaids are make-believe creatures that look pretty but are very dangerous. They have the upper part of a human and the lower part like a fish, just like the regular mermaids you might have heard of. These mythical creatures are famous for their beautiful singing, which can make people do things without thinking, like steering their boats into dangerous places. People often tell stories about them causing ships to crash and people to get hurt or even eaten. But it's important to know that these stories can be different depending on who's telling them, and they're not real, just like fairy tales.",
                 ]
             },
 
             {
                 title: "The Beginnings (Origins) of Dark Siren Mermaids in Ancient Stories and Mythology",
-                image: "",
+                image: "images/mythology/blog2/2.png",
                 contents: ["Sirens have a rich history in mythology, and their origins can be traced back to ancient Greece. In Greek mythology, sirens were originally portrayed as bird-women, not mermaids. These early sirens were companions of Persephone, the goddess of spring and the underworld. However, their enchanting voices and seductive songs proved to be problematic, leading to tragic consequences."
                 ]
             },
 
             {
                 title: "The Siren's Enchantment in Homer's Epic: Odysseus and His Crew Face the Alluring Danger of the Sirens",
-                image: "",
+                image: "images/mythology/blog2/3.png",
                 contents: ["In an old story called the  written by a famous poet named Homer, we follow the adventures of a hero named Odysseus and his brave crew. They were on a long journey back home after a big war called the Trojan War. During their trip, they bumped into the sirens. These sirens were tricky because they sang songs that were too beautiful to resist, and these songs made sailors crash their ships into dangerous rocks.",
                     "To stay safe, Odysseus had a clever plan. He told his loyal crew to stuff their ears with beeswax so they couldn't hear the sirens. But Odysseus wanted to hear the sirens' songs, so he did something daring. He asked his crew to tie him to the ship's mast, like a strong pole, so he couldn't do anything risky. This way, he could listen to the sirens without getting into trouble. This story shows us just how powerful and dangerous the sirens' singing could be for sailors.",
 
@@ -194,7 +194,7 @@ export const bolgdata = JSON.stringify([
             },
             {
                 title: " How Sirens Changed From Bird-Women to Mermaids in Roman Mythology?",
-                image: "",
+                image: "images/mythology/blog2/4.png",
                 contents: ["In ancient times, when people talked about sirens, they didn't look like the mermaids we often think of today. These early sirens were known as bird-women because they had the upper bodies of women but the lower bodies of birds.",
                     "However, things started to change when the stories about sirens traveled to Rome. In Roman mythology, sirens began to transform into something that more closely resembled the mermaids we know today. Instead of bird-like lower bodies, they now had fish-like tails, just like the lower half of a fish that we associate with mermaids.",
                     "This transformation from bird-women to mermaids likely happened because different cultures and people shared their stories and ideas. As these stories mixed together, sirens began to take on new shapes and forms.",
@@ -203,7 +203,7 @@ export const bolgdata = JSON.stringify([
             },
             {
                 title: "Sirens Around the World: From Greece to Norse Mythology and Beyond",
-                image: "",
+                image: "images/mythology/blog2/5.png",
                 contents: ["Siren stories didn't stick only to Greece and Rome. They took a journey to other parts of the world as well. In Norse mythology, which comes from the North, there's a creature called the 'huldra' that's a bit like a siren. The huldra is a forest-dwelling being, and just like sirens, she's known for her beauty and trickiness.",
                     "This shows us that sirens didn't stay the same everywhere. They changed as they traveled and met different cultures. It's like when you hear a story and then tell it to your friends, and they add their own twists to it. That's what happened with sirens.",
                     "So, sirens began as bird-women in Greece and ended up looking like mermaids. And they didn't stay in one place; their stories spread all over the world, taking on new forms and meanings in different cultures. These tales have been passed down for a very long time and have shaped the way we imagine mysterious and fascinating creatures like dark siren mermaids. This history helps us understand why people are still so intrigued by them today.",
@@ -211,7 +211,7 @@ export const bolgdata = JSON.stringify([
             },
             {
                 title: "Dark Siren Mermaids Sightings Throughout History",
-                image: "",
+                image: "images/mythology/blog2/6.png",
                 contents: ["The legends of mermaids have captured the imaginations of seafarers and storytellers for centuries, and among the many mermaid variations, one stands out as both mysterious and foreboding—the Dark Siren Mermaid. These enigmatic sea creatures have been reported in sightings and stories throughout history, weaving a complex tapestry of lore that continues to intrigue and terrify even the most seasoned sailors.",
                     "The earliest documented accounts of Dark Siren Mermaids date back to ancient Greece, where sailors returning from long voyages spoke of hauntingly beautiful women with fish-like tails who would sing irresistible songs. These songs, it was said, would lure sailors to their doom, causing ships to crash upon the treacherous rocks. The connection between the sirens and mermaids in these early tales is unclear, but it laid the groundwork for the merging of these legends over time.",
                     "One of the most famous accounts of Dark Siren Mermaids comes from the medieval period, during the Age of Exploration. As European sailors ventured further into the unknown waters of the world, their encounters with these creatures became more frequent. Tales of Dark Siren Mermaids emerged as a potent blend of myth and reality. These mermaids were described as ethereal beings, with beguiling voices that seemed to beckon sailors towards their demise. Ships would often return with eerie accounts of phantom-like figures hovering above the waves, singing haunting melodies that cast a spell on the crew.",
@@ -221,7 +221,7 @@ export const bolgdata = JSON.stringify([
             },
             {
                 title: " Scary Facts About Dark Siren Mermaids You Should Know",
-                image: "",
+                image: "images/mythology/blog2/7.png",
                 contents: ["Dark Siren Mermaids are known for their mesmerizing beauty, which they use to lure unsuspecting sailors and travelers into the depths of the sea. Their captivating songs and alluring voices are said to be irresistible, causing those who hear them to become entranced and drawn to their doom.",
                     "Despite their enchanting appearance, Dark Siren Mermaids are ruthless predators. They often feed on the flesh of humans who fall under their spell, either by drowning them or tearing them apart with their sharp, jagged teeth.",
                     "Some legends describe Dark Siren Mermaids as having grotesque physical features, such as elongated, skeletal fingers with sharp talons, webbed hands with razor-sharp claws, and mouths filled with rows of serrated teeth.",
@@ -237,7 +237,7 @@ export const bolgdata = JSON.stringify([
             },
             {
                 title: " Dark Siren Mermaids in Pop Culture (How They Became Part of Modern Entertainment)",
-                image: "",
+                image: "images/mythology/blog2/8.png",
                 contents: ["Dark Siren Mermaids frequently appear in fantasy and horror literature. Authors like H.P. Lovecraft in his story 'The Shadow over Innsmouth' and Neil Gaiman in 'Coraline' have incorporated eerie mermaid-like creatures with dark motives.",
                     "In young adult fiction, Amanda Hocking's 'Wake' series explores the world of malevolent mermaids who lure humans to their watery demise.",
                     "Dark Siren Mermaids have been featured in several films, often as antagonists or elements of horror. One notable example is the 2011 film The Little Mermaid: ARIEL'S BEGINNING,' which introduced a group' of menacing sea witches known as the 'Sisters of the Dark.'",
@@ -253,7 +253,7 @@ export const bolgdata = JSON.stringify([
             },
             {
                 title: "Dark Siren Mermaids in Pop Culture (How They Became Part of Modern Entertainment)",
-                image: "",
+                image: "images/mythology/blog2/9.png",
                 contents: ["Dark Siren Mermaids, as they are commonly portrayed in mythology, folklore, and pop culture, are not real. They are entirely mythical and exist only in the realm of imagination and storytelling. These creatures are often depicted as enchanting but malevolent mermaids who use their beauty, seductive voices, and supernatural abilities to lure sailors and travelers to their doom, either by drowning them or feasting on their flesh.",
                     "There is no scientific evidence to support the existence of mermaids, let alone mermaids with dark and predatory characteristics. The study of marine biology and oceanography has not discovered any evidence of humanoid, half-human, half-fish creatures living in the world's oceans.",
                     "The concept of mermaids has a long history in various cultures, often as part of mythological and folkloric traditions. These stories were used to explain natural phenomena, caution against the dangers of the sea, or explore human fears and desires. They were not meant to be taken as literal accounts of real creatures.",
@@ -350,13 +350,13 @@ export const bolgdata = JSON.stringify([
         title: "Thanator (Palulukan): The True King of Pandora's Jungle – 10 Incredible Facts You Never Knew",
         slug: "Thanator-(Palulukan)",
         date: "june 11, 2023",
-        image: "images/entertainment/blog1/Palulukan animals.png",
+        image: "images/entertainment/blog1/1.png",
         cate_name: "entertainment",
         base_title: "In the enchanting world of Pandora, a moon in the Alpha Centauri star system, the ecosystem is teeming with extraordinary creatures. One such remarkable creature is the Thanator, also known as the Palulukan. As Pandora's apex predator, the Thanator is a fearsome and awe-inspiring creature that dominates the planet's lush forests. In this article, we will delve into the intriguing world of the Thanator and uncover ten fascinating facts about this enigmatic creature. From its physical characteristics to its hunting strategies, the Thanator showcases the marvels of Pandora's diverse and unique wildlife.",
         discritions: [
             {
                 title: "The Thanator's Colossal Size and Powerful Adaptations Make It The Undisputed Apex Predator in Pandora's Ecosystem",
-                image: "images/entertainment/blog1/Palulukan animal.png",
+                image: "images/entertainment/blog1/1.png",
                 contents: ["The Thanator is a colossal creature, reaching up to 24 feet (7.3 meters) in length and standing at a height of approximately 14 feet (4.3 meters). Its muscular body is covered in smooth, charcoal-gray skin, adorned with distinctive dark stripes that run along its body. The Thanator's sharp, serrated teeth and powerful jaws give it a formidable appearance, complemented by its imposing, bioluminescent yellow eyes. Its forelimbs are equipped with razor-sharp, curved claws, perfectly designed for capturing and subduing prey. The sheer size and imposing presence of the Thanator make it an unparalleled force in Pandora's ecosystem.",
                 ]
             },
@@ -370,7 +370,7 @@ export const bolgdata = JSON.stringify([
 
             {
                 title: " Thanator's Natural Camouflage and Disruptive Stripes Make It a Stealthy Predator, Enhancing Hunting Efficiency",
-                image: "images/entertainment/blog1/Palulukan.png",
+                image: "images/entertainment/blog1/3.png",
                 contents: ["One of the most intriguing aspects of the Thanator is its remarkable ability to blend seamlessly into its surroundings. Its skin possesses a natural camouflage, enabling it to disappear amidst the vibrant flora of Pandora's forests. The stripes on its body act as disruptive patterns, making it difficult for potential prey to detect its presence. This remarkable adaptation allows the Thanator to stalk its prey undetected, enhancing its hunting efficiency and increasing its chances of a successful kill.",
                 ]
             },
@@ -384,14 +384,14 @@ export const bolgdata = JSON.stringify([
 
             {
                 title: "Thanator's Flexible Diet, From Herbivores to Carnivores, Highlights Its Adaptability and Apex Predator Status in Pandora",
-                image: "images/entertainment/blog1/Palulukan animal.png",
+                image: "images/entertainment/blog1/5.png",
                 contents: ["Contrary to popular belief, the Thanator is not exclusively a carnivorous predator. While it primarily preys on the native herbivorous creatures of Pandora, it also exhibits omnivorous feeding habits. During periods of scarcity or when suitable prey is scarce, the Thanator can consume plant matter, such as fruits, leaves, and roots. This adaptability in diet showcases the creature's ability to sustain itself in challenging environments, further solidifying its position as Pandora's apex predator.",
                 ]
             },
 
             {
                 title: " Thanator prides: Alphas Lead, Females Nurture, and Subordinate Males Support Hunting, Ensuring Pandora's Ecosystem's Survival",
-                image: "images/entertainment/blog1/Palulukans.png",
+                image: "images/entertainment/blog1/6.png",
                 contents: ["The Thanator is not just a solitary hunter; it displays a complex social structure. Within its habitat, known as a pride, multiple Thanators can coexist in a hierarchical system. The dominant male, known as the Alpha, leads the pride and maintains control over breeding rights. Females play a vital role in nurturing and raising the young, while subordinate males assist in hunting and protecting the pride. This intricate social structure ensures cooperation and the survival of the species in the harsh and competitive environment of Pandora.",
                 ]
             },
@@ -405,7 +405,7 @@ export const bolgdata = JSON.stringify([
 
             {
                 title: "Thanators Use Low-Frequency Growls to Assert Dominance and Roaring Calls For Communication",
-                image: "images/entertainment/blog1/Palulukan.png",
+                image: "images/entertainment/blog1/8.png",
                 contents: ["Communication among Thanators involves a range of vocalizations. They emit low-frequency rumbling growls to establish dominance and assert their presence within the pride. Roaring calls serve as a means of communication between individuals, especially during territorial disputes or when calling for assistance. These vocalizations can travel vast distances through the dense forest, allowing the Thanators to maintain contact and coordinate their movements effectively. The intricate vocal repertoire of the Thanator demonstrates their advanced social interactions and reinforces the cohesion within the pride.",
                 ]
             },
@@ -417,7 +417,7 @@ export const bolgdata = JSON.stringify([
             },
             {
                 title: " The Thanator: A Cultural and Ecological Icon of Pandora",
-                image: "",
+                image: "images/entertainment/blog1/10.png",
                 contents: ["The Thanator holds significant cultural and mythological importance among the indigenous Na'vi people of Pandora. It is revered as a symbol of strength, power, and connection to the natural world. Depictions of the Thanator can be found in traditional artwork, stories, and rituals, representing the harmony between nature and the Na'vi people. The Na'vi hold a deep respect for the apex predator, recognizing its crucial role in maintaining the delicate balance of Pandora's ecosystem. The Thanator's presence in their cultural beliefs highlights its mystique and the deep intertwining of its existence with the planet's indigenous population.",
                 ]
             },
@@ -428,13 +428,13 @@ export const bolgdata = JSON.stringify([
         title: "The Magical Huma Bird: A Mythological Phenomenon",
         slug: "the_magical_huma_bird:",
         date: "feb 20, 2024",
-        image: " ",
+        image: "images/mythology/blog3/1.png ",
         cate_name: "Mythologi",
         base_title: "The Huma bird, a legendary creature of Persian mythology, has captivated the human imagination for centuries. This magnificent and elusive avian entity has left an indelible mark on the tapestry of human culture and spirituality.",
         discritions: [
             {
                 title: " - Origins and Characteristics",
-                image: "",
+                image: "images/mythology/blog3/1.png ",
                 contents: ["The Huma bird, a legendary creature of Persian mythology, is also mentioned in Hindu scriptures. In Hindu mythology, the Huma bird is described as a harbinger of transformation and spiritual awakening. It is believed to lay eggs in the sky, which hatch in mid-air, and the chick develops its eyes during its downward journey towards the earth. The chick then becomes onscious and gives out a shrill cry with the fear of dashing to the ground to encounter death. It stabilizes its movement and takes flight upwards towards its safest sanctuary, its mother.",
                     "The Huma bird in Hindu mythology is associated with the concept of kingship and good fortune. If the shadow of the Huma bird falls on someone, they are blessed with good fortune. If the bird  decides to sit on someone, it is considered an appointment of kingship.",
                 ]
@@ -448,7 +448,7 @@ export const bolgdata = JSON.stringify([
 
             {
                 title: " Significance Of Huma Bird In Hindu Scriptures",
-                image: "",
+                image: "images/mythology/blog3/3.png ",
                 contents: ["The Huma bird is considered a symbol of good fortune, luck, and prosperity in Persian and Hindu mythology. Its shadow is believed to be auspicious, and anyone who comes under its shadow is said to become a king. The Huma bird is also associated with royalty and crowning new kings. Persian literature and Sufi poets refer to this bird as a divine bird. A gem-studded copy of this bird was put in the throne of Tipu Sultan of Mysore due to the legend's widespread dissemination throughout time and space.",
                     "The Huma bird is a symbol of metamorphosis and self-discovery in literature, which is indicative of its ongoing appeal. Furthermore, when it makes sporadic appearances in contemporary media, it captivates viewers by giving fictitious worlds complexity and mystery",]
             },
@@ -464,7 +464,7 @@ export const bolgdata = JSON.stringify([
 
             {
                 title: "How Huma Bird In Persian & Iranian Literature?",
-                image: "",
+                image: "images/mythology/blog3/5.png ",
                 contents: ["The Huma bird, a mythical creature of Persian and Hindu mythology, has been a source of wonder and inspiration for generations of writers and poets. In Persian literature, the Huma bird is often referred to as a 'bird of paradise'and is believed to bring good fortune and prosperity to those who witness it. Its magical quality is harnessed to add depth and mystique to fictional worlds, captivating audiences and inviting them to ponder the deeper meaning behind its symbolism.",
                     "In Hindu literature, the Huma bird is associated with the concept of kingship and good fortune. If the shadow of the Huma bird falls on someone, they are blessed with good fortune. If the bird decides to sit on someone, it is considered an appointment of kingship.",
                     "The Huma bird's enduring popularity is reflected in its presence in literature, where it serves as a symbol of transformation and self-discovery. For instance, in contemporary literature, authors  often draw upon the bird's symbolism to convey profound themes of transformation and self-discovery",
@@ -473,7 +473,7 @@ export const bolgdata = JSON.stringify([
 
             {
                 title: "Geographical Spread Of Huma Bird",
-                image: "",
+                image: "images/mythology/blog3/6.png ",
                 contents: ["The Huma bird, a legendary creature of Persian mythology, has also been mentioned in Hindu scriptures. Its origins are primarily in Persian mythology, where it is described as a divine bird that flies high in the sky but remains invisible to human eyes. The Huma bird is believed to have lived in ancient Iran.",
                     "The main geographic distribution of the Huma bird is seen in Persian and Hindu mythology.Turkish folklore and Sufi poetry both make reference to it. It has been connected to the European griffin and served as the inspiration for several folktales and myths that are still well-known today",]
             },
@@ -507,14 +507,14 @@ export const bolgdata = JSON.stringify([
         title: "Wyvern Dragon: Two-Legged Mythical Creature With Pointy Tail",
         slug: "wyvern_dragon",
         date: "feb 20, 2024",
-        image: " ",
+        image: "images/mythology/blog4/1.png",
         cate_name: "Mythologi",
         base_title: "The wyvern dragon is a legendary creature that has been a part of European mythology for centuries. It is a type of dragon that has two legs, two wings, and often a pointed tail that is said to be a venomous stinger.",
 
         discritions: [
             {
                 title: " Origin Of The Word 'Wyverns'",
-                image: "images/mythology/blog4/wyvern dragon 1.png",
+                image: "images/mythology/blog4/1.png",
                 contents: ["The origin of the word 'wyverns' can be traced back to Old French, where it is derived from the term 'wyvre,' which means 'serpent' (snake). In heraldry, a wyvern is defined as a winged dragon with two legs and a barbed tail. The term 'wyvern' first appeared in Great Roll in 1312.",
 
                 ]
@@ -534,7 +534,7 @@ export const bolgdata = JSON.stringify([
 
             {
                 title: "Special Abilities",
-                image: "images/mythology/blog4",
+                image: "images/mythology/blog4/4.png",
                 contents: ["Wyverns can fly using their wings, which is a common ability among dragons and wyverns alike.",
                     "Venomous stinger at the tip of their tail, which they use to inject paralyzing venom into prey.",
                     "Wyverns can inject venom using small claws at the top of each foot",
@@ -546,13 +546,13 @@ export const bolgdata = JSON.stringify([
 
             {
                 title: "Symbolism and Influence",
-                image: "images/mythology/blog4/wyvern dragon 5.png",
+                image: "",
                 contents: ["The wyvern dragon has transcended geographical boundaries and epochs to emerge as a symbol of profound cultural and spiritual significance. Its timeless relevance lies in its ability to  encapsulate universal themes of power, strength, and the quest for higher truths. The wyvern dragon continues to influence contemporary culture and art, serving as a source of inspiration in various artistic expressions, from literature to video games.",]
             },
 
             {
                 title: "Different Interpretations Of The Wyvern In Modern Times",
-                image: "",
+                image: "images/mythology/blog4/6.png",
                 contents: ["",]
             },
 
@@ -593,7 +593,7 @@ export const bolgdata = JSON.stringify([
 
             {
                 title: "Habitat and Ecology of Wyvern Dragon ",
-                image: "",
+                image: "images/mythology/blog4/12.png",
                 contents: ["Wyverns are a species of venomous drakes known for their aggressive personalities. They are typically found in warm and temperate areas, particularly hills, although they can dwell in many  environments. Wyverns tend to make their homes in deep wooded forests, wild woodlands, or caverns in the mountains. They usually claim an area from 100 to 200 square miles as their     exclusive hunting territory and fight other wyverns to the death over their domain.   ",
                     "Wyverns are highly aggressive creatures, and though capable of speech, have little interest in conversation beyond taunting prey, issuing territorial challenges, or demanding tribute. They  are carnivores by nature and stalk their wooded homes looking for food and gaining the trust of  prey. When hunting, wyverns prefer to crash into their targets talon-first, as their resilient bodies take little damage from such collisions, in order to stun their prey before injecting it with venom or carrying it over a cliff.",]
             },
@@ -613,7 +613,7 @@ export const bolgdata = JSON.stringify([
             },
             {
                 title: "Themes Associated With Wyverns In Modern Literature ",
-                image: "images/mythology/blog4/wyvern dragon 5.png",
+                image: "images/mythology/blog4/14.png",
                 contents: ["Powerful and dangerous creatures: Wyverns are often depicted as powerful and dangerous creatures, with a venomous stinger at the end of their tail, setting them apart from dragons.",
                     "Symbols of power, strength, and the quest for higher truths: Wyverns are often used in modern times to represent power, strength, and the quest for higher truths.", "Differences from dragons: Wyverns are often depicted as a distinctive creature of legend, separate from dragons.",
                     "Modern interpretations: In modern times, the wyvern dragon has been interpreted in various ways, reflecting the diverse cultural and artistic influences that have shaped its mythology.",
