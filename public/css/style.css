@@ -128,7 +128,7 @@ a {
   /* margin-left: 5%;
     margin-top: 5%; */
   box-shadow: 1px 1px 10px 10px rgb(214, 211, 211);
-  background-color:rgba(246, 151, 151, 0.3) ;
+  background-color: rgba(246, 151, 151, 0.3);
 }
 
 .img6 {
@@ -192,42 +192,50 @@ a {
   background-image: url(../images/blog.webp)
 }
 
-.mt-7{
+.mt-7 {
   margin-top: 165px;
 }
-.mt-6{
+
+.mt-6 {
   margin-top: 33px;
 }
 
-.bg-theme{
+.bg-theme {
   background-color: #b30026;
 }
 
-.section-theme{
+.section-theme {
   background-color: rgba(246, 151, 151, 0.3)
 }
 
-ul{
+ul {
   list-style: none;
 }
-ul>li{
+
+ul>li {
   color: white;
 }
 
 
-.h3hover{
+.h3hover {
   cursor: pointer;
   transition: 0.5s;
 }
 
-.h3hover:hover{
+.h3hover:hover {
   color: #f75050;
 }
 
-.row>a{
+.row>a {
   color: black;
 }
 
-.blog_img{
-  
+.blog_img {}
+
+.nav_list {
+  gap: 20px;
+}
+
+.try {
+  flex-grow: 0 !important; 
 }
