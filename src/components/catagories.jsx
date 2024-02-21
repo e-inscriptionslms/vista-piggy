@@ -2,6 +2,7 @@ import React from 'react'
 import { bolgdata } from '../data/bolgdata'
 import { Link } from 'react-router-dom'
 import { Route_Path } from '../RoutePath/routepath'
+import { Base_Url } from '../helper/helper'
 
 const Catagories = ({ item }) => {
     let data = JSON.parse(bolgdata)?.filter((ele) => ele.cate_name === item)
@@ -23,9 +24,9 @@ const Catagories = ({ item }) => {
                                     >
                                         {data && data?.length >= 1 ?
                                             <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 1]?.slug}`}>
-                                                <div className='shadow'>
+                                                <div className='shadow p-1'>
                                                     <img
-                                                        src="http://localhost:3000/images/Dawadawa-Parkia-Biglobosa-Weird-Flowers-1-740x400.webp"
+                                                        src={`${Base_Url()}/${data && data[data.length - 1]?.image}`}
                                                         style={{ width: "100%", objectFit: "cover" }}
                                                         alt='img2'
                                                     />
@@ -45,9 +46,9 @@ const Catagories = ({ item }) => {
                                     >
                                     {data && data?.length >= 2 ?
                                             <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 2]?.slug}`}>
-                                                <div className='shadow'>
+                                                <div className='shadow p-1'>
                                                     <img
-                                                        src="http://localhost:3000/images/Dawadawa-Parkia-Biglobosa-Weird-Flowers-1-740x400.webp"
+                                                        src={`${Base_Url()}/${data && data[data.length - 2]?.image}`}
                                                         style={{ width: "100%", objectFit: "cover" }}
                                                         alt='img2'
                                                     />
@@ -67,14 +68,15 @@ const Catagories = ({ item }) => {
                                     >
                                         {data && data?.length >= 3 ?
                                             <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 3]?.slug}`}>
-                                                <div className='shadow'>
+                                                <div className='shadow p-1'>
                                                     <img
-                                                        src="http://localhost:3000/images/Horse-With-Blue-Eyes-280x210.webp"
+                                                        src={`${Base_Url()}/${data && data[data.length - 3]?.image}`}
                                                         style={{ width: "100%", objectFit: "cover" }}
                                                         alt='img2'
                                                     />
                                                     <p className="category_contantimg">{item}</p>
                                                     <h3>{data && data[data.length - 3]?.title}</h3>
+                                                    <p>{data && data[data.length - 3]?.base_title}</p>
                                                     <p>Editorial Staff {data && data[data.length - 3]?.date}</p>
                                                 </div>
                                             </Link> : ""}
@@ -86,15 +88,16 @@ const Catagories = ({ item }) => {
                                     >
                                         {data && data?.length >= 4 ?
                                             <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 4]?.slug}`}>
-                                                <div className='shadow'>
+                                                <div className='shadow p-1'>
                                                     <img
-                                                        src="http://localhost:3000/images/Horse-With-Blue-Eyes-280x210.webp"
+                                                        src={`${Base_Url()}/${data && data[data.length - 4]?.image}`}
                                                         style={{ width: "100%", objectFit: "cover" }}
                                                         alt='img2'
                                                     />
                                                     <p className="category_contantimg">{item}</p>
                                                     <h3>{data && data[data.length - 4]?.title}</h3>
-                                                    <p>Editorial Staff {data && data[data.length - 4]?.base_title}</p>
+                                                    <p>{data && data[data.length - 4]?.base_title}</p>
+                                                    <p>Editorial Staff {data && data[data.length - 4]?.date}</p>
                                                 </div>
                                             </Link> : ""}
                                     </div>
@@ -105,15 +108,16 @@ const Catagories = ({ item }) => {
                                     >
                                         {data && data?.length >= 5 ?
                                             <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 5]?.slug}`}>
-                                                <div className='shadow'>
+                                                <div className='shadow p-1'>
                                                     <img
-                                                        src="http://localhost:3000/images/Horse-With-Blue-Eyes-280x210.webp"
+                                                        src={`${Base_Url()}/${data && data[data.length - 5]?.image}`}
                                                         style={{ width: "100%", objectFit: "cover" }}
                                                         alt='img2'
                                                     />
                                                     <p className="category_contantimg">{item}</p>
                                                     <h3>{data && data[data.length - 5]?.title}</h3>
-                                                    <p>Editorial Staff {data && data[data.length - 5]?.date}</p>
+                                                    <p>{data && data[data.length - 5]?.base_title}</p>
+                                                    <p>{data && data[data.length - 5]?.date}</p>
                                                 </div>
                                             </Link> : ""}
                                     </div>
@@ -127,9 +131,9 @@ const Catagories = ({ item }) => {
                             >
                                 {data && data?.length >= 6 ?
                                     <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 6]?.slug}`}>
-                                        <div className='shadow'>
+                                        <div className='shadow p-1'>
                                             <img
-                                                src="http://localhost:3000/images/Yakumama-Vs-Titanboa-1-740x400.webp"
+                                                src={`${Base_Url()}/${data && data[data.length - 6]?.image}`}
                                                 style={{ width: "100%", height: 680 }}
                                                 alt='img2'
                                             />

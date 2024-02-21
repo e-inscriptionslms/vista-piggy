@@ -273,7 +273,7 @@ export const bolgdata = JSON.stringify([
         date: "September 01, 2023",
         image: "images/mythology/blog1/Bai Ze Chinese Mythical Creature.png",
         cate_name: "mythology",
-        base_title: " Myths and legends from various cultures around the world have always captivated our imaginations. These fascinating tales introduce us to creatures beyond our reality, often endowed with extraordinary abilities and symbolic meanings. Among these legendary beings, Bai Ze stands as a prominent figure from Chinese folklore, known for its wisdom and foresight. However, as we journey through the vast landscape of mythology, we discover that Bai Ze is not alone in its role as a creature of divination and knowledge.So, in this article, we'll explore Bai Ze's story, its unique features, why it's important in Chinese culture, and how it continues to be remembered in stories and traditions, both in China and around the world.",
+        base_title: "Myths and legends from various cultures around the world have always captivated our imaginations. These fascinating tales introduce us to creatures beyond our reality, often endowed with extraordinary abilities and symbolic meanings. Among these legendary beings, Bai Ze stands as a prominent figure from Chinese folklore, known for its wisdom and foresight. However, as we journey through the vast landscape of mythology, we discover that Bai Ze is not alone in its role as a creature of divination and knowledge.So, in this article, we'll explore Bai Ze's story, its unique features, why it's important in Chinese culture, and how it continues to be remembered in stories and traditions, both in China and around the world.",
         discritions: [
             {
                 title: " Who is 'Bai Ze' or What does it Represent In Chinese Mythology?",
@@ -639,7 +639,7 @@ export const bolgdata = JSON.stringify([
             {
                 title: "- Origins and Variations ",
                 image: "images/mythology/blog5/Aicha Kandicha 2.png",
-                contents: ["The origins of Aicha Kandicha are complex, with various regional interpretations. Some believe  she is a real person who lived during the Portuguese colonial era, while others suggest she is a  fairy or a demon. Her name has been associated with a Moroccan aristocrat who resisted     Portuguese occupation, as well as a countess or an Andalusian princess who fought against colonizers.",
+                contents: ["The origins of Aicha Kandicha are complex, with various regional interpretations. Some believe  she is a real person who lived during the Portuguese colonial era, while others suggest she is a  fairy or a demon. Her name has been associated with a Moroccan aristocrat who resisted Portuguese occupation, as well as a countess or an Andalusian princess who fought against colonizers.",
                     " Believed to be a 16th-century countess from El Jadida who resisted Portuguese  colonization.",
                     "Some believe she was a Moroccan woman whose husband was killed by Portuguese  colonialism, leading her to become a fierce resistance fighter",
                     "There are also interpretations that she is a fairy with a beautiful female body and the feet of a she-camel or a goat, living in places near water sources such as valleys and wells",
@@ -648,9 +648,7 @@ export const bolgdata = JSON.stringify([
             {
                 title: "- Characteristics and Behavior",
                 image: "images/mythology/blog5/Aicha Kandicha 3.png",
-                contents: ["Aicha Kandicha is typically described as a beautiful young woman with the legs of a hoofed  animal. She is said to use her beauty to seduce men, and then madden or kill them. Some  accounts suggest she is afraid of steel knives and needles, and that she has a male associate known as Hammu Qayyu. ",
-
-                ]
+                contents: ["Aicha Kandicha is typically described as a beautiful young woman with the legs of a hoofed  animal. She is said to use her beauty to seduce men, and then madden or kill them. Some  accounts suggest she is afraid of steel knives and needles, and that she has a male associate known as Hammu Qayyu. " ]
             },
             {
                 title: "Some Common Characteristics Of Aicha Kandicha In The Legend",
