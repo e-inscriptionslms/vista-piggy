@@ -429,7 +429,7 @@ export const bolgdata = JSON.stringify([
         slug: "the_magical_huma_bird:",
         date: "feb 20, 2024",
         image: "images/mythology/blog3/1.png ",
-        cate_name: "Mythologi",
+        cate_name: "mythology",
         base_title: "The Huma bird, a legendary creature of Persian mythology, has captivated the human imagination for centuries. This magnificent and elusive avian entity has left an indelible mark on the tapestry of human culture and spirituality.",
         discritions: [
             {
@@ -508,7 +508,7 @@ export const bolgdata = JSON.stringify([
         slug: "wyvern_dragon",
         date: "feb 20, 2024",
         image: "images/mythology/blog4/1.png",
-        cate_name: "Mythologi",
+        cate_name: "mythology",
         base_title: "The wyvern dragon is a legendary creature that has been a part of European mythology for centuries. It is a type of dragon that has two legs, two wings, and often a pointed tail that is said to be a venomous stinger.",
 
         discritions: [
@@ -632,7 +632,7 @@ export const bolgdata = JSON.stringify([
         slug: "aicha_kandicha",
         date: "feb 20, 2024",
         image: "images/mythology/blog5/Aicha Kandicha 1.png",
-        cate_name: "Mythologi",
+        cate_name: "mythology",
         base_title: "Moroccan tradition features a female legendary person named Aicha Kandicha. Most depictions of her show her as a stunning young woman with the legs of a camel or goat. While accounts of Aicha Kandicha differ around Morocco, she is commonly believed to reside close to water sources and is claimed to exploit her beauty to entice local men before frightening or killing  them. There are a lot of myths about this creature.",
 
         discritions: [
