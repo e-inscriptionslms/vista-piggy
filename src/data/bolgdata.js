@@ -345,6 +345,7 @@ export const bolgdata = JSON.stringify([
         ]
     }
     ,
+
     {
         title: "Thanator (Palulukan): The True King of Pandora's Jungle – 10 Incredible Facts You Never Knew",
         slug: "Thanator-(Palulukan)",
@@ -750,5 +751,6 @@ export const bolgdata = JSON.stringify([
 
 
         ]
-    }
+    },
+    
 ])
