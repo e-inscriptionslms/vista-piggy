@@ -18,10 +18,10 @@ const Home = () => {
             <section id="bredcrum">
                 <div className="container-fluid p-4">
                     <div className="row mt-5 border section-theme">
-                        <div className="col-sm-12 col-md-6 col-lg-6 col-xl-6 p-3">
+                        <div className="col-sm-12 col-md-7 col-lg-7 col-xl-7 p-3">
                             <div className="row justify-content-evenly">
                                 <div
-                                    className="col-md-6 col-lg-6 col-xl-6 p-1"
+                                    className="col-md-7 col-lg-7 col-xl-7 p-1"
                                     data-aos="fade-top"
                                     data-aos-duration={2000}
                                 >
@@ -42,7 +42,7 @@ const Home = () => {
                                     </Link>
                                 </div>
                                 <div
-                                    className="col-md-6 col-lg-6 col-xl-6 p-1"
+                                    className="col-md-5 col-lg-5 col-xl-5 p-1"
                                     data-aos="fade-top"
                                     data-aos-duration={2000}
                                 >
@@ -64,7 +64,7 @@ const Home = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-sm-12 col-md-6 col-lg-6 col-xl-6 p-3">
+                        <div className="col-sm-12 col-md-5 col-lg-5 col-xl-5 p-3">
                             <div className="row justify-content-evenly gap-2">
                                 <div
                                     className="col-12 p-1"
