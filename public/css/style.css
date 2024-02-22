@@ -11,7 +11,7 @@ body {
   /* background-image: url("../images/Horse-With-Blue-Eyes-280x210.webp"); */
   background-repeat: no-repeat;
   background-size: cover;
-  height: 52vh;
+  height: 80vh;
   width: 100%;
 }
 
@@ -23,33 +23,33 @@ body {
   /* background-image: url("../images/Horse-With-Blue-Eyes-280x210.webp"); */
   background-repeat: no-repeat;
   background-size: cover;
-  height: 52vh;
+  height: 80vh;
 }
 
 .header_img3 {
   /* background-image: url("../images/Arawn-Celtic-God-Of-Life-And-Death-1-280x210.webp"); */
   background-repeat: no-repeat;
   background-size: cover;
-  height: 25vh;
+  height: 40vh;
 
 }
 
 .header_img4 {
   /* background-image: url("../images/Dawadawa-Parkia-Biglobosa-Weird-Flowers-1-740x400.webp"); */
-  height:25vh;
+  height:40vh;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .categorys {
   text-align: center;
-  background-color: #64485c;
+  background-color:#b30026;
   border-bottom-left-radius: 45px;
   border-bottom-right-radius: 45px;
 }
 
 .categorys h1 {
-  color: black;
+  color: white;
 }
 
 .category_contantimg {
@@ -118,7 +118,7 @@ a {
 }
 
 #bredcrum {
-  margin-top: 26px;
+  margin-top: -72px;
 }
 
 
