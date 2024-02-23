@@ -30,7 +30,7 @@ function Header() {
                             <li className="nav-item"><Link to={`${Route_Path.BLOG}/${Route_Path.ENTERTAINMENT}`}>Entertainment</Link></li>
                             <li className="nav-item"><Link to={`${Route_Path.BLOG}/${Route_Path.HISTORY}`}>History</Link></li>
                             <form className="d-flex">
-                                <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
+                                <input className="form-control me-2" id='dynamicInput' type="search" placeholder="Search" />
                                 <button className="btn btn-outline-secondary text-light" type="submit">Search</button>
                             </form>
                         </ul>

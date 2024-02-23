@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { bolgdata } from '../data/bolgdata'
 import { Link } from 'react-router-dom'
 import { Route_Path } from '../RoutePath/routepath'
@@ -44,7 +44,7 @@ const Catagories = ({ item }) => {
                                         data-aos="fade-left"
                                         data-aos-duration={2000}
                                     >
-                                    {data && data?.length >= 2 ?
+                                        {data && data?.length >= 2 ?
                                             <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 2]?.slug}`}>
                                                 <div className='shadow p-1'>
                                                     <img
@@ -148,7 +148,21 @@ const Catagories = ({ item }) => {
                         </div>
                     </div>
                     <div className="col-sm-3 p-1">
-                        <div className='bg-warning h-50'></div>
+                        <div className='bg-light h-50 p-2'>
+                            <h5>Related Post</h5>
+                            <ul className='p-0' style={{listStyle:"none"}}>
+                                {data && data?.map((item,index)=>(
+                                    <li className='p-1 mt-1'>
+                                    <Link to="">
+                                        <div className='d-flex justify-content-between align-items-center bg-sec rounded-1'>
+                                        <img className='ms-1' src={`${Base_Url()}/${item.image}`} alt="" height="70px" width="70px" />
+                                         <p>{item?.title}</p>
+                                        </div>
+                                    </Link>
+                                </li>
+                                ))}
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>

@@ -239,3 +239,24 @@ ul>li {
 .try {
   flex-grow: 0 !important; 
 }
+
+/* back to top button */
+  .back-to-top {
+    position: fixed;
+    right: 45px;
+    bottom: 45px;
+    z-index: 99;
+  }
+
+  /* related post bg color */
+
+  .bg-sec{
+    background-color: #e9e7e7;
+    transition: 0.8s;
+    color: #000;
+  }
+
+  .bg-sec:hover{
+    background-color: #eb5757;
+    color: #fff;
+  }
