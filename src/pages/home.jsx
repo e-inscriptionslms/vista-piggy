@@ -26,11 +26,13 @@ const Home = () => {
                                     data-aos-duration={2000}
                                 >
                                     <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data?.length - 1].slug}`}>
-                                        <div className="p-2 rounded-2 overflow-hidden header_img1 " style={{ backgroundImage: `url(${"'"}${Base_Url() + (data && data[data?.length - 1]?.image)}${"'"})` }}>
-                                            <span className="mt-4 bg-danger text-white rounded-2 p-1">
+                                        <div className="rounded-2 overflow-hidden header_img1" >
+                                            <span className="mt-4 bg-danger text-white rounded-2 p-1 img-breadcrum">
                                                 {data && data[data?.length - 1]?.cate_name}
                                             </span>
-                                            <div className="position-absolute fixed-bottom text-white p-1  ">
+                                            <img src={(data && data[data?.length - 1]?.image)} className='w-100 h-100' alt="" />
+
+                                            <div className=" fixed-bottom text-white p-1  ">
                                                 <h5 className='text-center'>
                                                     {data && data[data?.length - 1]?.title}
                                                 </h5>
@@ -47,10 +49,11 @@ const Home = () => {
                                     data-aos-duration={2000}
                                 >
                                     <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data?.length - 2].slug}`}>
-                                        <div className="p-2 rounded-2 overflow-hidden header_img2" style={{ backgroundImage: `url(${"'"}${Base_Url() + (data && data[data?.length - 2]?.image)}${"'"})` }}>
-                                            <span className="mt-4 bg-danger text-white rounded-2 p-1">
+                                        <div className="rounded-2 overflow-hidden header_img2">
+                                        <span className="mt-4 bg-danger text-white rounded-2 p-1 img-breadcrum">
                                                 {data && data[data?.length - 2]?.cate_name}
                                             </span>
+                                            <img src={(data && data[data?.length - 2]?.image)} className='w-100 h-100' alt="" />
                                             <div className="position-absolute fixed-bottom text-white p-1">
                                                 <h5 className='text-center' >
                                                     {data && data[data?.length - 2]?.title}
@@ -67,15 +70,16 @@ const Home = () => {
                         <div className="col-sm-12 col-md-5 col-lg-5 col-xl-5 p-3">
                             <div className="row justify-content-evenly gap-2">
                                 <div
-                                    className="col-12 p-1"
+                                    className="col-12 p-0"
                                     data-aos="fade-top"
                                     data-aos-duration={2000}
                                 >
                                     <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data?.length - 3].slug}`}>
-                                        <div className="bg-light p-3 rounded-2 border overflow-hidden header_img3" style={{ backgroundImage: `url(${"'"}${Base_Url() + (data && data[data?.length - 3]?.image)}${"'"})` }}>
-                                            <span className="mt-4 bg-danger text-white rounded-2 p-1">
+                                        <div className="bg-light rounded-2 border overflow-hidden header_img3">
+                                        <span className="mt-4 bg-danger text-white rounded-2 p-1 img-breadcrum">
                                                 {data && data[data?.length - 3]?.cate_name}
                                             </span>
+                                            <img src={(data && data[data?.length - 3]?.image)} className='w-100 h-100' alt="" />
                                             <div className="position-absolute fixed-bottom text-white p-1">
                                                 <h5 className='text-center'>
                                                     {data && data[data?.length - 3]?.title}
@@ -88,15 +92,16 @@ const Home = () => {
                                     </Link>
                                 </div>
                                 <div
-                                    className="col-12 p-1"
+                                    className="col-12 p-0"
                                     data-aos="fade-top"
                                     data-aos-duration={2000}
                                 >
                                     <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data?.length - 4].slug}`}>
-                                        <div className="bg-light p-3 rounded-2 border overflow-hidden header_img4" style={{ backgroundImage: `url(${"'"}${Base_Url() + (data && data[data?.length - 4]?.image)}${"'"})` }}>
-                                            <span className="mt-4 bg-danger text-white rounded-2 p-1">
+                                        <div className="bg-light rounded-2 border overflow-hidden header_img4">
+                                        <span className="mt-4 bg-danger text-white rounded-2 p-1 img-breadcrum">
                                                 {data && data[data?.length - 4]?.cate_name}
                                             </span>
+                                            <img src={(data && data[data?.length - 4]?.image)} className='w-100 h-100' alt="" />
                                             <div className="position-absolute fixed-bottom text-white p-1">
                                                 <h5 className='text-center'>
                                                     {data && data[data?.length - 4]?.title}
