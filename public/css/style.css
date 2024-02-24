@@ -44,9 +44,10 @@ body {
 .categorys {
   text-align: center;
   background-color:#b30026;
+  text-transform: uppercase;
 }
 
-.categorys h1 {
+.categorys h2 {
   color: white;
 }
 
@@ -281,4 +282,9 @@ ul>li {
   margin-top: 5%;
   box-shadow: 1px 1px 10px 10px rgb(243, 239, 239);
   background-color: rgba(246, 151, 151, 0.3);
+}
+
+.bottom-end{
+  position: absolute !important;
+  bottom: 0;
 }
