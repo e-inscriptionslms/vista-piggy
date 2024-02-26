@@ -12,14 +12,14 @@ const PaginationBlogCard = ({ data }) => {
                     </span>
                     <img
                         src={`${window.location.origin}/${data?.image}`}
-                        className="img6"
+                        className="img1"
                         alt='img1'
                     />
-                    <p className="Travel">{data?.cate_name}</p>
+                    {/* <p className="Travel">{data?.cate_name}</p> */}
                     <h3 className="p-1">
                         {data?.title}
                     </h3>
-                    <div className='d-flex justify-content-between mt-2 p-1 mt-4' >
+                    <div className='d-flex justify-content-between mt-2 p-1 mt-4 end' >
                         <p className="">{data?.date}</p>
                         <p className="">
                             <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data?.slug}`} className='btn btn-outline-danger'>read more</Link>
