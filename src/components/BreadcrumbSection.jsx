@@ -7,7 +7,7 @@ const BreadcrumbSection = ({data,cate}) => {
         <>
             {/* Breadcrumb Section Begin */}
             <section className="breadcrumb-section">
-                <div className="breadcrumb-option" style={{background:`url('${Base_Url()}/${data[data.length-1]?.image}')`}}>
+                <div className="breadcrumb-option" style={{background:`url('${Base_Url()}/${data[data?.length-1]?.image}')`}}>
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12">

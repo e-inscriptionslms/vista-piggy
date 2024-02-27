@@ -33,7 +33,7 @@ const BlogPage = () => {
                   <div key={index}>
                     <h3 className='text-danger'>{index + 1} .{item.title}</h3>
                     <img className='blog_img' src={Base_Url() + item.image} alt="img1" width="100%" />
-                    {item.contents?.map((item, index) => (
+                    {item?.contents?.map((item, index) => (
                       <p className='mt-3' key={index}>{item}</p>
                     ))}
                   </div>
