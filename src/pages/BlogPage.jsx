@@ -16,7 +16,7 @@ const BlogPage = () => {
   }, [blog_data])
   return (
     <>
-      <BreadcrumbSection cate={blog_data && blog_data?.cate_name} />
+      <BreadcrumbSection data={bolg_data} cate={blog_data && blog_data?.cate_name} />
       <div className="container mt-4 p-5">
         <div className='row'>
           <div className='col-9 p-3'>
