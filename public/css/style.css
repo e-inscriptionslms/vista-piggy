@@ -36,7 +36,7 @@ body {
 
 .header_img4 {
   /* background-image: url("../images/Dawadawa-Parkia-Biglobosa-Weird-Flowers-1-740x400.webp"); */
-  height:40vh;
+  height: 40vh;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -122,7 +122,7 @@ a {
 
 
 .div6 {
-  /* position: absolute; */
+  height: auto;
   border-radius: 20px;
   box-shadow: 1px 1px 10px 10px rgb(214, 211, 211);
   background-color: rgba(246, 151, 151, 0.3);
@@ -137,9 +137,9 @@ a {
 }
 
 
-.Travel {
+/* .Travel {
   margin: 2%;
-}
+} */
 
 .date {
   position: relative;
@@ -184,10 +184,6 @@ a {
   margin-right: 18px;
   display: inline-block;
   position: relative;
-}
-
-.blog {
-  background-image: url(../images/blog.webp)
 }
 
 .mt-7 {
@@ -235,32 +231,32 @@ ul>li {
 }
 
 .try {
-  flex-grow: 0 !important; 
+  flex-grow: 0 !important;
 }
 
 /* back to top button */
-  .back-to-top {
-    position: fixed;
-    right: 45px;
-    bottom: 45px;
-    z-index: 99;
-  }
+.back-to-top {
+  position: fixed;
+  right: 45px;
+  bottom: 45px;
+  z-index: 99;
+}
 
-  /* related post bg color */
+/* related post bg color */
 
-  .bg-sec{
-    background-color: #e9e7e7;
-    transition: 0.8s;
-    color: #000;
-  }
+.bg-sec {
+  background-color: #e9e7e7;
+  transition: 0.8s;
+  color: #000;
+}
 
-  .bg-sec:hover{
-    background-color: #eb5757;
-    color: #fff;
-  }
+.bg-sec:hover {
+  background-color: #eb5757;
+  color: #fff;
+}
 
 
-.img-breadcrum{
+.img-breadcrum {
   position: absolute;
   z-index: 1;
   /* margin-top: 16px; */
@@ -268,15 +264,16 @@ ul>li {
   left: 24px;
   top: 10px;
 }
-.fix{
-  position: absolute; 
+
+.fix {
+  position: absolute;
   bottom: 5px;
   /* right: 5px;
   width: 70px; 
   border: 0px solid #d6d6d6;  */
 }
 
-.div5{
+.div5 {
   height: 400px;
   border-radius: 15px;
   margin-top: 5%;
@@ -284,7 +281,14 @@ ul>li {
   background-color: rgba(246, 151, 151, 0.3);
 }
 
-.bottom-end{
+.bottom-end {
   position: absolute !important;
   bottom: 0;
+}
+
+
+.img1 {
+ border-radius: 20px;
+ width: 100%;
+ padding: 10px;
 }
