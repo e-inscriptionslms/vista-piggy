@@ -43,7 +43,7 @@ body {
 
 .categorys {
   text-align: center;
-  background-color:#b30026;
+  background:-webkit-linear-gradient(45deg,#b50128,#f4839b,#b50128);
   text-transform: uppercase;
 }
 
