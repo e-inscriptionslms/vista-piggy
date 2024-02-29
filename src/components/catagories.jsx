@@ -26,7 +26,7 @@ const Catagories = ({ item }) => {
                                                         style={{ width: "100%", objectFit: "cover" }}
                                                         alt='img2'
                                                     />
-                                                    <p className="category_contantimg">{item}</p>
+                                                    {/* <p className="category_contantimg">{item}</p> */}
                                                     <h5 className='h3hover mt-0'>{data && data[data.length - 1]?.title}</h5>
                                                     <p className='bottom-end'>Editorial Staff {data && data[data.length - 1]?.date}</p>
                                                 </div>
@@ -45,7 +45,7 @@ const Catagories = ({ item }) => {
                                                         style={{ width: "100%", objectFit: "cover" }}
                                                         alt='img2'
                                                     />
-                                                    <p className="category_contantimg">{item}</p>
+                                                    {/* <p className="category_contantimg">{item}</p> */}
                                                     <h5 className='h3hover'>{data && data[data.length - 2]?.title}</h5>
                                                     <p className='bottom-end'>Editorial Staff {data && data[data.length - 2]?.date}</p>
                                                 </div>
@@ -64,7 +64,7 @@ const Catagories = ({ item }) => {
                                                         style={{ width: "100%", objectFit: "cover" }}
                                                         alt='img2'
                                                     />
-                                                    <p className="category_contantimg">{item}</p>
+                                                    {/* <p className="category_contantimg">{item}</p> */}
                                                     <h5 className='h3hover'>{data && data[data.length - 3]?.title}</h5>
                                                     <p className='bottom-end'>Editorial Staff {data && data[data.length - 3]?.date}</p>
                                                 </div>
@@ -83,7 +83,7 @@ const Catagories = ({ item }) => {
                                                         style={{ width: "100%", objectFit: "cover" }}
                                                         alt='img2'
                                                     />
-                                                    <p className="category_contantimg">{item}</p>
+                                                    {/* <p className="category_contantimg">{item}</p> */}
                                                     <h5 className='h3hover'>{data && data[data.length - 4]?.title}</h5>
                                                     <p className='bottom-end'>Editorial Staff {data && data[data.length - 4]?.date}</p>
                                                 </div>
@@ -102,7 +102,7 @@ const Catagories = ({ item }) => {
                                                         style={{ width: "100%", objectFit: "cover" }}
                                                         alt='img2'
                                                     />
-                                                    <p className="category_contantimg">{item}</p>
+                                                    {/* <p className="category_contantimg">{item}</p> */}
                                                     <h5 className='h3hover'>{data && data[data.length - 5]?.title}</h5>
                                                     <p className='bottom-end'>{data && data[data.length - 5]?.date}</p>
                                                 </div>
