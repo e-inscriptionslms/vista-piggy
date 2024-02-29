@@ -43,7 +43,7 @@ body {
 
 .categorys {
   text-align: center;
-  background:-webkit-linear-gradient(183deg,#292526,#f4839b,#b50128);
+  background: -webkit-linear-gradient(183deg, #292526, #f4839b, #b50128);
   text-transform: uppercase;
 }
 
@@ -53,9 +53,10 @@ body {
 
 .category_contantimg {
   position: relative;
-  bottom: 30px;
-  left: 10px;
-  color: rgb(223, 239, 51);
+  bottom: -10px;
+  left: 0;
+  color: #b50128;
+  text-transform: uppercase;
 }
 
 .footer {
@@ -212,6 +213,9 @@ ul>li {
   color: white;
 }
 
+div>a:hover{
+  color: #000 !important;
+}
 
 .h3hover {
   cursor: pointer;
@@ -276,7 +280,7 @@ ul>li {
 }
 
 .div5 {
-  height: 390px;
+  height: auto;
   border-radius: 15px;
   margin-top: 5%;
   box-shadow: 1px 1px 10px 10px rgb(243, 239, 239);
@@ -290,7 +294,28 @@ ul>li {
 
 
 .img1 {
- border-radius: 20px;
- width: 100%;
- padding: 10px;
+  /* border-radius: 20px; */
+  width: 100%;
+  /* padding: 10px; */
+}
+
+.ellipsis {
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* Number of lines to show */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.ellipsis1 {
+  display: -webkit-box;
+  -webkit-line-clamp: 1; /* Number of lines to show */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.ellipsis2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* Number of lines to show */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }

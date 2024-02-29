@@ -20,15 +20,16 @@ const Catagories = ({ item }) => {
                                     <div className="col-sm-6 p-1" data-aos="fade-right" data-aos-duration={2000}>
                                         {data && data?.length >= 1 ?
                                             <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 1]?.slug}`}>
-                                                <div className='shadow p-3' style={{height:"390px"}}>
+                                                <div className='shadow p-3 overflow-hidden' style={{height:"390px"}}>
                                                     <img
                                                         src={`${Base_Url()}/${data && data[data.length - 1]?.image}`}
                                                         style={{ width: "100%", objectFit: "cover" }}
                                                         alt='img2'
                                                     />
                                                     <p className="category_contantimg">{item}</p>
-                                                    <h5 className='h3hover mt-0'>{data && data[data.length - 1]?.title}</h5>
-                                                    <p className='bottom-end'>Editorial Staff {data && data[data.length - 1]?.date}</p>
+                                                    <h5 className='h3hover mt-0 ellipsis'>{data && data[data.length - 1]?.title}</h5>
+                                                    <p className='mt-3 ellipsis'>{data && data[data.length - 1]?.base_title}</p>
+                                                    <p className='bottom-end mt-1 p-1'>Editorial Staff {data && data[data.length - 1]?.date}</p>
                                                 </div>
                                             </Link> : ""}
                                     </div>
@@ -39,14 +40,15 @@ const Catagories = ({ item }) => {
                                     >
                                         {data && data?.length >= 2 ?
                                             <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 2]?.slug}`}>
-                                                <div className='shadow p-3' style={{height:"390px"}}>
+                                                <div className='shadow p-3 overflow-hidden' style={{height:"390px"}}>
                                                     <img
                                                         src={`${Base_Url()}/${data && data[data.length - 2]?.image}`}
                                                         style={{ width: "100%", objectFit: "cover" }}
                                                         alt='img2'
                                                     />
                                                     <p className="category_contantimg">{item}</p>
-                                                    <h5 className='h3hover'>{data && data[data.length - 2]?.title}</h5>
+                                                    <h5 className='h3hover ellipsis'>{data && data[data.length - 2]?.title}</h5>
+                                                    <p className='mt-3 ellipsis'>{data && data[data.length - 2]?.base_title}</p>
                                                     <p className='bottom-end'>Editorial Staff {data && data[data.length - 2]?.date}</p>
                                                 </div>
                                             </Link> : ""}
@@ -58,14 +60,15 @@ const Catagories = ({ item }) => {
                                     >
                                         {data && data?.length >= 3 ?
                                             <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 3]?.slug}`}>
-                                                <div className='shadow p-3' style={{height:"400px"}}>
+                                                <div className='shadow p-3 overflow-hidden' style={{height:"400px"}}>
                                                     <img
                                                         src={`${Base_Url()}/${data && data[data.length - 3]?.image}`}
                                                         style={{ width: "100%", objectFit: "cover" }}
                                                         alt='img2'
                                                     />
                                                     <p className="category_contantimg">{item}</p>
-                                                    <h5 className='h3hover'>{data && data[data.length - 3]?.title}</h5>
+                                                    <h5 className='h3hover ellipsis'>{data && data[data.length - 3]?.title}</h5>
+                                                    <p className='mt-4 ellipsis'>{data && data[data.length - 3]?.base_title}</p>
                                                     <p className='bottom-end'>Editorial Staff {data && data[data.length - 3]?.date}</p>
                                                 </div>
                                             </Link> : ""}
@@ -77,14 +80,15 @@ const Catagories = ({ item }) => {
                                     >
                                         {data && data?.length >= 4 ?
                                             <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 4]?.slug}`}>
-                                                <div className='shadow p-3' style={{height:"400px"}}>
+                                                <div className='shadow p-3 overflow-hidden' style={{height:"400px"}}>
                                                     <img
                                                         src={`${Base_Url()}/${data && data[data.length - 4]?.image}`}
                                                         style={{ width: "100%", objectFit: "cover" }}
                                                         alt='img2'
                                                     />
                                                     <p className="category_contantimg">{item}</p>
-                                                    <h5 className='h3hover'>{data && data[data.length - 4]?.title}</h5>
+                                                    <h5 className='h3hover ellipsis'>{data && data[data.length - 4]?.title}</h5>
+                                                    <p className='mt-4 ellipsis'>{data && data[data.length - 4]?.base_title}</p>
                                                     <p className='bottom-end'>Editorial Staff {data && data[data.length - 4]?.date}</p>
                                                 </div>
                                             </Link> : ""}
@@ -96,15 +100,16 @@ const Catagories = ({ item }) => {
                                     >
                                         {data && data?.length >= 5 ?
                                             <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 5]?.slug}`}>
-                                                <div className='shadow p-3' style={{height:"400px"}}>
+                                                <div className='shadow p-3 overflow-hidden' style={{height:"400px"}}>
                                                     <img
                                                         src={`${Base_Url()}/${data && data[data.length - 5]?.image}`}
                                                         style={{ width: "100%", objectFit: "cover" }}
                                                         alt='img2'
                                                     />
                                                     <p className="category_contantimg">{item}</p>
-                                                    <h5 className='h3hover'>{data && data[data.length - 5]?.title}</h5>
-                                                    <p className='bottom-end'>{data && data[data.length - 5]?.date}</p>
+                                                    <h5 className='h3hover ellipsis'>{data && data[data.length - 5]?.title}</h5>
+                                                    <p className='mt-4 ellipsis'>{data && data[data.length - 5]?.base_title}</p>
+                                                    <p className='bottom-end p-1'>Editorial Staff {data && data[data.length - 5]?.date}</p>
                                                 </div>
                                             </Link> : ""}
                                     </div>
@@ -116,11 +121,12 @@ const Catagories = ({ item }) => {
                                         <div className='shadow'>
                                             <img
                                                 src={`${Base_Url()}/${data && data[data.length - 3]?.image}`}
-                                                style={{ width: "100%", height: "680px" }}
+                                                style={{ width: "100%", height: "640px" }}
                                                 alt='img2'
                                             />
-                                            <h5 className='h3hover p-2'>{data && data[data.length - 3]?.title}</h5>
-                                            <p className='mb-0'>Editorial Staff {data && data[data.length - 3]?.date}</p>
+                                            <h5 className='h3hover p-2 ellipsis'>{data && data[data.length - 3]?.title}</h5>
+                                            <p className='mt-1 p-1 ellipsis1'>{data && data[data.length - 3]?.base_title}</p>
+                                            <p className='mb-0 p-2'>Editorial Staff {data && data[data.length - 3]?.date}</p>
                                         </div>
                                     </Link> : ""}
                             </div>

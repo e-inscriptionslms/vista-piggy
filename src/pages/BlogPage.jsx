@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, {useState } from 'react'
 import BreadcrumbSection from '../components/BreadcrumbSection'
 import { useParams } from 'react-router-dom'
 import { bolgdata } from '../data/bolgdata'
@@ -7,12 +7,16 @@ import Recomondation from '../components/Recomondation'
 
 const BlogPage = () => {
   const { slug } = useParams()
-  const [blog_data, setBlogData] = useState(null)
   const [bolg_data, setBlog_Data] = useState(JSON.parse(bolgdata))
+  const [blog_data, setBlogData] = useState(null)
+  const [recomdData,setRecomdData] = useState(null)
+
 
   useState(() => {
-    let Obj = JSON.parse(bolgdata)?.find((item) => item.slug === slug)
+    let Obj = bolg_data?.find((item) => item.slug === slug)
     setBlogData(Obj)
+    let data = bolg_data?.splice(1,3)
+    setRecomdData(data)
   }, [blog_data])
   return (
     <>
@@ -40,9 +44,9 @@ const BlogPage = () => {
                 ))}
               </div>
             </div>
-            <div className='row mt-3'>
+            <div className='row mt-3 p-3'>
               <h4 className='categorys text-white'>You May Also Like</h4>
-              { bolg_data && bolg_data?.splice(1,3)?.map((item,index)=>(
+              {recomdData && recomdData.map((item,index)=>(
                 <Recomondation item={item} key={index} />
               ))}
 

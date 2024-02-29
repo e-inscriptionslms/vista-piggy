@@ -16,9 +16,10 @@ const PaginationBlogCard = ({ data }) => {
                         alt='img1'
                     />
                     {/* <p className="Travel">{data?.cate_name}</p> */}
-                    <h5 className="p-1">
+                    <h5 className="p-1 ellipsis2">
                         {data?.title}
                     </h5>
+                    <p className='mt-3 ellipsis p-1'>{data && data?.base_title}</p>
                     <div className='row align-items-center mt-3 mb-4 p-2'>
                         <div className='col-7'>
                         <p className="mt-2">{data?.date}</p>
