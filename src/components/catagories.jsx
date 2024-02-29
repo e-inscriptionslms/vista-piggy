@@ -46,7 +46,7 @@ const Catagories = ({ item }) => {
                                                         alt='img2'
                                                     />
                                                     <p className="category_contantimg">{item}</p>
-                                                    <h5>{data && data[data.length - 2]?.title}</h5>
+                                                    <h5 className='h3hover'>{data && data[data.length - 2]?.title}</h5>
                                                     <p className='bottom-end'>Editorial Staff {data && data[data.length - 2]?.date}</p>
                                                 </div>
                                             </Link> : ""}
@@ -65,7 +65,7 @@ const Catagories = ({ item }) => {
                                                         alt='img2'
                                                     />
                                                     <p className="category_contantimg">{item}</p>
-                                                    <h5>{data && data[data.length - 3]?.title}</h5>
+                                                    <h5 className='h3hover'>{data && data[data.length - 3]?.title}</h5>
                                                     <p className='bottom-end'>Editorial Staff {data && data[data.length - 3]?.date}</p>
                                                 </div>
                                             </Link> : ""}
@@ -84,7 +84,7 @@ const Catagories = ({ item }) => {
                                                         alt='img2'
                                                     />
                                                     <p className="category_contantimg">{item}</p>
-                                                    <h5>{data && data[data.length - 4]?.title}</h5>
+                                                    <h5 className='h3hover'>{data && data[data.length - 4]?.title}</h5>
                                                     <p className='bottom-end'>Editorial Staff {data && data[data.length - 4]?.date}</p>
                                                 </div>
                                             </Link> : ""}
@@ -103,7 +103,7 @@ const Catagories = ({ item }) => {
                                                         alt='img2'
                                                     />
                                                     <p className="category_contantimg">{item}</p>
-                                                    <h5>{data && data[data.length - 5]?.title}</h5>
+                                                    <h5 className='h3hover'>{data && data[data.length - 5]?.title}</h5>
                                                     <p className='bottom-end'>{data && data[data.length - 5]?.date}</p>
                                                 </div>
                                             </Link> : ""}
@@ -113,13 +113,13 @@ const Catagories = ({ item }) => {
                             <div className="col-sm-12 col-lg-6 col-md-6" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration={2000}>
                                 {data && data?.length >= 3 ?
                                     <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 3]?.slug}`}>
-                                        <div className='shadow p-3'>
+                                        <div className='shadow'>
                                             <img
                                                 src={`${Base_Url()}/${data && data[data.length - 3]?.image}`}
                                                 style={{ width: "100%", height: "680px" }}
                                                 alt='img2'
                                             />
-                                            <h5>{data && data[data.length - 3]?.title}</h5>
+                                            <h5 className='h3hover p-2'>{data && data[data.length - 3]?.title}</h5>
                                             <p className='mb-0'>Editorial Staff {data && data[data.length - 3]?.date}</p>
                                         </div>
                                     </Link> : ""}
@@ -127,13 +127,14 @@ const Catagories = ({ item }) => {
                         </div>
                     </div>
                     <div className="col-sm-3 p-1">
-                        <div className='bg-light h-50 p-2'>
+                        <div className='bg-light p-2'>
                             <h5>Related Post</h5>
                             <ul className='p-0'>
                                 {data && data?.map((item,index)=>(
                                     <li className='p-1 mt-1'>
                                     <Link to="">
-                                        <div className='d-flex justify-content-between align-items-center bg-sec rounded-1 p-1'>
+                                        <div className='d-flex gap-3 justify-content-between align-items-center bg-sec rounded-1 p-1'>
+                                            <img src={item?.image} width="70px" height="70px" alt={index} />
                                          <h6 className='p-1'>{index+1}. {item?.title}</h6>
                                         </div>
                                     </Link>

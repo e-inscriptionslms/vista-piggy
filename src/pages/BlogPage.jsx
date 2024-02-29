@@ -16,7 +16,7 @@ const BlogPage = () => {
   }, [blog_data])
   return (
     <>
-      <BreadcrumbSection data={bolg_data} cate={blog_data && blog_data?.cate_name} />
+      <BreadcrumbSection data={blog_data} cate={blog_data && blog_data?.cate_name} />
       <div className="container mt-4 p-5">
         <div className='row'>
           <div className='col-9 p-3'>
@@ -40,9 +40,10 @@ const BlogPage = () => {
                 ))}
               </div>
             </div>
-            <div className='row'>
+            <div className='row mt-3'>
+              <h4 className='categorys text-white'>You May Also Like</h4>
               { bolg_data && bolg_data?.splice(1,3)?.map((item,index)=>(
-                <Recomondation />
+                <Recomondation item={item} key={index} />
               ))}
 
             </div>

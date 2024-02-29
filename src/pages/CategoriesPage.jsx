@@ -11,7 +11,7 @@ export default function CategoriesPage() {
    console.log(Data);
     return (
         <>
-            <BreadcrumbSection data={Data} cate={cate} />
+            <BreadcrumbSection data={Data[0]} cate={cate} />
             <div className="container mt-4">
                 <div className="row d-flex justify-content-between">
                     <BlogCateCard data={Data[Data.length-1]} />

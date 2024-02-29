@@ -6,12 +6,12 @@ const BlogCateCard = ({ data }) => {
     return (
         <>
             <div className="col-6 div6">
-                <span className="mt-3 position-absolute bg-danger text-white rounded-2 p-1">
+                <span className="mt-4 ms-3 position-absolute bg-danger text-white rounded-2 p-1">
                     {data?.cate_name}
                 </span>
                 <img
                     src={`${window.location.origin}/${data?.image}`}
-                    className="p-4 img1" />
+                    className="img1" />
                 {/* <p className="category_contantimg">{data?.cate_name}</p> */}
                 <h5 className="">
                     {data?.title}

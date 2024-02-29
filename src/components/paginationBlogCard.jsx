@@ -7,7 +7,7 @@ const PaginationBlogCard = ({ data }) => {
         <>
             <div className="col-sm-6 col-md-4 p-2">
                 <div className='div4'>
-                    <span className="mt-3 ms-2 position-absolute bg-danger text-white rounded-2 p-2">
+                    <span className="mt-4 ms-3 position-absolute bg-danger text-white rounded-2 p-2">
                         {data?.cate_name}
                     </span>
                     <img
@@ -16,14 +16,16 @@ const PaginationBlogCard = ({ data }) => {
                         alt='img1'
                     />
                     {/* <p className="Travel">{data?.cate_name}</p> */}
-                    <h3 className="p-1">
+                    <h5 className="p-1">
                         {data?.title}
-                    </h3>
-                    <div className='d-flex justify-content-between mt-2 p-1 mt-4 end' >
-                        <p className="">{data?.date}</p>
-                        <p className="">
-                            <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data?.slug}`} className='btn btn-outline-danger'>read more</Link>
-                        </p>
+                    </h5>
+                    <div className='row align-items-center mt-3 mb-4 p-2'>
+                        <div className='col-7'>
+                        <p className="mt-2">{data?.date}</p>
+                        </div>
+                        <div className='col-5 mt-0'>
+                        <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data?.slug}`} className='btn btn-outline-danger'>read more</Link>
+                        </div>
                     </div>
                 </div>
             </div>
