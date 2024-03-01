@@ -83,7 +83,7 @@ body {
 
 .ul {
   display: flex;
-  gap: 1rem;
+  gap: 1px;
   margin-top: 13%;
 }
 
@@ -213,7 +213,7 @@ ul>li {
   color: white;
 }
 
-div>a:hover{
+div>a:hover {
   color: #000 !important;
 }
 
@@ -301,21 +301,30 @@ div>a:hover{
 
 .ellipsis {
   display: -webkit-box;
-  -webkit-line-clamp: 3; /* Number of lines to show */
+  -webkit-line-clamp: 3;
+  /* Number of lines to show */
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
 
 .ellipsis1 {
   display: -webkit-box;
-  -webkit-line-clamp: 1; /* Number of lines to show */
+  -webkit-line-clamp: 1;
+  /* Number of lines to show */
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
 
 .ellipsis2 {
   display: -webkit-box;
-  -webkit-line-clamp: 2; /* Number of lines to show */
+  -webkit-line-clamp: 2;
+  /* Number of lines to show */
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+
+@media (max-width: 576px) {
+  .butt {
+    font-size: 14px !important;
+  }
 }
