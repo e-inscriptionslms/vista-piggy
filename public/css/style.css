@@ -83,7 +83,7 @@ body {
 
 .ul {
   display: flex;
-  gap: 1rem;
+  gap: 1px;
   margin-top: 13%;
 }
 
@@ -319,8 +319,16 @@ div>a:hover {
   display: -webkit-box;
   -webkit-line-clamp: 2;
   /* Number of lines to show */
+  -webkit-line-clamp: 2;
+  /* Number of lines to show */
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+
+@media (max-width: 576px) {
+  .butt {
+    font-size: 14px !important;
+  }
 }
 
 .sidebar {
