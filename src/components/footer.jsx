@@ -1,4 +1,6 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
+import { Route_Path } from '../RoutePath/routepath';
 
 const Footer = () => {
     return (
@@ -11,7 +13,7 @@ const Footer = () => {
                             <p className="image-caption excerpt">Explore the weird to the fascinating at vistapiggy. Get
                                 instantly captivated with mind-blowing topics. Unveil wow facts and bizarre
                                 wonders.</p>
-                            <p className="copyright-text">Copyright 2023 - <a>VISTA PIGGY</a></p>
+                            <p className="copyright-text">Copyright 2023 - <Link to={Route_Path.HOME}>VISTA PIGGY</Link></p>
                         </div>
                         <div className="col-sm-6 bg-theme">
                             <h3 className="title">Follow Us</h3>
@@ -20,9 +22,9 @@ const Footer = () => {
                                 <li><i className="fa-brands fa-facebook"></i></li>
                             </ul>
                             <ul className="ul">
-                                <li>About</li>
-                                <li>Contact</li>
-                                <li>Privacy Policy</li>
+                                <li><Link to={Route_Path.ABOUT}>About</Link></li>
+                                <li><Link to={Route_Path.CONTACT}>Contact</Link></li>
+                                <li><Link to={Route_Path.PRIVACY}>Privacy Policy</Link></li>
                                 <li>Terms and Conditions</li>
                                 <li>Disclaimer</li>
                             </ul>

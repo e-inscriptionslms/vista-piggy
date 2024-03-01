@@ -213,7 +213,7 @@ ul>li {
   color: white;
 }
 
-div>a:hover{
+div>a:hover {
   color: #000 !important;
 }
 
@@ -301,21 +301,203 @@ div>a:hover{
 
 .ellipsis {
   display: -webkit-box;
-  -webkit-line-clamp: 3; /* Number of lines to show */
+  -webkit-line-clamp: 3;
+  /* Number of lines to show */
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
 
 .ellipsis1 {
   display: -webkit-box;
-  -webkit-line-clamp: 1; /* Number of lines to show */
+  -webkit-line-clamp: 1;
+  /* Number of lines to show */
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
 
 .ellipsis2 {
   display: -webkit-box;
-  -webkit-line-clamp: 2; /* Number of lines to show */
+  -webkit-line-clamp: 2;
+  /* Number of lines to show */
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+
+.sidebar {
+  height: 100vh;
+  width: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #b30026;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+
+}
+
+.sidebar.open {
+  width: 250px;
+  z-index: 99;
+
+}
+
+.toggle-button {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background-color: transparent;
+  color: white;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+  color: white;
+}
+
+ul>.bghover:hover {
+  color: #b30026 !important;
+  background-color: #e9e7e7;
+}
+
+.logo-img {
+  height: 45px;
+  width: 203px;
+}
+
+@media(max-width:576px){
+  .mobile-logo{
+   position: relative;
+   left: 118px;
+  }
+}
+
+@media(max-width:768px){
+  .mobile-logo{
+   position: relative;
+   left: 300px;
+  }
+}
+
+/* about  */
+
+.about {
+  /* border: 2px solid red; */
+  box-shadow: 10px 10px 10px 10px rgb(243, 243, 243);
+
+}
+
+.about_text {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 800;
+}
+
+
+
+/* about end  */
+
+/* follow us */
+.follow_us {
+  height: 120px;
+  box-shadow: 10px 10px 10px 10px rgb(243, 243, 243);
+
+}
+
+.follow_text {
+
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 800;
+  position: relative;
+  left: 8px;
+}
+
+.follow_icons {
+  font-size: 25px;
+
+}
+
+.icons_button1 {
+  margin: 5px;
+  background-color: #E1306C;
+  color: aliceblue;
+  width: 100px;
+  padding: 8px;
+}
+
+.icons_button2 {
+  margin: 10px;
+  background-color: #405DE6;
+  color: aliceblue;
+  width: 100px;
+  padding: 8px;
+}
+
+
+
+/* follow us end  */
+
+/* most popular start  */
+
+.most_popular {
+  height: 440px;
+  box-shadow: 10px 10px 10px 10px rgb(243, 243, 243);
+  ;
+}
+
+.most_text {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 800;
+  position: relative;
+  left: 8px;
+}
+
+.most_img {
+  width: 100%;
+  height: 80px;
+}
+
+/* most popular end */
+
+/* categories start  */
+
+.categories {
+  box-shadow: 10px 10px 10px 10px rgb(243, 243, 243);
+}
+
+.categories_text {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 800;
+  position: relative;
+  left: 8px;
+}
+
+.categories_list {
+  list-style: none;
+}
+
+/* categories end */
+
+
+/* post comment  */
+.post_comment {
+  height: 200px;
+  box-shadow: 10px 10px 10px 10px rgb(243, 243, 243);
+}
+
+.post_text {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 800;
+  position: relative;
+  left: 8px;
 }

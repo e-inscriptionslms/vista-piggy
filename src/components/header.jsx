@@ -1,14 +1,19 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Route_Path } from '../RoutePath/routepath';
+import SideBar from './sideToggler';
 
 function Header() {
-    const [isShow, setIsShow] = useState(false)
+    const [isOpen, setIsOpen] = useState(false);
+
+    const toggleSideBar = () => {
+        setIsOpen(!isOpen);
+    };
 
     useEffect(() => {
         const tab = document.getElementById("navbarSupportedContent")
         tab.onclick = () => {
-            setIsShow(false)
+            setIsOpen(false)
         }
     }, [])
 
@@ -16,13 +21,15 @@ function Header() {
         <>
             <nav className="navbar navbar-expand-lg navbar-light bg-theme p-4">
                 <div className="container">
-                    <a className="navbar-brand" href="#">Vistapiggy</a>
-                    <button className="navbar-toggler" onClick={() => { setIsShow(!isShow) }} type="button" >
-                        <span className="navbar-toggler-icon"></span>
-                    </button>
-                    <div className={isShow ? "collapse navbar-collapse show try" : "collapse navbar-collapse try"} id="navbarSupportedContent">
+                    <SideBar isOpen={isOpen} toggle={toggleSideBar} />
+                    <div className="main-content">
+                        <button onClick={toggleSideBar} className="toggle-button">
+                            ☰
+                        </button>
+                    </div>
+                    
+                    <div className="collapse navbar-collapse try" >
                         <ul className="navbar-nav me-auto nav_list ">
-                            <li className="nav-item"><Link to={Route_Path.HOME}>Home</Link></li>
                             <li className="nav-item"><Link to={`${Route_Path.BLOG}/${Route_Path.MYTHOLOGY}`}>Mythology</Link></li>
                             <li className="nav-item"><Link to={`${Route_Path.BLOG}/${Route_Path.TECHNOLOGY}`}>Technology</Link></li>
                             <li className="nav-item"><Link to={`${Route_Path.BLOG}/${Route_Path.WEIRD}`}>Weird</Link></li>
