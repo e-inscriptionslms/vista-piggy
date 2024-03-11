@@ -15,7 +15,7 @@ function Contact() {
                 have a query regarding a specific story, kindly include the link
                 to that story for our reference:
               </p>
-              <p style={{ textAlign: "center", margin: "30px" }}>vista piggy</p>
+              <p style={{ textAlign: "center", margin: "30px" }}>HOPIFFY</p>
               <p style={{ textAlign: "center" }}>vistapiggy@gmail.com</p>
             </div>
           </div>

@@ -13,7 +13,7 @@ const Footer = () => {
                             <p className="image-caption excerpt">Explore the weird to the fascinating at vistapiggy. Get
                                 instantly captivated with mind-blowing topics. Unveil wow facts and bizarre
                                 wonders.</p>
-                            <p className="copyright-text">Copyright 2023 - <Link to={Route_Path.HOME}>VISTA PIGGY</Link></p>
+                            <p className="copyright-text">Copyright 2023 - <Link to={Route_Path.HOME}>HOPIFFY</Link></p>
                         </div>
                         <div className="col-sm-6 bg-theme">
                             <h3 className="title">Follow Us</h3>
@@ -25,8 +25,9 @@ const Footer = () => {
                                 <li><Link to={Route_Path.ABOUT}>About</Link></li>
                                 <li><Link to={Route_Path.CONTACT}>Contact</Link></li>
                                 <li><Link to={Route_Path.PRIVACY}>Privacy Policy</Link></li>
-                                <li>Terms and Conditions</li>
-                                <li>Disclaimer</li>
+                                <li><Link to={Route_Path.TERMSANDCONDITION}> Terms and Conditions </Link></li>
+                                <li><Link to={Route_Path.DISCLAIMER}> Disclaimer </Link></li>
+                              
                             </ul>
                         </div>
                     </div>

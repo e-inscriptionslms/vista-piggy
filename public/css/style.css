@@ -373,7 +373,7 @@ ul li {
   padding: 10px;
   text-align: center;
   cursor: pointer;
-  color: white;
+  color: rgb(8, 8, 8);
 }
 
 ul>.bghover:hover {
@@ -496,6 +496,11 @@ ul>.bghover:hover {
 .categories_list {
   list-style: none;
 }
+
+.categories_list li {
+  color: #000;
+}
+
 
 /* categories end */
 

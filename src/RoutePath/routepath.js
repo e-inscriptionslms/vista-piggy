@@ -10,5 +10,7 @@ export const Route_Path = {
     B1:"b1",
     ABOUT:"/about",
     PRIVACY:"/privacy",
-    CONTACT:"/contact"
+    CONTACT: "/contact",
+    TERMSANDCONDITION: "/Termsandcondition",
+    DISCLAIMER: "/Disclaimer"
 } 
