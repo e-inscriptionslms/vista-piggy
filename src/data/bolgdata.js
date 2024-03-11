@@ -648,7 +648,7 @@ export const bolgdata = JSON.stringify([
             {
                 title: "- Characteristics and Behavior",
                 image: "images/mythology/blog5/Aicha Kandicha 3.png",
-                contents: ["Aicha Kandicha is typically described as a beautiful young woman with the legs of a hoofed  animal. She is said to use her beauty to seduce men, and then madden or kill them. Some  accounts suggest she is afraid of steel knives and needles, and that she has a male associate known as Hammu Qayyu. " ]
+                contents: ["Aicha Kandicha is typically described as a beautiful young woman with the legs of a hoofed  animal. She is said to use her beauty to seduce men, and then madden or kill them. Some  accounts suggest she is afraid of steel knives and needles, and that she has a male associate known as Hammu Qayyu. "]
             },
             {
                 title: "Some Common Characteristics Of Aicha Kandicha In The Legend",
@@ -769,7 +769,7 @@ export const bolgdata = JSON.stringify([
                 title: "What is Chlorokinesis Meaning?",
                 image: "",
                 contents: ["Chlorokinesis is also called as Florakinesis, Arborkinesis, Botanokinesis, and Phyllokinesis. It allows individuals to control and manipulate plants by influencing the chloroplasts within plant cells responsible for photosynthesis. This power enables users to make plants grow faster, change their shape, produce more fruit, or even wilt and die. It is a versatile ability  with applications ranging from agriculture to landscaping and even warfare.",
-                  
+
                 ]
             },
             {
@@ -777,7 +777,7 @@ export const bolgdata = JSON.stringify([
                 image: "",
                 contents: ["Chlorokinesis has been featured in various media such as movies and TV shows like Percy Jackson and the Olympians, where characters like Demeter and Persephone exhibit this  ability.",
                     "In DC Comics, characters like Poison Ivy and Swamp Thing are known for their connection to plant life and chlorokinetic powers.",
-                   
+
                 ]
             },
             {
@@ -798,7 +798,7 @@ export const bolgdata = JSON.stringify([
                 image: "",
                 contents: ["Chlorokinesis is a fictional ability that is not supported by empirical evidence. It is a concept that has been popularized in various forms of media, including movies, TV shows, and literature. While there are no scientific explanations for how chlorokinesis works, it is clear that those who have this ability can control plant life in a way that seems impossible.",
                     "There are many documented cases of people claiming to have chlorokinetic abilities, but these claims are not scientifically verified. It is important to note that these claims may be the result of a psychological phenomenon known as the placebo effect, where individuals believe they have a certain ability and exhibit corresponding behaviors ",
-               
+
                 ]
             }
             ,
@@ -806,14 +806,14 @@ export const bolgdata = JSON.stringify([
                 title: "Real-Life Connections",
                 image: "",
                 contents: ["While chlorokinesis is a fictional ability, historical practices like Pre-Hispanic medicine were closely linked to the use of plants for healing purposes. The ancestral knowledge of plant properties has been passed down through generations in various cultures",
-                                  ]
+                ]
             }
             ,
             {
                 title: "Notable Characters with Chlorokinetic Powers",
                 image: "",
                 contents: ["In popular culture, characters like Swamp Thing from DC Comics possess chlorokinetic abilities that allow them to control all vegetation on Earth. These characters demonstrate the vast potential of chlorokinesis in storytelling.",
-                  
+
                 ]
             }
             ,
@@ -821,7 +821,7 @@ export const bolgdata = JSON.stringify([
                 title: "Techniques and Methods of Chlorokinesis",
                 image: "",
                 contents: ["Chlorokinesis involves manipulating plant life through various methods and techniques. Although not universally accepted as a proven science, the following approaches are inspired by existing theories and concepts related to chlorokinesis:",
-                 
+
                 ]
             }
 
@@ -841,7 +841,7 @@ export const bolgdata = JSON.stringify([
                 title: "Direct Contact",
                 image: "",
                 contents: ["Touching plants directly can enable users to influence their growth patterns and behavior.",
-               
+
                 ]
             }
 
@@ -850,7 +850,7 @@ export const bolgdata = JSON.stringify([
                 title: "Concentration and Meditation",
                 image: "",
                 contents: ["Developing focus and discipline through regular practice enhances the user's ability to manipulate plant life.",
-                  
+
                 ]
             }
 
@@ -859,7 +859,7 @@ export const bolgdata = JSON.stringify([
                 title: "Subconscious Awareness ",
                 image: "",
                 contents: ["Becoming attuned to the energy flow within plants facilitates better control over their growth and movement.",
-                  
+
                 ]
             }
 
@@ -868,7 +868,7 @@ export const bolgdata = JSON.stringify([
                 title: "Speed and Skill Improvement",
                 image: "",
                 contents: ["Experience increases the efficiency and speed of manipulating plant life. ",
-                
+
                 ]
             }
 
@@ -877,7 +877,7 @@ export const bolgdata = JSON.stringify([
                 title: "Biotechnology Integration",
                 image: "",
                 contents: ["Combining traditional chlorokinetic abilities with modern biotechnological advancements can expand the scope of plant manipulation",
-                 "It is important to know the subsets of Chlorokinesis to know the abilities and techniques in detail. Here are the two subcategories of Chlorokinesis: Botanokinesis and Biokinesis. These two will help in understanding the capabilities and personalities of Chlorokinesis. "
+                    "It is important to know the subsets of Chlorokinesis to know the abilities and techniques in detail. Here are the two subcategories of Chlorokinesis: Botanokinesis and Biokinesis. These two will help in understanding the capabilities and personalities of Chlorokinesis. "
                 ]
             }
 
@@ -886,7 +886,7 @@ export const bolgdata = JSON.stringify([
                 title: " Botanokinesis",
                 image: "",
                 contents: ["This ability primarily deals with the manipulation and generation of plant life, including trees, seeds, flowers, moss, and grass. Botanokinesis is a subset of Chlorokinesis, which refers to the broader power of controlling plant life.",
-                 
+
                 ]
             }
 
@@ -896,7 +896,7 @@ export const bolgdata = JSON.stringify([
                 image: "",
                 contents: ["Biokinesis, on the other hand, is the ability to manipulate genetic material or DNA, allowing individuals to alter the form and function of living organisms, including plants. Unlike Botanokinesis, Biokinesis does not specifically target plant life alone",
                     "Both Botanokinesis and Biokinesis are fictional abilities found in various forms of media, such as comics, novels, and video games. Despite their popularity in entertainment, neither ability exists in the realm of scientific discovery. ",
-                  
+
                 ]
             }
             ,
@@ -904,7 +904,7 @@ export const bolgdata = JSON.stringify([
                 title: "Chlorokinesis Training",
                 image: "",
                 contents: ["Chlorokinesis training involves several techniques that can be practiced to develop the  ability to manipulate plant life. Here are some ways to practice chlorokinesis training using different techniques:",
-                 
+
                 ]
             }
             ,
@@ -912,7 +912,7 @@ export const bolgdata = JSON.stringify([
                 title: "Meditation",
                 image: "",
                 contents: ["Meditation is a crucial component of chlorokinesis training. To practice, find a quiet and peaceful place to sit and focus on your breath. Visualize yourself surrounded by plants and  imagine yourself becoming one with them. This will help you develop mental discipline and control over plant life.",
-                 
+
                 ]
             }
 
@@ -921,7 +921,7 @@ export const bolgdata = JSON.stringify([
                 title: "Subconscious awareness",
                 image: "",
                 contents: ["To practice subconscious awareness, spend time in nature and observe the plants around you. Focus on their movements, growth patterns, and the energy they emit. This will help you develop a deeper connection with plants and enable you to interact with them on a subconscious level",
-                 
+
                 ]
             }
 
@@ -930,7 +930,7 @@ export const bolgdata = JSON.stringify([
                 title: "Concentration",
                 image: "",
                 contents: ["Concentration is essential for manipulating chloroplasts within plant cells. To practice, focus on a specific plant and visualize its chloroplasts. Imagine yourself manipulating them to influence the plant's growth pattern. With practice, you will be able to control the plant's growth and shape.",
-                 
+
                 ]
             }
 
@@ -939,7 +939,7 @@ export const bolgdata = JSON.stringify([
                 title: "Agriculture",
                 image: "",
                 contents: ["Chlorokinesis can be used to improve crop yields and plant health. To practice, focus on a specific crop and visualize its growth pattern. Use your concentration to manipulate the plant's chloroplasts to promote growth and health. ",
-                 
+
                 ]
             }
 
@@ -948,7 +948,7 @@ export const bolgdata = JSON.stringify([
                 title: "Landscaping",
                 image: "",
                 contents: ["Chlorokinesis can also be used for landscaping purposes. To practice, visualize the desired shape and growth pattern of a plant. Use your concentration to manipulate the plant's chloroplasts to achieve the desired shape and growth pattern. ",
-                            "Note that chlorokinesis training requires patience, dedication, and practice. With consistent practice, you can develop the ability to manipulate plant life and use it for various purposes."
+                    "Note that chlorokinesis training requires patience, dedication, and practice. With consistent practice, you can develop the ability to manipulate plant life and use it for various purposes."
                 ]
             }
 
@@ -957,12 +957,12 @@ export const bolgdata = JSON.stringify([
                 title: "Chlorokinetics' Personality",
                 image: "",
                 contents: ["Maintain a calm demeanor and prefer peaceful resolutions rather than conflict",
-                "Due to their close affinity with plants, chlorokinetic individuals often exhibit heightened empathy towards all living beings.",
-                "Given the potential consequences of their actions, chlorokinetic individuals typically prioritize responsibility and caution.",
+                    "Due to their close affinity with plants, chlorokinetic individuals often exhibit heightened empathy towards all living beings.",
+                    "Given the potential consequences of their actions, chlorokinetic individuals typically prioritize responsibility and caution.",
                     "Chlorokinetic individuals frequently enjoy spending time in nature and appreciate the beauty of plant life.",
                     "Controlling plant life requires patience and persistence, qualities that chlorokinetic individuals often possess",
-                    "Chlorokinetic individuals must adapt to various situations and find innovative solutions to problems involving plant life."                 
-                 
+                    "Chlorokinetic individuals must adapt to various situations and find innovative solutions to problems involving plant life."
+
                 ]
             }
 
@@ -999,7 +999,7 @@ export const bolgdata = JSON.stringify([
                 title: "Benefits of Chlorokinesis",
                 image: "",
                 contents: ["Chlorokinesis, the ability to manipulate plant life, offers a range of benefits and applications  that can be both practical and powerful. Here are some of the key advantages associated with chlorokinesis:",
-                 
+
                 ]
             }
 
@@ -1008,7 +1008,7 @@ export const bolgdata = JSON.stringify([
                 title: "Plant Growth and Maintenance",
                 image: "",
                 contents: ["One of the primary strengths of chlorokinesis is the ability to control plant growth. Users can make plants grow faster, change their shape, or produce more fruit. This power can be crucial for maintaining nature and promoting agricultural productivity.  ",
-                 
+
                 ]
             }
 
@@ -1017,7 +1017,7 @@ export const bolgdata = JSON.stringify([
                 title: "Versatile Applications",
                 image: "",
                 contents: ["Chlorokinesis has diverse applications in various fields such as agriculture, landscaping, and even warfare. With proper training, individuals can become masters of plant life and use  their powers creatively.",
-                 
+
                 ]
             }
 
@@ -1026,7 +1026,7 @@ export const bolgdata = JSON.stringify([
                 title: "Creation of Magic Items",
                 image: "",
                 contents: ["Chlorokinetic individuals can create magic items from wood, showcasing the creative potential of this ability. This aspect adds a mystical and enchanting dimension to the power.",
-                 
+
                 ]
             }
 
@@ -1035,7 +1035,7 @@ export const bolgdata = JSON.stringify([
                 title: "Reviving Withering Plants",
                 image: "",
                 contents: ["Users of chlorokinesis can revive withering or dead plants by rearranging DNA structures. This ability to rejuvenate plant life highlights the regenerative aspect of chlorokinesis",
-                 
+
                 ]
             }
 
@@ -1044,7 +1044,7 @@ export const bolgdata = JSON.stringify([
                 title: "Toxin Release",
                 image: "",
                 contents: ["Chlorokinetic powers also allow for the release of toxins, venoms, and pheromones from plants, which can be used for various purposes including defense or offense. This adds a strategic element to the power",
-                 
+
                 ]
             }
 
@@ -1053,15 +1053,15 @@ export const bolgdata = JSON.stringify([
                 title: "Enhanced Healing Abilities",
                 image: "",
                 contents: ["Some plants have medicinal properties that can be harnessed by chlorokinetic individuals for  healing purposes. This aspect highlights the potential for using plant-based remedies for health benefits",
-                 
+
                 ]
             }
 
             ,
             {
                 title: "Environmental Connection",
-                image: "",                contents: ["Those with chlorokinetic abilities are often depicted as peaceful individuals with a strong  connection to the environment and living beings. This emphasizes the harmonious  relationship between users and nature",
-                 
+                image: "", contents: ["Those with chlorokinetic abilities are often depicted as peaceful individuals with a strong  connection to the environment and living beings. This emphasizes the harmonious  relationship between users and nature",
+
                 ]
             }
 
@@ -1070,7 +1070,7 @@ export const bolgdata = JSON.stringify([
                 title: "Potential Drawbacks or Risks Associated with Chlorokinesis",
                 image: "",
                 contents: ["Despite the numerous benefits of chlorokinesis, there are certain drawbacks and risks associated with this power that should be acknowledged:",
-                 
+
                 ]
             }
 
@@ -1079,7 +1079,7 @@ export const bolgdata = JSON.stringify([
                 title: "Fire Vulnerability",
                 image: "",
                 contents: ["Individuals with chlorokinesis may face challenges against fire-based attacks due to the inherent sensitivity of plants to heat and flames. ",
-                 
+
                 ]
             }
             ,
@@ -1087,7 +1087,7 @@ export const bolgdata = JSON.stringify([
                 title: "Environmental Impact",
                 image: "",
                 contents: ["Overzealous use of chlorokinesis might lead to imbalances in ecosystems, potentially  disrupting natural habitats and food chains.",
-                 
+
                 ]
             }
 
@@ -1096,7 +1096,7 @@ export const bolgdata = JSON.stringify([
                 title: "Weaponization",
                 image: "",
                 contents: ["Like any powerful ability, chlorokinesis can be misused to harm others, whether intentionally or accidentally.",
-                 
+
                 ]
             }
 
@@ -1105,7 +1105,7 @@ export const bolgdata = JSON.stringify([
                 title: "Physical Limitations",
                 image: "",
                 contents: ["Chlorokinetic individuals may experience physical strain while exerting their powers, particularly during prolonged usage.",
-                 
+
                 ]
             }
 
@@ -1114,8 +1114,8 @@ export const bolgdata = JSON.stringify([
                 title: "Social Stigma",
                 image: "",
                 contents: ["People with chlorokinesis may encounter social prejudice or misunderstanding, leading to isolation or marginalization.",
-                "Note: These risks highlight the importance of responsibility and self-control among individuals with chlorokinesis. Proper education and guidance can help mitigate these  concerns and ensure the safe and beneficial application of this remarkable ability.",
-                 
+                    "Note: These risks highlight the importance of responsibility and self-control among individuals with chlorokinesis. Proper education and guidance can help mitigate these  concerns and ensure the safe and beneficial application of this remarkable ability.",
+
                 ]
             }
 
@@ -1124,18 +1124,18 @@ export const bolgdata = JSON.stringify([
                 title: "Tips for Beginners in Chlorokinesis Training ",
                 image: "",
                 contents: ["Develop a foundation in meditation, subconscious awareness, and concentration  techniques. ",
-                "Practice regularly, focusing on small plants at first. ",
-                " Gradually expand your scope to larger plants and more challenging techniques.",
-                " Maintain a calm and focused state of mind throughout your sessions.",
-                "Understand that chlorokinesis requires patience and persistence.",
-                "Be aware of the limitations of chlorokinesis—it does not affect plants instantaneously, and its efficacy decreases with distance and lack of experience.",
-                "Avoid overusing chlorokinesis techniques, as plants may suffer from stress.",
-                "Give plants adequate time to recover between treatment sessions.",
-                "Consider the age and overall health of the plant when deciding whether to perform chlorokinesis",
+                    "Practice regularly, focusing on small plants at first. ",
+                    " Gradually expand your scope to larger plants and more challenging techniques.",
+                    " Maintain a calm and focused state of mind throughout your sessions.",
+                    "Understand that chlorokinesis requires patience and persistence.",
+                    "Be aware of the limitations of chlorokinesis—it does not affect plants instantaneously, and its efficacy decreases with distance and lack of experience.",
+                    "Avoid overusing chlorokinesis techniques, as plants may suffer from stress.",
+                    "Give plants adequate time to recover between treatment sessions.",
+                    "Consider the age and overall health of the plant when deciding whether to perform chlorokinesis",
                     "Seek guidance from experienced practitioners or mentors if possible",
                     "Stay informed about the latest research and developments related to chlorokinesis",
                     "Remember that chlorokinesis is a skill that requires continuous practice and improvement.",
-                 
+
                 ]
             }
 
@@ -1144,7 +1144,7 @@ export const bolgdata = JSON.stringify([
                 title: "Conclusion ",
                 image: "",
                 contents: ["Chlorokinesis is a fascinating ability that allows individuals to interact with and manipulate plant life in extraordinary ways. Whether used for good or evil purposes, this power showcases the intricate relationship between humans and nature in various forms of media.",
-                 
+
                 ]
             }
 
@@ -1153,7 +1153,7 @@ export const bolgdata = JSON.stringify([
                 title: "What does Chlorokinesis do?",
                 image: "",
                 contents: ["Chlorokinesis is the ability to manipulate, change, and occasionally generate plant life of all forms, including flowers, seeds, trees, moss, grass, and more.",
-                 
+
                 ]
             }
 
@@ -1162,7 +1162,7 @@ export const bolgdata = JSON.stringify([
                 title: "Is Chlorokinesis deadly?",
                 image: "",
                 contents: ["There is no evidence to suggest that chlorokinesis is deadly. Chlorokinesis is a fictional ability found in various forms of media, such as movies, TV shows, and literature. While chlorokinetic individuals can release toxins, venoms, and pheromones from plants, which  can be used for various purposes including defense or offense, there is no evidence to   suggest that chlorokinesis is inherently deadly.",
-                 
+
                 ]
             }
 
@@ -1171,14 +1171,14 @@ export const bolgdata = JSON.stringify([
                 title: "Who posses Wildvine's Chlorokinesis?",
                 image: "",
                 contents: ["Wildvine, a character from the Ben 10 franchise, possesses chlorokinesis, which allows him  to manipulate, change, and generate plant life. His chlorokinetic abilities include:Wrapping people onto tables ",
-                " Creating chlorokinetic constructs",
-                "Producing chlorokinetic clones",
-                "Emitting mind-controlling pheromones",
-                "Wildvine's chlorokinesis is comparable to or possibly stronger than Swampfire's chlorokinesis, further solidifying his status as a powerful plant manipulator. As with any superpower, Wildvine uses his abilities responsibly and effectively in various contexts throughout the series.",
+                    " Creating chlorokinetic constructs",
+                    "Producing chlorokinetic clones",
+                    "Emitting mind-controlling pheromones",
+                    "Wildvine's chlorokinesis is comparable to or possibly stronger than Swampfire's chlorokinesis, further solidifying his status as a powerful plant manipulator. As with any superpower, Wildvine uses his abilities responsibly and effectively in various contexts throughout the series.",
                 ]
             }
 
-                ]
+        ]
     },
 
 
@@ -1190,35 +1190,34 @@ export const bolgdata = JSON.stringify([
         image: "",
         cate_name: "Luke hobbs",
         base_title: ["Luke Hobbs, a notorious DSS agent, first appeared in the 'Fast and Furious' franchise as a formidable adversary to the crew, sent to bring them to justice for crimes related to Dom's   escape from prison. Here is everything in a comprehensive manner on Luke Hoobs. Keep   reading to know more about fast and furious Luke Hobbs.",
-            ""
         ],
 
         discritions: [
             {
                 title: "Who Is Luke Hobbs? ",
                 image: "",
-                contents: ["Luke Hobbs is a character in the' 'Fast and Furious' franchise, portrayed by Dwayne Johnson. He was introduced as a Diplomatic Security Service (DSS) agent tasked with bringing down Dom Toretto's crew after a failed carjacking resulted in the deaths of three DEA agents. Hobbs' character evolved over time, becoming a trusted ally and friend to the crew",           
+                contents: ["Luke Hobbs is a character in the' 'Fast and Furious' franchise, portrayed by Dwayne Johnson. He was introduced as a Diplomatic Security Service (DSS) agent tasked with bringing down Dom Toretto's crew after a failed carjacking resulted in the deaths of three DEA agents. Hobbs' character evolved over time, becoming a trusted ally and friend to the crew",
                 ]
             },
             {
                 title: "Early Life",
                 image: "",
                 contents: ["Luke Hobbs was one of several sons born in Samoa to Sefina Hobbs and an unidentified  father. Luke's father was a thief who committed several heists and did not spend much time with his kids. When his boys reached maturity, he went back to enlist them in his crew, but when several of them died in the course of his heists, he showed no regard or affection for his family.",
-                  "Luke decided to report his father to the police in order to keep his other brothers safe. Luke later moved to the United States of America in 1994 after leaving Samoa with his sister, despite the fact that his actions made his brothers despise him"
+                    "Luke decided to report his father to the police in order to keep his other brothers safe. Luke later moved to the United States of America in 1994 after leaving Samoa with his sister, despite the fact that his actions made his brothers despise him"
                 ]
             },
             {
                 title: "Hunting Dominic Toretto in Rio",
                 image: "",
                 contents: ["In the movie Fast and Furious Luke Hobbs, a character from the 'Fast & Furious' franchise, does in fact pursue Dominic Toretto in Rio. This encounter is a crucial one in the story as Hobbs, who is first seen as Toretto and his crew's opponent, eventually turns into a crucial  ally. This sequence is best shown in the YouTube movie 'The Rock and Vin Diesel's Furious   Confrontation | Hobbs VS Toretto'. As the series progresses, Hobbs's character arc changes, and he ultimately co-stars with Jason Statham's Deckard Shaw in 'Hobbs & Shaw,' the first official spinoff of the series. ",
-                  
+
                 ]
             },
             {
                 title: "Tracking Dominic Toretto's Crew",
                 image: "",
                 contents: ["In many 'Fast & Furious' movies, Luke Hobbs, a character from the franchise, follows Dominic Toretto's team. In 'Fast Five,' Hobbs is assigned the mission of locating and apprehending Toretto and his group by whatever means required. Later on in the series, Hobbs turns into Toretto's team's buddy and helps them defeat a number of bad guys and dangers. Hobbs utilizes his expertise as a law enforcement officer to find and chase Toretto's  group; the search results don't go into specifics on how he does this",
-               
+
                 ]
             },
             {
@@ -1229,14 +1228,14 @@ export const bolgdata = JSON.stringify([
                     "Dwayne Johnson's portrayal of Hobbs gave the franchise fresh life and turned it into one of its most well-known and significant characters. His commanding appearance, muscular build, and natural acting ability gave the series an additional level of depth. ",
                     "Hobbs's transformation from a tough law enforcement agent to a dependable ally was made possible by Johnson's portrayal of the character, which also played a crucial part in the franchise's success.",
                     "Hobbs' evolution from a relentless pursuer to a trusted ally and friend, as well as his dynamic relationships with the crew and other characters, has made him a beloved and  central figure in the 'Fast and Furious' franchise"
-                  
+
                 ]
             },
             {
                 title: "Hobbs' Initial Encounter with the Crew ",
                 image: "",
                 contents: ["Hobbs' first encounter with the crew was marked by tension and conflict, as he made arrests  and began transporting them to the airport for extradition back to the United States",
-                  
+
                 ]
             },
 
@@ -1244,133 +1243,133 @@ export const bolgdata = JSON.stringify([
             {
                 title: "Role Of Luke Hobbs In The Fast And Furious Franchise",
                 image: "",
-                contents: ["Luke Hobbs, a Diplomatic Security Service (DSS) agent, was introduced in the 'Fast and Furious' franchise as a formidable adversary to the crew, tasked with bringing them to  justice for crimes related to Dom Toretto's escape from prison. Initially uninterested in the  truth, Hobbs's character evolved over time, becoming a central figure in the franchise's narrative and a pivotal member of the crew.",    
+                contents: ["Luke Hobbs, a Diplomatic Security Service (DSS) agent, was introduced in the 'Fast and Furious' franchise as a formidable adversary to the crew, tasked with bringing them to  justice for crimes related to Dom Toretto's escape from prison. Initially uninterested in the  truth, Hobbs's character evolved over time, becoming a central figure in the franchise's narrative and a pivotal member of the crew.",
                 ]
             },
             {
                 title: "Hobbs' Transformation ",
                 image: "",
-                contents: ["As the franchise progressed, Hobbs' character underwent a transformation, from a no-nonsense lawman to a central figure in the franchise's spinoff, 'Hobbs & Shaw.' This evolution was driven by several key factors:",                  
+                contents: ["As the franchise progressed, Hobbs' character underwent a transformation, from a no-nonsense lawman to a central figure in the franchise's spinoff, 'Hobbs & Shaw.' This evolution was driven by several key factors:",
                 ]
             },
             {
                 title: "Hobbs' Relationship with Deckard Shaw",
                 image: "",
                 contents: ["Hobbs' relationship with Deckard Shaw, a former British Special Forces soldier, evolved from  animosity to a begrudging alliance. This dynamic played a significant role in Hobbs' transformation, as he began to see the value in working with Shaw to protect the world from threats. ",
-                  
+
                 ]
             },
             {
                 title: "Hobbs' Growing Respect for the Crew",
                 image: "",
                 contents: ["Hobbs' respect for the crew, particularly Dom Toretto, grew as he witnessed their selflessness and dedication to protecting their families and communities. This respect led to  Hobbs' eventual acceptance of the crew as allies, rather than adversaries. ",
-                  
+
                 ]
             },
             {
                 title: "Hobbs' Personal Growth",
                 image: "",
                 contents: ["Hobbs' personal growth was evident in his willingness to confront his own past and to learn    from his mistakes. This self-reflection allowed him to become a more empathetic and understanding character, capable of forming meaningful relationships with those around him.",
-                  
+
                 ]
             },
             {
                 title: "Hobbs' Role in the Franchise",
                 image: "",
                 contents: ["Hobbs' role in the franchise expanded beyond that of a lawman, as he became a central figure in the franchise's spinoff, 'Hobbs & Shaw.' In this film, Hobbs and Shaw teamed up to  protect the world from a genetically enhanced villain, while also exploring the complex dynamics of their relationship. ",
-                  
+
                 ]
             },
             {
                 title: "Hobbs' Impact on the Franchise ",
                 image: "",
                 contents: ["Hobbs' impact on the franchise was profound, as he brought a new level of intensity and realism to the action sequences. His character also served as a bridge between the franchise's street racing roots and its more recent focus on global espionage and action",
-                  
+
                 ]
             },
             {
                 title: "Significance Of Luke Hobbs' Partnership With Dean Lawrence In Hobbs & Shaw",
                 image: "",
                 contents: ["In the 'Fast and Furious' 'spinoff Hobbs & Shaw,' Luke Hobbs partners with Deckard Shaw's  sister, Hattie, to stop a genetically enhanced villain from unleashing a deadly virus on the   world. While Hobbs and Hattie initially have a contentious relationship, they eventually      develop a mutual respect and trust, working together to save the world.",
-                "Hobbs' partnership with Hattie is significant because it showcases his ability to work with  others outside of his usual circle. It also highlights his willingness to put aside his differences with the Shaw family, with whom he has a complicated history, to achieve a common goal. ",
+                    "Hobbs' partnership with Hattie is significant because it showcases his ability to work with  others outside of his usual circle. It also highlights his willingness to put aside his differences with the Shaw family, with whom he has a complicated history, to achieve a common goal. ",
                     "Furthermore, Hobbs' partnership with Hattie allows for the exploration of his character's personal growth and development. Throughout the film, Hobbs confronts his own past and learns to trust and rely on others, demonstrating a newfound vulnerability and emotional  depth.",
-                "Overall, Hobbs' partnership with Hattie in 'Hobbs & Shaw' is a significant aspect of his   character's evolution, showcasing his ability to work with others and his personal growth. "
+                    "Overall, Hobbs' partnership with Hattie in 'Hobbs & Shaw' is a significant aspect of his   character's evolution, showcasing his ability to work with others and his personal growth. "
                 ]
             },
             {
                 title: "Is Luke Hobbs Back In The Fast Family?",
                 image: "",
-                contents: ["It's true that Luke Hobbs is back in the Fast & Furious cast! In a brand-new standalone movie that takes place in between the events of the recently released Fast X and the forthcoming  films, Dwayne Johnson will play Hobbs once more",                
-                "In the series, Hobbs is a member of the large Hobbs family, which also includes his brothers Jonah, Mateo, Kal, and Timo, and his mother Sefina. He has a daughter called Samantha. So fasten your seatbelts, for Hobbs is about to return to the family with his trademark charm and strength! ",
+                contents: ["It's true that Luke Hobbs is back in the Fast & Furious cast! In a brand-new standalone movie that takes place in between the events of the recently released Fast X and the forthcoming  films, Dwayne Johnson will play Hobbs once more",
+                    "In the series, Hobbs is a member of the large Hobbs family, which also includes his brothers Jonah, Mateo, Kal, and Timo, and his mother Sefina. He has a daughter called Samantha. So fasten your seatbelts, for Hobbs is about to return to the family with his trademark charm and strength! ",
                 ]
             },
             {
                 title: "Who Else Is In The Cast Of Fast & Furious?",
                 image: "",
                 contents: ["The 'Fast & Furious' franchise features a large and diverse cast of characters. Some of the  main characters and their actors include:",
-                " Dominic Toretto (Vin Diesel)",
-                " Brian O'Conner (Paul Walker)",
-                " Letty Ortiz (Michelle Rodriguez)",
-                " Mia Toretto (Jordana Brewster) ",
-                " Han Lue (Sung Kang)",
-                "Luke Hobbs (Dwayne Johnson)",
-                "Deckard Shaw (Jason Statham)",
-                " Roman Pearce (Tyrese Gibson)",
-                "Tej Parker (Chris 'Ludacris' Bridges)",
-                "Ramon Campos (John Ortiz) ",
-                " Elena Neves (Elsa Pataky)",
-                " Owen Shaw (Luke Evans) ",
-                " Gisele Yashar (Gal Gadot) ",
-                " Hattie Shaw (Elsa Pataky) ",
-                "Jakob Toretto (John Cena)",
-                "Cipher (Charlize Theron)",
-                "Brixton Lore (Idris Elba)",
-                "These characters have appeared in various films and spinoffs, with some characters beingintroduced in different installments of the franchise. The cast has evolved over time, with  new characters and actors being introduced to keep the franchise fresh and engaging for its fans",
+                    " Dominic Toretto (Vin Diesel)",
+                    " Brian O'Conner (Paul Walker)",
+                    " Letty Ortiz (Michelle Rodriguez)",
+                    " Mia Toretto (Jordana Brewster) ",
+                    " Han Lue (Sung Kang)",
+                    "Luke Hobbs (Dwayne Johnson)",
+                    "Deckard Shaw (Jason Statham)",
+                    " Roman Pearce (Tyrese Gibson)",
+                    "Tej Parker (Chris 'Ludacris' Bridges)",
+                    "Ramon Campos (John Ortiz) ",
+                    " Elena Neves (Elsa Pataky)",
+                    " Owen Shaw (Luke Evans) ",
+                    " Gisele Yashar (Gal Gadot) ",
+                    " Hattie Shaw (Elsa Pataky) ",
+                    "Jakob Toretto (John Cena)",
+                    "Cipher (Charlize Theron)",
+                    "Brixton Lore (Idris Elba)",
+                    "These characters have appeared in various films and spinoffs, with some characters beingintroduced in different installments of the franchise. The cast has evolved over time, with  new characters and actors being introduced to keep the franchise fresh and engaging for its fans",
                 ]
             },
             {
                 title: "Conclusion ",
                 image: "",
-                contents: ["Luke Hobbs' evolution from DSS agent to a central figure in the 'Fast and Furious' franchise  is a testament to the franchise's ability to adapt and grow. Hobbs' transformation from  adversary to ally, and his willingness to confront his own past, have made him a beloved character among fans and a pivotal figure in the franchise's narrative",                  
+                contents: ["Luke Hobbs' evolution from DSS agent to a central figure in the 'Fast and Furious' franchise  is a testament to the franchise's ability to adapt and grow. Hobbs' transformation from  adversary to ally, and his willingness to confront his own past, have made him a beloved character among fans and a pivotal figure in the franchise's narrative",
                 ]
             },
             {
                 title: "Who is Luke Hobbs and how is he portrayed in The Fast & Furious franchise? ",
                 image: "",
                 contents: ["Luke Hobbs is a character from The Fast & Furious franchise, portrayed by Dwayne 'The Rock' Johnson. Hobbs is a muscular, bald, and intimidating DSS (Diplomatic Security Service) agent known for his fighting skills and no-nonsense attitude.",
-                  
+
                 ]
             },
             {
                 title: "How did Luke Hobbs' character evolve from a DSS agent to 'Hobbs & Shaw'?  ",
                 image: "",
                 contents: ["Hobbs' character evolved from a DSS agent to a standalone character in the spin-off film 'Hobbs & Shaw,' where he teams up with Deckard Shaw (played by Jason Statham) to take on a genetically enhanced villain. This film showcases Hobbs' growth from a law enforcement officer to a more complex and layered character.",
-                  
+
                 ]
             },
             {
                 title: "What makes Luke Hobbs an iconic character in The Fast & Furious franchise? ",
                 image: "",
                 contents: ["Hobbs' iconic status comes from his physical presence, his fighting skills, and his delivery of  lines, which make him a beloved character in the series",
-                  
+
                 ]
             },
             {
                 title: "What is the significance of Hobbs' baldness in his character development?",
                 image: "",
                 contents: ["Hobbs' baldness is a symbol of his strength, wisdom, and iconic personality, which has   become a trademark of his character",
-                  
+
                 ]
             },
             {
                 title: " How does Luke Hobbs' character compare to other iconic bald characters in film  and television?  ",
                 image: "",
                 contents: ["Hobbs' character shares similarities with other iconic bald characters such as Morpheus from The Matrix, Bane from The Dark Knight Rises, and Walter White from Breaking Bad, all of whom have become memorable figures in their respective franchises.",
-                  
+
                 ]
             },
-           
-                ]
+
+        ]
     },
 
 
@@ -1395,7 +1394,7 @@ export const bolgdata = JSON.stringify([
                 title: "About the movie Moana ",
                 image: "",
                 contents: ["Tamatoa, the flamboyant giant crab from the Disney movie 'Moana,' does indeed exhibit moments of vulnerability and insecurity, despite appearing primarily as a villain. These  glimmers of humanity help create a more complex and nuanced character, allowing audiences to connect with Tamatoa on multiple levels. ",
-                "While Tamatoa's greed and arrogance dominate his behavior, his occasional displays of weakness and fear suggest that he is not simply a one-dimensional villain. Instead, Tamatoa  embodies a range of emotions and motivations, making him a more engaging and relatable character within the narrative of 'Moana.'",
+                    "While Tamatoa's greed and arrogance dominate his behavior, his occasional displays of weakness and fear suggest that he is not simply a one-dimensional villain. Instead, Tamatoa  embodies a range of emotions and motivations, making him a more engaging and relatable character within the narrative of 'Moana.'",
                 ]
             },
             {
@@ -1403,7 +1402,7 @@ export const bolgdata = JSON.stringify([
                 image: "",
                 contents: ["Size and Presence: Tamatoa's enormous size makes him an imposing figure, contrasting with the protagonist, Moana.",
                     "Personality: Flamboyant, self-centered, and theatrical, Tamatoa challenges traditional  Disney villain stereotypes with his comedic flair.",
-                "Relationships: Holds a grudge against Maui for stealing his hook and sees potential in Moana's magical necklace."
+                    "Relationships: Holds a grudge against Maui for stealing his hook and sees potential in Moana's magical necklace."
                 ]
             },
             {
@@ -1417,12 +1416,12 @@ export const bolgdata = JSON.stringify([
                 title: "Powers and Abilities of Tamatoa Moana ",
                 image: "",
                 contents: ["Impressive Strength: Due to his immense size and body weight, Tamatoa exhibits an impressive level of physical strength. ",
-                "Regeneration: Tamatoa has the ability to regenerate lost limbs, making him an even more formidable opponent. ",
-                "Intimidating Size: Tamatoa's large size makes him an imposing figure, adding to his overall  presence and reinforcing his formidable reputation among other characters.",
-                "Love for Shiny Objects: Tamatoa is obsessed with anything shiny and valuable, which  drives his desire to acquire the Heart of Te Fiti.",
+                    "Regeneration: Tamatoa has the ability to regenerate lost limbs, making him an even more formidable opponent. ",
+                    "Intimidating Size: Tamatoa's large size makes him an imposing figure, adding to his overall  presence and reinforcing his formidable reputation among other characters.",
+                    "Love for Shiny Objects: Tamatoa is obsessed with anything shiny and valuable, which  drives his desire to acquire the Heart of Te Fiti.",
                     "Knowledge of Past Events: Tamatoa knows about Maui's past and their previous encounters, giving him insight into Maui's weaknesses.",
                     "Dramatic Flair: Tamatoa puts on a show, reveling in attention and using dramatic gestures and expressions to captivate his audience.",
-"These attributes help shape Tamatoa's character as a complex and engaging adversary inthe movie 'Moana.' However, it should be noted that some of the details mentioned above come from fan theories rather than official sources. Therefore, while they offer interesting insights into Tamatoa's character, they do not necessarily represent canon information from the movie itself."
+                    "These attributes help shape Tamatoa's character as a complex and engaging adversary inthe movie 'Moana.' However, it should be noted that some of the details mentioned above come from fan theories rather than official sources. Therefore, while they offer interesting insights into Tamatoa's character, they do not necessarily represent canon information from the movie itself."
 
                 ]
             },
@@ -1436,7 +1435,7 @@ export const bolgdata = JSON.stringify([
                     "In terms of his origin, there are theories suggesting that Tamatoa might be the reincarnated spirit of a human, possibly a Polynesian pirate captain or lord. This theory speculates that he was once a humanoid warrior who had been killed and transformed into a giant crab in the  'land of the dead' or the Realm of Monsters.  ",
                     "It's important to note that Tamatoa is not a figure from traditional Polynesian mythology; he was specifically created for the movie 'Moana.' Despite his villainous role, Tamatoa's character has become popular among fans due to his unique qualities and memorable presence on screen",
                 ]
-            },  {
+            }, {
                 title: "How does Tamatoa's Personality Affect the Plot of Moana? ",
                 image: "",
                 contents: ["Antagonistic Roadblock: Tamatoa serves as one of the main antagonists in the movie,  acting as a roadblock for the protagonist, Moana, on her journey. His flamboyant and    self-centered personality contrasts with Moana's determined and selfless character, creating      a dynamic that challenges and tests Moana's growth and resilience throughout the film",
@@ -1451,12 +1450,12 @@ export const bolgdata = JSON.stringify([
                 title: "Tamatoa's True Identity in Moana ",
                 image: "",
                 contents: ["In the movie 'Moana,' Tamatoa's true identity is subject to speculation and fan theories. One  theory suggests that Tamatoa is the reincarnated spirit of a human, possibly a Polynesian      pirate captain or lord. This theory posits that Tamatoa was once a humanoid warrior who had   been killed and transformed into a giant crab in the 'land of the dead' or the Realm of  Monsters. The theory further suggests a connection between Tamatoa and Maui, potentially as brothers or half-brothers, due to a shared godly father, Tangaroa (Takaroa). ",
-                                    ]
-            },  {
+                ]
+            }, {
                 title: " Trivia",
                 image: "",
                 contents: ["Tamatoa's Transformation: According to one source, Tamatoa hadn't always been as      glamorous as he appears in the movie. He was described as a 'drab little crab' at one point,   suggesting a transformation or evolution in his appearance and character.",
-                "Tamatoa's Villainous Role: While Tamatoa is portrayed as a clear villain in 'Moana,' there are discussions about whether he is truly a villain or if there are more layers to his character. This ambiguity raises questions about the nature of his role in the film and challenges  traditional perceptions of Disney villains.",
+                    "Tamatoa's Villainous Role: While Tamatoa is portrayed as a clear villain in 'Moana,' there are discussions about whether he is truly a villain or if there are more layers to his character. This ambiguity raises questions about the nature of his role in the film and challenges  traditional perceptions of Disney villains.",
                 ]
             },
             {
@@ -1470,13 +1469,13 @@ export const bolgdata = JSON.stringify([
                 title: "Top 10 Facts About Tamatoa Moana",
                 image: "",
                 contents: ["Tamatoa is a giant coconut crab who resides in Lalotai, the realm of monsters.                ",
-                "Known for his flamboyant personality, Tamatoa has a penchant for theatrics and loves to put on a show. ",
-                "Tamatoa is obsessed with shiny and valuable objects, which is evident in his love for all things shiny. ",
-                " As one of the larger characters in the film, Tamatoa's enormous size makes him an imposing figure, reinforcing his formidable reputation. ",
-                "Tamatoa's flamboyant and self-centered personality contrasts with Moana's  determined and selfless character, providing an interesting dynamic in the story. ",
-                "Tamatoa holds a grudge against Maui for stealing his hook, adding a layer of conflict to their relationship",
-                "Tamatoa believes that the Heart of Te Fiti, Moana's magical necklace, could make him more powerful and valuable",
-                "Despite being portrayed as a villain, Tamatoa displays moments of vulnerability and  insecurity, adding depth to his character.  ",
+                    "Known for his flamboyant personality, Tamatoa has a penchant for theatrics and loves to put on a show. ",
+                    "Tamatoa is obsessed with shiny and valuable objects, which is evident in his love for all things shiny. ",
+                    " As one of the larger characters in the film, Tamatoa's enormous size makes him an imposing figure, reinforcing his formidable reputation. ",
+                    "Tamatoa's flamboyant and self-centered personality contrasts with Moana's  determined and selfless character, providing an interesting dynamic in the story. ",
+                    "Tamatoa holds a grudge against Maui for stealing his hook, adding a layer of conflict to their relationship",
+                    "Tamatoa believes that the Heart of Te Fiti, Moana's magical necklace, could make him more powerful and valuable",
+                    "Despite being portrayed as a villain, Tamatoa displays moments of vulnerability and  insecurity, adding depth to his character.  ",
                     "Tamatoa possesses the ability to regenerate lost limbs, making him an even more formidable opponent. ",
                     "In 'Moana,' Tamatoa challenges traditional Disney villain stereotypes with his comedic flair and extravagant personality",
                 ]
@@ -1491,14 +1490,14 @@ export const bolgdata = JSON.stringify([
                 title: " Conclusion",
                 image: "",
                 contents: ["Tamatoa crab role in 'Moana' as a memorable antagonist with a flair for theatrics and a love for all things shiny has solidified his place as one of the most iconic characters in the film. Tamatoa Moana unique characteristics and complex personality have made him a fan favorite, showcasing Disney's ability to create compelling and multifaceted villains that  challenge traditional stereotypes",
-                    
+
                 ]
             },
             {
                 title: "How does Tamatoa's character change throughout the plot of Moana? ",
                 image: "",
                 contents: ["Tamatoa is initially introduced as one of the main antagonists in the movie, acting as a roadblock for Moana on her journey. Tamatoa's desire for power and belief that the Heart of  Te Fiti could make him more powerful and valuable drive his actions in the story. Despite  being primarily portrayed as a villain, Tamatoa displays moments of vulnerability and  insecurity, adding layers to his character. His interactions with Maui reveal a history between the two characters, showcasing a deeper layer to Tamatoa's personality. ",
-                    
+
                 ]
             },
             {
@@ -1526,7 +1525,7 @@ export const bolgdata = JSON.stringify([
                 ]
             },
 
-              {
+            {
                 title: " ",
                 image: "",
                 contents: ["",
@@ -1604,7 +1603,7 @@ export const bolgdata = JSON.stringify([
                 image: "",
                 contents: ["",
                 ]
-            },  {
+            }, {
                 title: " ",
                 image: "",
                 contents: ["",
@@ -1628,7 +1627,7 @@ export const bolgdata = JSON.stringify([
                 image: "",
                 contents: ["",
                 ]
-            },  {
+            }, {
                 title: " ",
                 image: "",
                 contents: ["",
@@ -1654,7 +1653,7 @@ export const bolgdata = JSON.stringify([
                 title: "Early Life",
                 image: "",
                 contents: ["Zeke Yeager was born into the Yeager family, a family of Eldian descent living in the walled city of Shiganshina. His father, Grisha Yeager, was a member of the Eldian Restorationist faction, which sought to restore Eldia's power and influence in the world. Zeke's mother,  Carla, was a member of the Eldian royal family, making Zeke a member of the royal bloodline.",
-                           "As a child, Zeke was raised by his father and his older brother, Eren. The family lived a relatively normal life until the day the Titans attacked their city. During the attack, Zeke's mother was killed, and his father was captured by the Titans. This event had a profound impact on Zeke, who grew up with a deep hatred for the Titans and a desire for revenge."
+                    "As a child, Zeke was raised by his father and his older brother, Eren. The family lived a relatively normal life until the day the Titans attacked their city. During the attack, Zeke's mother was killed, and his father was captured by the Titans. This event had a profound impact on Zeke, who grew up with a deep hatred for the Titans and a desire for revenge."
                 ]
             },
             {
@@ -1671,7 +1670,7 @@ export const bolgdata = JSON.stringify([
                 title: "Character Development",
                 image: "",
                 contents: ["As the story progresses, Zeke becomes a key figure in the plot. He is revealed to be a member of the Eldian Restorationist faction, and he is tasked with carrying out a plan to restore Eldia's power. Zeke is also revealed to be a Titan Shifter, with the power to transform into a Titan.",
-                           "Zeke is a complex character, with a mix of good and bad qualities. He is a skilled fighter and a strategic thinker, but he is also ruthless and manipulative. Zeke is willing to do whatever it takes to achieve his goals, even if it means sacrificing others. "
+                    "Zeke is a complex character, with a mix of good and bad qualities. He is a skilled fighter and a strategic thinker, but he is also ruthless and manipulative. Zeke is willing to do whatever it takes to achieve his goals, even if it means sacrificing others. "
                 ]
             },
             {
@@ -1683,7 +1682,7 @@ export const bolgdata = JSON.stringify([
                     "Reserved and Private: Due to his introverted nature, Zeke tends to be reserved and private, keeping his thoughts and feelings to himself. This can sometimes make him appear cold or distant, as he prioritizes rationality over emotional expression.",
                     "Enigmatic and Secretive: Zeke is known for his enigmatic and secretive nature, often keeping his true intentions hidden from others. He can be manipulative and deceptive when furthering his own goals, showcasing traits of cunning and resourcefulness. ",
                     "Unhealthy Traits: Zeke's personality type is identified as an unhealthy INTP with Enneagram type 5w4. He can come across as isolative, disinterested in people, critical of others, lacking empathy, and arrogant in his beliefs. ",
-                                        
+
                 ]
             },
             {
@@ -1702,10 +1701,10 @@ export const bolgdata = JSON.stringify([
                 title: "The Story of Attack on Titan",
                 image: "",
                 contents: ["'Attack on Titan' is a complex and multilayered story that spans over 2000 years, with the main narrative taking place in the year 845. The story begins with the appearance of the Titans, giant humanoid creatures that devour humans, and the construction of three walls to protect humanity from them. The plot revolves around the characters' struggle against the  Titans and the political intrigues within the human society. ",
-                    
+
                     "Zeke Yeager's Role in the Story  Zeke Yeager is a central character in 'Attack on Titan,' and his story is intertwined with the main narrative. He is a member of the Eldian Restorationist faction, which seeks to restore   Eldia's power and influence in the world. Zeke is a Titan Shifter, with the power to transform into a Titan, and he is tasked with carrying out a plan to restore Eldia's power.",
                     "Zeke's actions and motivations are complex and often contradictory. He is a skilled fighter  and a strategic thinker, but he is also ruthless and manipulative. Zeke is willing to do whatever it takes to achieve his goals, even if it means sacrificing others."
-                                        
+
                 ]
             },
             {
@@ -1720,7 +1719,7 @@ export const bolgdata = JSON.stringify([
                     "Cold and Calculating Personality: Zeke is highly intelligent and a skilled fighter, but he is also known for his cold and calculating personality, which can come off as distant and unfeeling.",
                     "Loyalty to Government: Zeke is a fighter who supports the Marleyan government and is a member of the Eldian restorationists, an organization that works to release other Eldian  people from the oppressive rule of their Marleyan oppressors.",
                     "Complex Motivations: Zeke has a complex set of goals, including toppling the current administration and instituting a new global order that will benefit Eldians. "
-                                        
+
                 ]
             },
             {
@@ -1749,7 +1748,7 @@ export const bolgdata = JSON.stringify([
                     "Zeke vs. Levi (Fifth Battle): Zeke and Levi have their final confrontation, with Levi proving  why he is the strongest soldier in the Survey Corp",
                     "Zeke vs. Levi (Sixth Battle): In the final battle, Zeke and Levi face off once more, with Levi's resentful yet effective takedown of Zeke being a highlight of the series.",
                 ]
-            },  {
+            }, {
                 title: "Some of Zeke Yeager's Failures",
                 image: "",
                 contents: ["Failed to Defeat the Survey Corps and Take the Founding Titan: Zeke's original strategy failed due to Bertholdt stopping to check on Reiner, and he eventually transformed and made a partially controlled explosion. ",
@@ -1764,16 +1763,16 @@ export const bolgdata = JSON.stringify([
                 title: "Who is Zeke Yeager?",
                 image: "",
                 contents: ["Zeke Yeager's character in 'Attack on Titan' is characterized by his intelligence, strategic  prowess, enigmatic nature, and tragic past, making him a compelling and multifaceted figure within the series.",
-                                        ""
+                    ""
                 ]
             },
             {
                 title: " What is the Zeke Yeager's Plan for Eldia in 'Attack on Titan'?",
                 image: "",
                 contents: ["Zeke's plan is multifaceted and involves sacrificing his parents in a betrayal of his past  beliefs to lead Eldia towards a brighter future. While his exact motives remain unclear, his plan aims to restore Eldia as its own nation, potentially through drastic and sacrificial means.",
-                                        "Modernizing Paradis Island: Zeke's strategy includes upgrading Paradis Island's military capabilities to match modern weapons like anti-Titan guns and naval fleets, essential for survival against external threats.",
-                                        "Producing Future Titan Inheritors: In order to guarantee Paradis Island's existence for at least another 50 years, Zeke suggests making sure that future Titan inheritors be produced as soon as possible, with Historia being selected to inherit the Beast Titan after having offspring",
-                                        "One of the most controversial aspects of Zeke's plan is his euthanasia strategy, which aims to strip the entire Eldian community of their ability to reproduce, ultimately leading to the extinction of the Eldian race. This extreme measure is intended to prevent future conflicts by eliminating the Titan powers. "
+                    "Modernizing Paradis Island: Zeke's strategy includes upgrading Paradis Island's military capabilities to match modern weapons like anti-Titan guns and naval fleets, essential for survival against external threats.",
+                    "Producing Future Titan Inheritors: In order to guarantee Paradis Island's existence for at least another 50 years, Zeke suggests making sure that future Titan inheritors be produced as soon as possible, with Historia being selected to inherit the Beast Titan after having offspring",
+                    "One of the most controversial aspects of Zeke's plan is his euthanasia strategy, which aims to strip the entire Eldian community of their ability to reproduce, ultimately leading to the extinction of the Eldian race. This extreme measure is intended to prevent future conflicts by eliminating the Titan powers. "
 
                 ]
             },
@@ -1781,27 +1780,27 @@ export const bolgdata = JSON.stringify([
                 title: "How did Zeke regenerated?     ",
                 image: "",
                 contents: ["Zeke Yeager's miraculous regeneration in 'Attack on Titan' was a result of a complex interplay of events involving Ymir's power and the unique circumstances surrounding his injuries. At the end of Attack on Titan season 4, part 1, Zeke was fatally wounded, missing a significant portion of his body, and believed he was dead. However, a Titan appeared, ripped itself open, and placed Zeke inside its stomach.",
-                                        "Zeke was able to regenerate in Attack on Titan due to Ymir's power as the original Founding Titan. In a unique scenario, a Titan placed Zeke inside its stomach, where Ymir intervened through Paths, allowing his body to begin recovery despite being fatally wounded"
+                    "Zeke was able to regenerate in Attack on Titan due to Ymir's power as the original Founding Titan. In a unique scenario, a Titan placed Zeke inside its stomach, where Ymir intervened through Paths, allowing his body to begin recovery despite being fatally wounded"
                 ]
             },
             {
                 title: "How did Zeke die Aot?",
                 image: "",
                 contents: ["Zeke Yeager was missing in action after the rumbling was activated by Eren, and fans were anxious to see him again. He was finally seen in chapter 134, but his fate was sealed when  he was killed by Levi. In chapter 137, Zeke's death was confirmed, but he was seen again in the paths, making a sandcastle. This raised questions about his death and where he was while being very well alive. ",
-            "Zeke's death scare was a result of the Beast Titan not manifesting with its shifter, Levi. Zeke  Jaeger, also known as the Beast Titan, was killed by Levi Ackerman in the final episode of  Attack on Titan. "
+                    "Zeke's death scare was a result of the Beast Titan not manifesting with its shifter, Levi. Zeke  Jaeger, also known as the Beast Titan, was killed by Levi Ackerman in the final episode of  Attack on Titan. "
                 ]
             },
             {
                 title: "What are some notable traits of Zeke Yeager?",
                 image: "",
                 contents: ["Zeke Yeager is depicted as a mysterious and manipulative character with a complex personality. He is known for his intelligence, ruthlessness in battle, strategic thinking, and his ability to prioritize mission objectives over sentimentality. Additionally, his nihilistic views and willingness to make sacrifices for his goals are notable aspects of his character.",
-                                    
+
                 ]
-            },  {
+            }, {
                 title: "What significance does Zeke's connection to the Paths hold?",
                 image: "",
                 contents: ["Zeke's connection to the Paths plays a crucial role in his survival and revival after severe injuries. It showcases the mystical and powerful nature of Ymir's influence as the original Founding Titan, allowing for extraordinary feats like rebuilding Zeke's body within the Paths",
-                                        
+
                 ]
             },
 
@@ -1809,20 +1808,20 @@ export const bolgdata = JSON.stringify([
                 title: " How did Zeke's death impact the series?",
                 image: "",
                 contents: ["Zeke's death, marked by a heroic sacrifice to sever Eren's connection to the Founding Titan and stop the Rumbling, had a significant impact on the series. It halted Eren's destructive plans and contributed to the resolution of key conflicts within the narrative."
-                                        
+
                 ]
             },
             {
                 title: "How does Zeke's regeneration ability compare to other characters in Attack on Titan?",
                 image: "",
                 contents: ["Zeke's regeneration ability in Attack on Titan is unique compared to other characters due to Ymir's intervention through Paths. While most Titans can regenerate wounds, Zeke's reviva after being fatally wounded by Levi involved Ymir's power as the original Founding Titan, allowing him to recover despite severe injuries."
-                                                    ]
+                ]
             },
             {
                 title: "What is the shot of survival and death?",
                 image: "",
                 contents: ["Zeke's survival and eventual death in the series are significant plot points. He miraculously survived being fatally wounded by Levi due to Ymir's intervention through Paths, showcasing  a unique revival process. Ultimately, Zeke met his demise when he sacrificed himself to be  killed by Levi Ackerman in the final episode of Attack on Titan."
-                                        
+
                 ]
             }
         ]
@@ -1840,219 +1839,219 @@ export const bolgdata = JSON.stringify([
         ],
 
         discritions: [
-           
+
             {
                 title: "What is Wicca?",
                 image: "",
                 contents: ["Wicca is a cutting edge pagan strict development that arose during the twentieth 100 years,  drawing motivation from pre-Christian pagan practices, people sorcery, stately wizardry, an nature-based otherworldliness. Wicca incorporates a different scope of convictions and practices, and its disciples, frequently called Wiccans, follow a nature-focused and polytheistic profound way. The expression 'Wicca' is frequently utilized conversely with 'Witchcraft,' albeit not all Wiccans distinguish themselves as witches, and not all witches  follow Wiccan convictions",
-                                        ""
+                    ""
                 ]
             },
             {
                 title: "Key Principles and Beliefs:",
                 image: "",
                 contents: ["Nature-Centered Spirituality: Wicca puts areas of strength for and on the worship of nature.Practitioners view the regular world as holy, seeing divinity in the cycles of the seasons, the components, and every living being.",
-                                        "Dual Deities: Wicca commonly perceives a dual deity, frequently alluded to as the God and Goddess. The God addresses the manly heavenly, related with the sun, strength, and the wild, while the Goddess encapsulates the ladylike heavenly, related with the moon, fertility, and sustaining qualities",
-                                        "Cycles and Seasons: The Wiccan Wheel of the Year is a focal idea, denoting the eight  Sabbats or celebrations that celebrate occasional changes. These incorporate festivals like   Samhain, Yule, Imbolc, Ostara, Beltane, Litha, Lammas, and Mabon. The Wheel of the Year mirrors the repetitive nature of life, passing, and resurrection. ",
-                                        "Ritual and Magick: Rituals and spellwork are vital to Wiccan practice. Wiccans perform rituals to observe Sabbats, mark individual achievements, and take part in supernatural operations"
+                    "Dual Deities: Wicca commonly perceives a dual deity, frequently alluded to as the God and Goddess. The God addresses the manly heavenly, related with the sun, strength, and the wild, while the Goddess encapsulates the ladylike heavenly, related with the moon, fertility, and sustaining qualities",
+                    "Cycles and Seasons: The Wiccan Wheel of the Year is a focal idea, denoting the eight  Sabbats or celebrations that celebrate occasional changes. These incorporate festivals like   Samhain, Yule, Imbolc, Ostara, Beltane, Litha, Lammas, and Mabon. The Wheel of the Year mirrors the repetitive nature of life, passing, and resurrection. ",
+                    "Ritual and Magick: Rituals and spellwork are vital to Wiccan practice. Wiccans perform rituals to observe Sabbats, mark individual achievements, and take part in supernatural operations"
                 ]
             },
-          
+
             {
                 title: "Practices and Tools:",
                 image: "",
                 contents: ["Casting Circles: Wiccans often cast circles to make hallowed space for customs and spellwork. This training involves visualizing and enthusiastically marking a limit to isolate the ordinary world from the hallowed. ",
-                                        "Tools of the Craft: Wiccans utilize different tools in their customs, for example, the athame (custom knife), wand, vessel, pentacle, and others"
+                    "Tools of the Craft: Wiccans utilize different tools in their customs, for example, the athame (custom knife), wand, vessel, pentacle, and others"
                 ]
             },
-          
+
             {
                 title: "Diversity in Wiccan Practices:",
                 image: "",
                 contents: ["Traditions and Paths: Wicca incorporates different traditions and paths, with practitioners following explicit traditions like Gardnerian, Alexandrian, Dianic, varied, and more. Every custom might have its own ceremonies, practices, and interpretations of Wiccan convictions.",
-"Solitary Practitioners and Covens: A few Wiccans practice alone as solitary practitioners, while others join covens — gatherings of Wiccans who gather for customs, festivities, and shared help. Covens might follow a particular custom or be mixed in their practices."
+                    "Solitary Practitioners and Covens: A few Wiccans practice alone as solitary practitioners, while others join covens — gatherings of Wiccans who gather for customs, festivities, and shared help. Covens might follow a particular custom or be mixed in their practices."
                 ]
             },
-          
+
             {
                 title: "Community and Networking:",
                 image: "",
                 contents: ["Festivals and Gatherings: Wiccan people group often sort out festivals and gatherings where practitioners meet up to observe Sabbats, share information, and fabricate a feeling of community.",
-                                        "Online Presence: In the advanced age, Wiccan people group stretch out into online spaces  where practitioners associate, share assets, and take part in conversations"
+                    "Online Presence: In the advanced age, Wiccan people group stretch out into online spaces  where practitioners associate, share assets, and take part in conversations"
                 ]
             },
-          
+
             {
                 title: "Misconceptions and Challenges:",
                 image: "",
-                contents: ["Witch Hunts and Stigma: Wicca has confronted verifiable abuse, often powered by misconceptions and dread. In spite of legitimate securities in many spots, there can in any  case be cultural stigmas and misunderstandings surrounding Wiccan convictions and practices.",   
-                  "Media Portrayals: Media portrayals of Wicca and witchcraft are often sensationalized or inaccurate, perpetuating generalizations that may not line up with the assorted real factors of Wiccan practices.",
-    "Significance of Wiccan: The significance of Wiccan practices lies in the different and profound viewpoints that resonate with its adherents. Here is a rundown illustrating key significances of Wicca",
-    "Cycles of Life: Wicca praises the cycles of life, demise, and resurrection. The Wheel of the Year, set apart by Sabbats, mirrors the changing seasons and the corresponding periods of personal and profound development.",
-    "Dual Deities: The concept of a dual divine nature — often addressed as the God and Goddess — takes into consideration a fair and comprehensive understanding of divine powers, integrating both manly and feminine energies.",
-    "Magical Practices: Wicca embraces magical practices, including spellwork, divination, and rituals.",  
-    "Personal Empowerment: Wiccans have confidence in personal empowerment and responsibility. The Wiccan Rede, accentuating 'An it hurt none, do what ye will,' energizes moral decision-production and responsible utilization of magical capacities.",
-    "Rituals and Ceremonies: Rituals in Wicca give a system to otherworldly expression, honoring deities, and commending the cycles of nature.",
-    "Inclusivity and Diversity: Wicca is different, taking into consideration different traditions, ways, and interpretations.",
-        "Personal Spirituality: Wicca upholds personal profound exploration. While there are shared traditions and rituals, Wiccans often customize their practices to line up with their interesting otherworldly excursions, making it an exceptionally individualized and adaptable way. ",
-    "Witchcraft and Folk Magic: The act of witchcraft and folk magic is fundamental to Wicca. Wiccans might participate in spellcasting, potion making, and divination as a component of their magical practices, drawing from both historical and present day sources. ",
-    "Ancestral and Cultural Connections: Wiccans might investigate and integrate ancestral and cultural connections into their practices, perceiving the wisdom and traditions of their  foundations while regarding assorted cultural impacts.",
-    "Symbolism and Sacred Tools: Wicca utilizes different symbols and sacred tools, like pentacles, athames, and cauldrons, each holding explicit implications and energies.",
-    "Community and Networking: Wiccans often draw in with a feeling of community, whether through joining covens, going to celebrations, or taking part in online gatherings. ",
-    "Emphasis on Wisdom and Learning: Wicca puts a strong emphasis on continuous learning and personal development.",
-    "Celebration of Diversity: Wicca celebrates diversity in the entirety of its structures — be it individual convictions, orientation expressions, sexual orientations, or cultural foundations",
-    "Connection to the Divine Feminine: The Goddess, often stressed in Wicca, addresses the  divine feminine"
-]
+                contents: ["Witch Hunts and Stigma: Wicca has confronted verifiable abuse, often powered by misconceptions and dread. In spite of legitimate securities in many spots, there can in any  case be cultural stigmas and misunderstandings surrounding Wiccan convictions and practices.",
+                    "Media Portrayals: Media portrayals of Wicca and witchcraft are often sensationalized or inaccurate, perpetuating generalizations that may not line up with the assorted real factors of Wiccan practices.",
+                    "Significance of Wiccan: The significance of Wiccan practices lies in the different and profound viewpoints that resonate with its adherents. Here is a rundown illustrating key significances of Wicca",
+                    "Cycles of Life: Wicca praises the cycles of life, demise, and resurrection. The Wheel of the Year, set apart by Sabbats, mirrors the changing seasons and the corresponding periods of personal and profound development.",
+                    "Dual Deities: The concept of a dual divine nature — often addressed as the God and Goddess — takes into consideration a fair and comprehensive understanding of divine powers, integrating both manly and feminine energies.",
+                    "Magical Practices: Wicca embraces magical practices, including spellwork, divination, and rituals.",
+                    "Personal Empowerment: Wiccans have confidence in personal empowerment and responsibility. The Wiccan Rede, accentuating 'An it hurt none, do what ye will,' energizes moral decision-production and responsible utilization of magical capacities.",
+                    "Rituals and Ceremonies: Rituals in Wicca give a system to otherworldly expression, honoring deities, and commending the cycles of nature.",
+                    "Inclusivity and Diversity: Wicca is different, taking into consideration different traditions, ways, and interpretations.",
+                    "Personal Spirituality: Wicca upholds personal profound exploration. While there are shared traditions and rituals, Wiccans often customize their practices to line up with their interesting otherworldly excursions, making it an exceptionally individualized and adaptable way. ",
+                    "Witchcraft and Folk Magic: The act of witchcraft and folk magic is fundamental to Wicca. Wiccans might participate in spellcasting, potion making, and divination as a component of their magical practices, drawing from both historical and present day sources. ",
+                    "Ancestral and Cultural Connections: Wiccans might investigate and integrate ancestral and cultural connections into their practices, perceiving the wisdom and traditions of their  foundations while regarding assorted cultural impacts.",
+                    "Symbolism and Sacred Tools: Wicca utilizes different symbols and sacred tools, like pentacles, athames, and cauldrons, each holding explicit implications and energies.",
+                    "Community and Networking: Wiccans often draw in with a feeling of community, whether through joining covens, going to celebrations, or taking part in online gatherings. ",
+                    "Emphasis on Wisdom and Learning: Wicca puts a strong emphasis on continuous learning and personal development.",
+                    "Celebration of Diversity: Wicca celebrates diversity in the entirety of its structures — be it individual convictions, orientation expressions, sexual orientations, or cultural foundations",
+                    "Connection to the Divine Feminine: The Goddess, often stressed in Wicca, addresses the  divine feminine"
+                ]
 
             },
-          
+
             {
                 title: "Wiccan Symbols and their Meanings",
                 image: "",
                 contents: ["Wicca, a cutting edge agnostic religious development, is well established in old traditions and nature-based spirituality.",
-                                        "Here are some commonly used Wiccan symbols and their meanings"
+                    "Here are some commonly used Wiccan symbols and their meanings"
                 ]
             },
             {
                 title: " Pentacle ",
                 image: "https://www.spiritshack.co.uk/wp-content/uploads/what-is-a-pentacle.jpg ",
                 contents: ["he pentacle, a five-pointed star enclosed all around, is perhaps the most perceived Wiccan symbol. Each point represents the elements — earth, air, fire, water, and spirit —harmoniously joined together.",
-                                        "Each mark of the pentacle addresses one of the five traditional components — earth, air,fire, water, and spirit. The circle encompassing the star means the interconnectedness and solidarity of these components, stressing their amicable equilibrium. The pentacle is many times seen as a defensive symbol."
+                    "Each mark of the pentacle addresses one of the five traditional components — earth, air,fire, water, and spirit. The circle encompassing the star means the interconnectedness and solidarity of these components, stressing their amicable equilibrium. The pentacle is many times seen as a defensive symbol."
                 ]
             },
-          
+
             {
                 title: "Triquetra:",
                 image: "https://i.pinimg.com/736x/d4/38/4d/d4384dda54c3e75615bcd4a31171d420.jpg ",
                 contents: ["Also known as the Triple Goddess symbol, the triquetra features three interlocked loops. It represents the three aspects of the Goddess — lady, mother, and hag — symbolizing the pattern of life, demise, and resurrection",
-                                        "The triquetra is frequently connected with the Triple Goddess in Wicca — the heavenly ladylike communicated through the Maiden, Mother, and Crone perspectives. Wiccans might utilize this symbol to respect and adjust themselves to the essential powers present in the normal world"
+                    "The triquetra is frequently connected with the Triple Goddess in Wicca — the heavenly ladylike communicated through the Maiden, Mother, and Crone perspectives. Wiccans might utilize this symbol to respect and adjust themselves to the essential powers present in the normal world"
                 ]
             },
-          
+
             {
                 title: "Triple Moon",
                 image: "https://media.posterlounge.com/img/products/560000/559538/559538_poster.jpg",
                 contents: ["The Triple Moon symbol, otherwise called the Triple Goddess symbol, is an enrapturing portrayal profoundly implanted in Wiccan customs. Including three interlocked circles, each comparing to a particular period of the moon — waxing, full, and winding down — the Triple  Moon symbolizes the complicated patterns of life, nature, and the heavenly ladylike. ",
-                                        "At its center, the Triple Moon epitomizes the three parts of the Goddess — Maiden, Mother, and Crone. The Maiden symbolizes youth, honesty, and fresh starts; the Mother typifies fruitfulness, sustaining, and overflow; while the Crone means insight, change, and the winding down parts of life.",
-    "Similarly as the moon waxes, turns out to be full, and then, at that point, melts away, the Triple Moon mirrors the repetitive idea of presence. It reminds professionals that life is an unending excursion of development, finish, and inevitable downfall, trailed by reestablishment. This cyclic point of view lines up with the more extensive Wiccan   confidence in the timeless pattern of birth, passing, and resurrection."
+                    "At its center, the Triple Moon epitomizes the three parts of the Goddess — Maiden, Mother, and Crone. The Maiden symbolizes youth, honesty, and fresh starts; the Mother typifies fruitfulness, sustaining, and overflow; while the Crone means insight, change, and the winding down parts of life.",
+                    "Similarly as the moon waxes, turns out to be full, and then, at that point, melts away, the Triple Moon mirrors the repetitive idea of presence. It reminds professionals that life is an unending excursion of development, finish, and inevitable downfall, trailed by reestablishment. This cyclic point of view lines up with the more extensive Wiccan   confidence in the timeless pattern of birth, passing, and resurrection."
                 ]
             },
-          
+
             {
                 title: "Celtic Knot",
                 image: "",
                 contents: ["The Celtic Knot, otherwise called the unending knot or spiritualist knot, is an enamoring  symbol with a rich history well established in Celtic and Norse societies. The Celtic knot, with   its complicated, endless patterns, signifies the interconnectedness of life and time  everlasting.",
-                                        "The most striking component of the Celtic Knot is its consistent, ceaseless plan. The knot has no perceptible beginning stage or end, representing the everlasting idea of life, cycles, and the interconnected trap of presence.",
-    "The complicated, interlocking examples of the Celtic Knot address solidarity and the agreeable association between different parts of life"
+                    "The most striking component of the Celtic Knot is its consistent, ceaseless plan. The knot has no perceptible beginning stage or end, representing the everlasting idea of life, cycles, and the interconnected trap of presence.",
+                    "The complicated, interlocking examples of the Celtic Knot address solidarity and the agreeable association between different parts of life"
                 ]
             },
-          
+
             {
                 title: "Athame",
                 image: "",
                 contents: ["The Athame, a custom knife with a twofold edged sharp edge, is an unmistakable and hallowed instrument inside Wiccan and pagan practices. This stylized weapon holds extraordinary symbolic and down to earth importance in different mysterious operations and ceremonies, filling in as a conductor for energy control and a symbol of the expert's will.",
-                                        "In Wiccan practices, the Athame is frequently connected with the component of air. Addressing acumen, correspondence, and the powers of the psyche, the Athame is utilized to direct and channel these energies during ceremonies. Its double nature, with a cutting  edge facing up, connotes the association between the expert and the heavenly. "
+                    "In Wiccan practices, the Athame is frequently connected with the component of air. Addressing acumen, correspondence, and the powers of the psyche, the Athame is utilized to direct and channel these energies during ceremonies. Its double nature, with a cutting  edge facing up, connotes the association between the expert and the heavenly. "
                 ]
             },
-          
+
             {
                 title: " Witch's Broom",
                 image: "",
                 contents: ["Often associated with witches flying on broomsticks, this symbol represents the sweeping away of antagonism and the demonstration of clearing space for otherworldly workings. It is frequently used before rituals to cleanse a custom space, both physically and vigorously, establishing a sacred and harmonious climate",
-                                        "Wiccans might use the besom to ceremonially sweep a circle into existence, depicting sacred space for rituals and otherworldly workings."
+                    "Wiccans might use the besom to ceremonially sweep a circle into existence, depicting sacred space for rituals and otherworldly workings."
                 ]
             },
             {
                 title: "Horned God",
                 image: "",
                 contents: ["Portrayed as a horned figure, the Horned God represents the masculine aspect of divine nature in Wicca",
-                                        "The Horned God is a focal figure in Wiccan and pagan practices, epitomizing the manly part of heavenliness and assuming an essential part yet to be determined of enormous powers. Frequently portrayed with antlers or horns, the Horned God is a symbol of the wild, nature, and the patterns of life, demise, and resurrection.",
-    "The Horned God is firmly connected with the untamed and basic powers of nature. Portrayed as a horned or antlered figure, he symbolizes the essentialness and crude energy saw as in the regular world."
+                    "The Horned God is a focal figure in Wiccan and pagan practices, epitomizing the manly part of heavenliness and assuming an essential part yet to be determined of enormous powers. Frequently portrayed with antlers or horns, the Horned God is a symbol of the wild, nature, and the patterns of life, demise, and resurrection.",
+                    "The Horned God is firmly connected with the untamed and basic powers of nature. Portrayed as a horned or antlered figure, he symbolizes the essentialness and crude energy saw as in the regular world."
                 ]
             },
-          
+
 
             {
                 title: "Chalice",
                 image: "",
                 contents: ["The Chalice, a stylized cup or goblet, holds huge significance in Wiccan and pagan practices as a hallowed device related with the component of water and the heavenly female. The  chalice, a cup or flagon, embodies the component of water. The Chalice is fundamentally connected to the component of water inside Wiccan customs.",
-                                        "The Chalice, frequently loaded up with water or other ceremonial fluids, turns into a vessel through which specialists can interface with the liquid and open parts of the heavenly.  In ceremonial settings, it supplements the athame, which addresses the manly, making a symbolic association of the ladylike and manly energies inside the consecrated space. ",
-    "During Wiccan customs, the Chalice is utilized for different purposes. It might hold water, wine, home grown implantations, or different fluids addressing the energies of the component of water. These fluids are much of the time sanctified and favored, becoming symbols of the goddess' gifts and the nurturing powers inside nature."
+                    "The Chalice, frequently loaded up with water or other ceremonial fluids, turns into a vessel through which specialists can interface with the liquid and open parts of the heavenly.  In ceremonial settings, it supplements the athame, which addresses the manly, making a symbolic association of the ladylike and manly energies inside the consecrated space. ",
+                    "During Wiccan customs, the Chalice is utilized for different purposes. It might hold water, wine, home grown implantations, or different fluids addressing the energies of the component of water. These fluids are much of the time sanctified and favored, becoming symbols of the goddess' gifts and the nurturing powers inside nature."
                 ]
             },
-          
+
             {
                 title: "Sun Wheel",
                 image: "",
                 contents: ["Representing the sun's excursion through the seasons, the sun wheel is a wheel partitioned  into eight segments. Each segment corresponds to a Sabbat, denoting the cycles of nature  and the Wiccan Wheel of the Year.",
-                                        "The sun wheel symbolises the Sun's excursion through the yearly cycles. It mirrors the changing qualities of sunlight based energies, from the level of force during Litha (Summer Solstice) to the fading strength as the days become more limited. ",
-                                        "Each fragment of the sun wheel compares to a Sabbat in the Wheel of the Year. The symbolism exemplifies the everlasting dance of life, passing, and resurrection — a focal  subject in Wiccan way of thinking"
+                    "The sun wheel symbolises the Sun's excursion through the yearly cycles. It mirrors the changing qualities of sunlight based energies, from the level of force during Litha (Summer Solstice) to the fading strength as the days become more limited. ",
+                    "Each fragment of the sun wheel compares to a Sabbat in the Wheel of the Year. The symbolism exemplifies the everlasting dance of life, passing, and resurrection — a focal  subject in Wiccan way of thinking"
                 ]
             },
-          
+
             {
                 title: "Ankh",
                 image: "",
                 contents: ["However, beginning from antiquated Egyptian symbology, the ankh is also embraced by  Wiccans. Often alluded to as the 'Key of Life' or 'Egyptian Cross,' the Ankh is perceived for  its extraordinary circled cross shape with a tear molded circle at the top. ",
-                                        "In Wiccan practices, the Ankh is frequently embraced for its positive, invigorating energy. The Ankh's cross shape is an amicable blend of the manly and female symbols — the upward line addressing the phallus(manly), and the even oval addressing the belly(ladylike).",
-    "Its utilization in ceremonies and reflection might be related with looking for grasping, astuteness, and admittance to stowed domains."
+                    "In Wiccan practices, the Ankh is frequently embraced for its positive, invigorating energy. The Ankh's cross shape is an amicable blend of the manly and female symbols — the upward line addressing the phallus(manly), and the even oval addressing the belly(ladylike).",
+                    "Its utilization in ceremonies and reflection might be related with looking for grasping, astuteness, and admittance to stowed domains."
                 ]
             },
-          
+
             {
                 title: "Green Man",
                 image: "",
                 contents: ["Frequently portrayed as a face encompassed by leaves, foliage, or plants, the Green Man addresses the energetic and consistently restoring substance of nature, the pattern of life, and the interconnectedness among humanity and the regular world",
-                                        "In Wiccan and pagan customs, the Green Man is commended for his relationship with the recurrent idea of life. He is a portrayal of the persistent pattern of birth, development, demise, and resurrection, lining up with the Wheel of the Year and the evolving seasons.",
-    "The Green Man is much of the time respected during richness ceremonies and collect festivals. His presence is conjured to favor the land, advance richness, and guarantee a plentiful gather. Wiccans might integrate the Green Man into their ceremonies to line up with the horticultural and occasional cycles. "
+                    "In Wiccan and pagan customs, the Green Man is commended for his relationship with the recurrent idea of life. He is a portrayal of the persistent pattern of birth, development, demise, and resurrection, lining up with the Wheel of the Year and the evolving seasons.",
+                    "The Green Man is much of the time respected during richness ceremonies and collect festivals. His presence is conjured to favor the land, advance richness, and guarantee a plentiful gather. Wiccans might integrate the Green Man into their ceremonies to line up with the horticultural and occasional cycles. "
                 ]
             },
-          
+
             {
                 title: ". Runes",
                 image: "",
                 contents: ["Runes, old alphabetic symbols with verifiable roots in Germanic and Norse societies, act as a strong divination device and a method for otherworldly engraving in different profound  works on, including Wicca and contemporary paganism. These characters, each with its one of a kind shape and significance, convey a rich embroidery of symbolism and are respected for their ability to give direction and understanding. ",
-                                        "Runes have a rich verifiable foundation, starting from early Germanic clans and later took on by the Norse public. The runic letter set, known as the Futhark, comprises 24 symbols partitioned into three arrangements of eight runes, each with its particular importance.",
-    "In Wiccan and pagan practices, runes are regularly utilized for divination, a cycle known as runic divination or projecting the runes."
+                    "Runes have a rich verifiable foundation, starting from early Germanic clans and later took on by the Norse public. The runic letter set, known as the Futhark, comprises 24 symbols partitioned into three arrangements of eight runes, each with its particular importance.",
+                    "In Wiccan and pagan practices, runes are regularly utilized for divination, a cycle known as runic divination or projecting the runes."
                 ]
             },
-          
+
             {
                 title: "Oak Tree",
                 image: "",
                 contents: ["Adored in Wicca for its strength and life span, the oak tree symbolizes perseverance,  wisdom, and the sacredness of the normal world.",
-                                        "The Druids, old ministers and soothsayers, held the oak in high regard for its holiness and astuteness. The oak was many times the picked tree for customs, services, and as a gathering place for Druidic social events.",
-    "In Norse mythology, the oak was related with Thor, the thunder god. The meaning of Thor's  Oak mirrors the oak's association with insurance, strength, and the heavenly powers of lightning storm"
+                    "The Druids, old ministers and soothsayers, held the oak in high regard for its holiness and astuteness. The oak was many times the picked tree for customs, services, and as a gathering place for Druidic social events.",
+                    "In Norse mythology, the oak was related with Thor, the thunder god. The meaning of Thor's  Oak mirrors the oak's association with insurance, strength, and the heavenly powers of lightning storm"
                 ]
             },
             {
                 title: "Wheel of the Year",
                 image: "",
                 contents: ["The Wheel of the Year is a roundabout schedule representing the eight Sabbats and the evolving seasons like,",
-                                        "Samhain marks the Wiccan New Year, addressing the finish of the gather season and the start of the dull portion of the year. It is the point at which the cloak between the physical  and otherworldly domains is accepted to be flimsy, working with correspondence with precursors and left friends and family.",
-    "Yule praises the resurrection of the Sun as the days extend after the longest evening.",
-        "Imbolc marks the enlivening of the Earth from winter's sleep. It is often connected with the Celtic goddess Brigid, addressing motivation and the hearth."
+                    "Samhain marks the Wiccan New Year, addressing the finish of the gather season and the start of the dull portion of the year. It is the point at which the cloak between the physical  and otherworldly domains is accepted to be flimsy, working with correspondence with precursors and left friends and family.",
+                    "Yule praises the resurrection of the Sun as the days extend after the longest evening.",
+                    "Imbolc marks the enlivening of the Earth from winter's sleep. It is often connected with the Celtic goddess Brigid, addressing motivation and the hearth."
                 ]
             },
-          
+
             {
                 title: "Cauldron",
                 image: "",
                 contents: ["The cauldron, with its persona and verifiable importance, keeps on enthralling professionals in different profound customs. Notwithstanding its symbolism and ceremonial purposes inside Wicca, the cauldron holds social, legendary, and catalytic significance. ",
-                                        "The cauldron is frequently connected with the Goddess in her triple perspectives — maiden, mother, and crone. A few professionals likewise partner the cauldron with earth, underlining its establishing and fruitful viewpoints."
+                    "The cauldron is frequently connected with the Goddess in her triple perspectives — maiden, mother, and crone. A few professionals likewise partner the cauldron with earth, underlining its establishing and fruitful viewpoints."
                 ]
             },
-          
+
             {
                 title: "Conclusion",
                 image: "",
                 contents: ["Its significance lies in a different exhibit of components that all in all add to the lavishness of this cutting edge pagan custom. The festival of the Wheel of the Year, set apart by Sabbats, turns into a cadenced hit the dance floor with the seasons, reflecting individual and   profound development through the repeating idea of presence.",
-                                        "Wicca's flexibility and inclusivity take into consideration different practices, ways, and understandings. The accentuation on inclusivity celebrates variety in convictions, rehearses,  and social foundations, making a strong and tolerating local area.",
-    "Eventually, the significance of Wicca rises above its ceremonies and practices; it reverberates in the substances of the people who track down association, strengthening, and profound satisfaction on this charming and extraordinary way. As Wiccans keep on meshing their own accounts into the bigger story of this energetic custom, Wicca stays a living and developing articulation of human otherworldliness as one with the regular world."
+                    "Wicca's flexibility and inclusivity take into consideration different practices, ways, and understandings. The accentuation on inclusivity celebrates variety in convictions, rehearses,  and social foundations, making a strong and tolerating local area.",
+                    "Eventually, the significance of Wicca rises above its ceremonies and practices; it reverberates in the substances of the people who track down association, strengthening, and profound satisfaction on this charming and extraordinary way. As Wiccans keep on meshing their own accounts into the bigger story of this energetic custom, Wicca stays a living and developing articulation of human otherworldliness as one with the regular world."
                 ]
             },
-          
-          
+
+
         ]
     },
 
@@ -2064,16 +2063,16 @@ export const bolgdata = JSON.stringify([
         cate_name: "Entertainment",
         base_title: ["The red betta fish, also known as the Siamese fighting fish, is a captivating and vibrant variety of Betta splendens. Renowned for its striking red coloration, it is a favorite among aquarium enthusiasts. ",
             "Below is a brief article covering various aspects of the red betta fish, including its origin, care, characteristics, and availability.  Keep reading to know more in detail about the same. ",
-            
+
         ],
 
         discritions: [
-           
+
             {
                 title: "Scientific Name Of Red Betta Fish",
                 image: "",
                 contents: ["The scientific name of the red betta fish is Betta splendens. This species is also known as the Siamese fighting fish and is native to Southeast Asia, particularly Thailand. The red betta fish has been selectively bred over many generations to exhibit its spectacular red coloration, making it a captivating and vibrant variety of Betta splendens. ",
-                        
+
                 ]
             },
             {
@@ -2088,14 +2087,14 @@ export const bolgdata = JSON.stringify([
                 title: "Current Population of Red Betta Fish",
                 image: "",
                 contents: ["There is no information available on the current population of red betta fish. However, the IUCN Red List of Threatened Species classifies several Betta species as Vulnerable, and B. livida is Endangered, and B. miniopinna, B. persephone, and B. spilotogena are critically endangered. The conservation status of the betta in the wild is Vulnerable due to its declining population and the possibility of habitat destruction, pollution, cold temperatures, and predators. ",
-                
+
                 ]
             },
             {
                 title: "Why Red Betta Fish is of Red Colour?",
                 image: "",
                 contents: ["The red coloration of the red betta fish, particularly the Super Red Betta, is a result of selective breeding. Breeders have developed these fish with vibrant red coloration over many generations by selecting fish with the most intense and uniform red hues to create the Super Red variety. The intense red color covers their entire body, from their scales to their fins, making them a visually striking variety of Betta splendens. This meticulous breeding process has given rise to the stunning red coloration seen in these fish. ",
-                    
+
                 ]
             },
             {
@@ -2110,7 +2109,7 @@ export const bolgdata = JSON.stringify([
                 title: "How can you Identify a Female Betta Fish?",
                 image: "",
                 contents: ["There are several ways to identify a female betta fish. Female bettas are generally smaller and have a stockier body shape compared to males. They also have shorter fins, with the ventral fins being noticeably shorter and thinner than those of males. Mature females display an 'egg spot' between the ventral and anal fins, which is actually the ovipositor used to lay eggs. Females may also display vertical stripes on their body when they are ready to mate, while males do not. Additionally, females may have a smaller and less pronounced 'beard' or opercular membrane beneath the gill plate cover compared to males. When flaring, females may assume a head-down posture, which males do not exhibit. ",
-                    
+
                 ]
             },
             {
@@ -2140,7 +2139,7 @@ export const bolgdata = JSON.stringify([
                 title: "How to Create A Natural Habitat for Red Betta Fish in a Tank? ",
                 image: "",
                 contents: ["To create a natural habitat for red betta fish in a tank, it's essential to replicate their native environment, which includes freshwater wetlands with shallow water bodies, decaying vegetation, and an acidic environment. Here are some key steps and elements to consider: "
-                                    ]
+                ]
             },
             {
                 title: "Tank Setup",
@@ -2160,13 +2159,13 @@ export const bolgdata = JSON.stringify([
                 title: "Surface Cover",
                 image: "",
                 contents: ["Floating Plants: Include floating plants like Amazon frogbit to cover part of the water surface, providing shade and creating a natural environment for the betta fish to build bubble nests.",
-                
+
                 ]
-            },   {
+            }, {
                 title: "Maintenance ",
                 image: "",
                 contents: ["Water Changes: Perform regular water changes to maintain good water quality, as bettas are sensitive to water conditions.  Substrate: Use a substrate that provides nutrients for live plant growth and supports the natural behavior of the betta fish.  ",
-                
+
                 ]
             },
 
@@ -2180,7 +2179,7 @@ export const bolgdata = JSON.stringify([
                     "Night Lighting: Betta fish don't need light at night. If you want to observe your fish at night, you can use a black light, which doesn't produce light that can disturb your betta's sleep but will make them appear to glow in the dark.",
                     "By selecting LED aquarium lights with the right intensity and color, you can provide a suitable and visually appealing lighting environment for your red betta fish tank.",
                 ]
-            },   {
+            }, {
                 title: "Care Guide",
                 image: "",
                 contents: ["If you are considering keeping a red betta fish, it's important to understand its care requirements. The red betta fish is recommended for intermediate to advanced hobbyists due to its specific care needs and territorial nature. They are carnivorous and should be fed a diet primarily consisting of high-quality betta pellets or flakes, with occasional live or frozen food such as brine shrimp or bloodworms to provide essential nutrients and prevent boredom. ",
@@ -2198,14 +2197,14 @@ export const bolgdata = JSON.stringify([
                 title: "Territorial Nature",
                 image: "",
                 contents: ["Red betta fish are known for their territorial nature. They are aggressive towards other male bettas and will instinctively fight to defend their territory. In the wild, male bettas will fight for breeding rights and to protect their nests. In captivity, it's important to keep red betta fish alone in their own tank to prevent conflicts with other fish. If housed with other species, peaceful and non-aggressive tank mates should be chosen, and ample hiding spots should be provided to reduce stress. ",
-                    
+
                 ]
             },
             {
                 title: "Bubble Nesting",
                 image: "",
                 contents: ["Male red betta fish are known for their bubble nesting behavior. They create a nest of bubbles on the water's surface using their saliva to trap air bubbles. The male will then entice a female to lay eggs in the nest, which he will then fertilize. After successful breeding, the male should be removed to prevent aggression. Raising the fry requires careful attention and the right food, such as infusoria and baby brine shrimp. ",
-                    
+
                 ]
             },
             {
@@ -2226,9 +2225,9 @@ export const bolgdata = JSON.stringify([
                 title: "Create a Visual Barrier between Red Betta Fish in the Same Tank",
                 image: "",
                 contents: ["Live Plants: Incorporate dense, tall, and bushy live plants such as Java Fern, Anubias, or Amazon Sword. These plants can create natural visual barriers, breaking the line of sight for the fish in the aquarium, providing safe places for the fish to dwell, and reducing stress.    ",
-                "Artificial Decorations: Place artificial decorations such as caves, tunnels, or resin ornaments strategically in the tank to obstruct the line of sight between the bettas. These decorations can provide hiding spots for the fish and help in breaking the territorial view.",
-                "Colored Divider: Use a colored divider to separate the tank into sections, preventing the bettas from seeing each other. This can be an effective way to create a visual barrier and reduce aggressive behavior.",
-                "Aquarium Background: Apply a solid-colored or patterned aquarium background to the back and sides of the tank. This can help in breaking the line of sight and reducing stress by providing a less stimulating environment.",
+                    "Artificial Decorations: Place artificial decorations such as caves, tunnels, or resin ornaments strategically in the tank to obstruct the line of sight between the bettas. These decorations can provide hiding spots for the fish and help in breaking the territorial view.",
+                    "Colored Divider: Use a colored divider to separate the tank into sections, preventing the bettas from seeing each other. This can be an effective way to create a visual barrier and reduce aggressive behavior.",
+                    "Aquarium Background: Apply a solid-colored or patterned aquarium background to the back and sides of the tank. This can help in breaking the line of sight and reducing stress by providing a less stimulating environment.",
                 ]
             },
             {
@@ -2242,12 +2241,12 @@ export const bolgdata = JSON.stringify([
                 title: "Conclusion ",
                 image: "",
                 contents: ["The red betta fish is a stunning and unique species that requires specific care and attention. Its vibrant red coloration and distinctive physical attributes make it a sought-after choice for aquarium enthusiasts. Understanding its origin, care requirements, and availability is essential for those interested in keeping this captivating fish. ",
-                
+
                 ]
             },
-           
+
 
         ]
     }
-    
+
 ])

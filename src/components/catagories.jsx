@@ -16,7 +16,7 @@ const Catagories = ({ item }) => {
                     <div className="col-sm-12 col-lg-6 col-md-6">
                         <div className="row">
                             <div className="col-sm-6 p-1" data-aos="fade-right" data-aos-duration={2000}>
-                                {data && data?.length >= 1 ?
+                                {data && data.length >= 1 ?
                                     <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 1]?.slug}`}>
                                         <div className='shadow p-3 overflow-hidden' style={{ height: "390px" }}>
                                             <img
@@ -36,7 +36,7 @@ const Catagories = ({ item }) => {
                                 data-aos="fade-right"
                                 data-aos-duration={2000}
                             >
-                                {data && data?.length >= 2 ?
+                                {data && data.length >= 2 ?
                                     <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 2]?.slug}`}>
                                         <div className='shadow p-3 overflow-hidden' style={{ height: "390px" }}>
                                             <img
@@ -56,7 +56,7 @@ const Catagories = ({ item }) => {
                                 data-aos="flip-up"
                                 data-aos-duration={2000}
                             >
-                                {data && data?.length >= 3 ?
+                                {data && data.length >= 3 ?
                                     <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 3]?.slug}`}>
                                         <div className='shadow p-3 overflow-hidden' style={{ height: "400px" }}>
                                             <img
@@ -76,7 +76,7 @@ const Catagories = ({ item }) => {
                                 data-aos="flip-up"
                                 data-aos-duration={2000}
                             >
-                                {data && data?.length >= 4 ?
+                                {data && data.length >= 4 ?
                                     <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 4]?.slug}`}>
                                         <div className='shadow p-3 overflow-hidden' style={{ height: "400px" }}>
                                             <img
@@ -96,7 +96,7 @@ const Catagories = ({ item }) => {
                                 data-aos="flip-up"
                                 data-aos-duration={2000}
                             >
-                                {data && data?.length >= 5 ?
+                                {data && data.length >= 5 ?
                                     <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 5]?.slug}`}>
                                         <div className='shadow p-3 overflow-hidden' style={{ height: "400px" }}>
                                             <img
@@ -114,7 +114,7 @@ const Catagories = ({ item }) => {
                         </div>
                     </div>
                     <div className="col-sm-12 col-lg-6 col-md-6" data-aos="flip-top" data-aos-easing="ease-out-cubic" data-aos-duration={2000}>
-                        {data && data?.length >= 3 ?
+                        {data && data.length >= 3 ?
                             <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 3]?.slug}`}>
                                 <div className='shadow'>
                                     <img
