@@ -23,7 +23,7 @@ const SideBar = ({ isOpen, toggle }) => {
                 </ul>
             </div>
             <Link className='mobile-logo' to={Route_Path.HOME}>
-            <img className='logo-img' src={`${Base_Url()}/images/main-header-logo.jpg`} alt="" srcset="" />
+            <img className='logo-img' src={`${Base_Url()}/images/main-header-logo.jpg`} alt="imgh" />
             </Link>
         </>
     );

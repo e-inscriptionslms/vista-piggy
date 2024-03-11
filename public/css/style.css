@@ -124,9 +124,10 @@ a {
 
 .div6 {
   height: auto;
-  border-radius: 20px;
+  /* border-radius: 20px; */
+  border-bottom: 7px solid #b50128;
   box-shadow: 1px 1px 10px 10px rgb(214, 211, 211);
-  background-color: rgba(246, 151, 151, 0.3);
+  /* background-color: rgba(246, 151, 151, 0.3); */
   overflow: hidden;
 }
 
@@ -155,10 +156,11 @@ a {
 
 .div4 {
   /* height: 450px; */
-  border-radius: 15px;
+  /* border-radius: 15px; */
   margin-top: 5%;
-  box-shadow: 1px 1px 10px 10px rgb(243, 239, 239);
-  background-color: rgba(246, 151, 151, 0.3);
+  box-shadow: 1px 1px 10px 10px rgb(214, 211, 211);
+  /* background-color: rgba(246, 151, 151, 0.3); */
+  border-bottom: 7px solid #b50128;
 }
 
 .breadcrumb-section {
@@ -281,10 +283,11 @@ div>a:hover {
 
 .div5 {
   height: auto;
-  border-radius: 15px;
+  /* border-radius: 15px; */
   margin-top: 5%;
-  box-shadow: 1px 1px 10px 10px rgb(243, 239, 239);
-  background-color: rgba(246, 151, 151, 0.3);
+  box-shadow: 1px 1px 10px 10px rgb(214, 211, 211);
+  /* background-color: rgba(246, 151, 151, 0.3); */
+  border-bottom: 7px solid #b50128 ;
 }
 
 .bottom-end {
@@ -383,17 +386,17 @@ ul>.bghover:hover {
   width: 203px;
 }
 
-@media(max-width:576px){
-  .mobile-logo{
-   position: relative;
-   left: 118px;
+@media(max-width:576px) {
+  .mobile-logo {
+    position: relative;
+    left: 118px;
   }
 }
 
-@media(max-width:768px){
-  .mobile-logo{
-   position: relative;
-   left: 118px;
+@media(max-width:768px) {
+  .mobile-logo {
+    position: relative;
+    left: 118px;
   }
 }
 
@@ -509,3 +512,20 @@ ul>.bghover:hover {
   position: relative;
   left: 8px;
 }
+
+.sticky {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.cate-Card {
+  height: 60px;
+  width: 100%;
+  background: azure;
+}
+
+.cate-name{
+  border-left: 6px solid #b50128;
+}
+

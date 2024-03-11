@@ -759,7 +759,7 @@ export const bolgdata = JSON.stringify([
         slug: "Chlorokinesis",
         date: "06/03/2024",
         image: "",
-        cate_name: "",
+        cate_name: "Entertainment",
         base_title: ["Chlorokinesis, also known as plant manipulation or phytokinesis, is the ability to control, change, and sometimes create plant life in various forms such as flowers, trees, moss, and grass. This power is often associated with elemental magic and individuals possessing this ability can manipulate vegetation in diverse ways.",
             "Here is everything in detail that you need to know about Chlorokinesis if this is something that excites you! Starting from what it is to characters with chlorokinetic powers"
         ],
