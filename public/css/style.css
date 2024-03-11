@@ -370,7 +370,7 @@ ul li {
   padding: 10px;
   text-align: center;
   cursor: pointer;
-  color: white;
+  color: rgb(8, 8, 8);
 }
 
 ul>.bghover:hover {
@@ -383,17 +383,17 @@ ul>.bghover:hover {
   width: 203px;
 }
 
-@media(max-width:576px){
-  .mobile-logo{
-   position: relative;
-   left: 118px;
+@media(max-width:576px) {
+  .mobile-logo {
+    position: relative;
+    left: 118px;
   }
 }
 
-@media(max-width:768px){
-  .mobile-logo{
-   position: relative;
-   left: 118px;
+@media(max-width:768px) {
+  .mobile-logo {
+    position: relative;
+    left: 118px;
   }
 }
 
@@ -493,6 +493,11 @@ ul>.bghover:hover {
 .categories_list {
   list-style: none;
 }
+
+.categories_list li {
+  color: #000;
+}
+
 
 /* categories end */
 

@@ -29,7 +29,7 @@ const BlogPage = () => {
               <h2 className='mt-3'>{blog_data && blog_data?.title}
               </h2>
               <div className='mt-4'>
-                <span><i className="fa-regular fa-user"></i> VISTA PIGGY </span><span><i className="fa-regular fa-clock"></i> November 24, 2023 </span><span><i className="fa-regular fa-comment"></i> 0 comment</span>
+                <span><i className="fa-regular fa-user"></i> HOPIFFY </span><span><i className="fa-regular fa-clock"></i> November 24, 2023 </span><span><i className="fa-regular fa-comment"></i> 0 comment</span>
                 <p className='mt-4'>{blog_data && blog_data?.base_title}</p>
                 <p className='mt-3'></p>
                 <hr />

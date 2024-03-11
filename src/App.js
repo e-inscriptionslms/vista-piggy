@@ -11,6 +11,8 @@ import NotFound from './pages/NotFound';
 import About from './pages/about';
 import Privacy from './pages/privacy';
 import Contact from './pages/contactpage';
+import Termsandcondition from './pages/Termsandcondition';
+import Disclaimer from './pages/Disclaimer';
 
 
 function App() {
@@ -32,9 +34,12 @@ function App() {
             <Route path={Route_Path.HISTORY} element={<CategoriesPage />} />
             <Route path={`${Route_Path.B1}/:slug`} element={<BlogPage />} />
           </Route>
+          
           <Route path={Route_Path.ABOUT} element={<About />} />
           <Route path={Route_Path.PRIVACY} element={<Privacy />} />
           <Route path={Route_Path.CONTACT} element={<Contact />} />
+          <Route path={Route_Path.TERMSANDCONDITION} element={<Termsandcondition />} />
+          <Route path={Route_Path.DISCLAIMER} element={<Disclaimer/>} />
         </Route>
         <Route path='*' element={<NotFound />} />
       </Routes>
