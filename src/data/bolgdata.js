@@ -759,7 +759,7 @@ export const bolgdata = JSON.stringify([
         slug: "Chlorokinesis",
         date: "06/03/2024",
         image: "",
-        cate_name: "",
+        cate_name: "Entertainment",
         base_title: ["Chlorokinesis, also known as plant manipulation or phytokinesis, is the ability to control, change, and sometimes create plant life in various forms such as flowers, trees, moss, and grass. This power is often associated with elemental magic and individuals possessing this ability can manipulate vegetation in diverse ways.",
             "Here is everything in detail that you need to know about Chlorokinesis if this is something that excites you! Starting from what it is to characters with chlorokinetic powers"
         ],
@@ -1188,7 +1188,7 @@ export const bolgdata = JSON.stringify([
         slug: "the_volution_of_luke_hobbs",
         date: "07/03/2024",
         image: "",
-        cate_name: "Luke hobbs",
+        cate_name: "Entertainment",
         base_title: ["Luke Hobbs, a notorious DSS agent, first appeared in the 'Fast and Furious' franchise as a formidable adversary to the crew, sent to bring them to justice for crimes related to Dom's   escape from prison. Here is everything in a comprehensive manner on Luke Hoobs. Keep   reading to know more about fast and furious Luke Hobbs.",
             ""
         ],
@@ -1379,7 +1379,7 @@ export const bolgdata = JSON.stringify([
         slug: "tamatoa",
         date: "07/03/2024",
         image: "",
-        cate_name: "Tamatoa Moana",
+        cate_name: "Entertainment",
         base_title: ["Tamatoa, the flamboyant and larger-than-life character from Disney's 'Moana,' has captivated audiences with his egotistical nature and love for all things shiny. Tamatoa Moana, villainous crab brings a unique energy to the screen, leaving viewers in awe of his sparkling shell and cunning demeanor. Here is everything you need to know about Tamatoacrab. Keep reading to know more in detail about Tamatoa Moana here",
             ""
         ],
@@ -1644,7 +1644,7 @@ export const bolgdata = JSON.stringify([
         slug: " zeke yeagar",
         date: "07/03/2024",
         image: "",
-        cate_name: "",
+        cate_name: "Entertainment",
         base_title: ["Zeke Yeager, also known as Eren Yeager. He is a fictional character from the popular manga  and anime series 'Attack on Titan.' Created by Hajime Isayama, Zeke is a member of the Eldian race and a member of the Yeager family. He is the older brother of Mikasa Ackerman  and Eren Yeager, and is a key figure in the story's plot. ",
             "There are lot of amazing concepts about Zeke Yeagar. Read further to know all about him"
         ],
@@ -1833,7 +1833,7 @@ export const bolgdata = JSON.stringify([
         slug: "",
         date: "07/03/2024",
         image: "",
-        cate_name: "Science",
+        cate_name: "mythology",
         base_title: ["Welcome to the captivating universe of Wicca — a cutting edge agnostic profound custom that winds around together ld insight, nature-focused otherworldliness, and mysterious practices. Wicca, frequently alluded to as the Specialty or Black magic, has arisen as a   different and dynamic way embraced by people looking for a comprehensive association with the secrets of presence.",
             "Come along with us on an excursion through the hallowed patterns of nature, the dance of   double divinities, the specialty of spellcraft, and the different practices that make Wicca a  living, developing articulation of human otherworldliness. ",
             "Whether you are a searcher attracted to the sorcery of the Specialty or a lover inquisitive   about the insight implanted in its ceremonies, this investigation means to enlighten the substance and meaning of Wicca — a way that entices the inquisitive to embrace the interconnected strings of nature, soul, and individual strengthening. "
@@ -2061,7 +2061,7 @@ export const bolgdata = JSON.stringify([
         slug: "",
         date: "07/03/2024",
         image: "",
-        cate_name: "Entertainment",
+        cate_name: "Animal",
         base_title: ["The red betta fish, also known as the Siamese fighting fish, is a captivating and vibrant variety of Betta splendens. Renowned for its striking red coloration, it is a favorite among aquarium enthusiasts. ",
             "Below is a brief article covering various aspects of the red betta fish, including its origin, care, characteristics, and availability.  Keep reading to know more in detail about the same. ",
             
@@ -2248,6 +2248,6 @@ export const bolgdata = JSON.stringify([
            
 
         ]
-    }
+    },
     
 ])
