@@ -2061,7 +2061,7 @@ export const bolgdata = JSON.stringify([
         slug: "",
         date: "07/03/2024",
         image: "",
-        cate_name: "Animal",
+        cate_name: "Animals",
         base_title: ["The red betta fish, also known as the Siamese fighting fish, is a captivating and vibrant variety of Betta splendens. Renowned for its striking red coloration, it is a favorite among aquarium enthusiasts. ",
             "Below is a brief article covering various aspects of the red betta fish, including its origin, care, characteristics, and availability.  Keep reading to know more in detail about the same. ",
             
