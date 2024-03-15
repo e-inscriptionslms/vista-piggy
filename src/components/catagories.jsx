@@ -1,11 +1,11 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { bolgdata } from '../data/bolgdata'
 import { Link } from 'react-router-dom'
 import { Route_Path } from '../RoutePath/routepath'
 import { Base_Url } from '../helper/helper'
 
 const Catagories = ({ item }) => {
-    let data = JSON.parse(bolgdata)?.filter((ele) => ele.cate_name === item)
+    const [data , setData] = useState(JSON.parse(bolgdata)?.filter((ele) => ele.cate_name.toLowerCase() === item)) 
     return (
         <>
             <div className="col-sm-12 p-1">

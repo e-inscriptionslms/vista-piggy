@@ -2146,9 +2146,9 @@ export const bolgdata = JSON.stringify([
         slug: "20 World’s Most Beautiful Horses",
         date: "12/03/2024",
         image: "",
-        cate_name: "- Beautiful Horses",
-        base_title: ["Horses have been a source of fascination and admiration for centuries. Their majestic        beauty, intelligence, and loyalty have endeared them to humans, making them one of the        most beloved animals in the world.        ",
-            "In this article, we will explore the beauty of horses, their significance in human history, and            highlight some of the most stunning horses that have graced the world stage. Here are the            top beautiful horses mentioned and all about them which you need to be aware of!            ",
+        cate_name: "Animals",
+        base_title: ["Horses have been a source of fascination and admiration for centuries. Their majestic beauty, intelligence, and loyalty have endeared them to humans, making them one of the most beloved animals in the world.",
+            "In this article, we will explore the beauty of horses, their significance in human history, and highlight some of the most stunning horses that have graced the world stage. Here are the top beautiful horses mentioned and all about them which you need to be aware of!",
             
         ],
 

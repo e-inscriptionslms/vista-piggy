@@ -13,7 +13,7 @@ const Home = () => {
     useEffect(() => {
         setCate(Cate_data(data))
     }, [data])
-
+   
     return (
         <>
             <section id="bredcrum">
@@ -126,7 +126,7 @@ const Home = () => {
                 <div className="row mt-2 border p-3">
                     <div className='col-sm-9 col-md-9 p-1'>
                         {cate?.map((item, index) => (
-                            <Catagories item={item} key={index} />
+                            <Catagories item={item.toLowerCase()} key={index} />
                         ))}
                     </div>
                     <div className="col-sm-12 col-md-3 p-1">
