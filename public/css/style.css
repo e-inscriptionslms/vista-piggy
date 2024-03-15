@@ -373,7 +373,7 @@ ul li {
   padding: 10px;
   text-align: center;
   cursor: pointer;
-  color: rgb(8, 8, 8);
+  /* color: rgb(8, 8, 8); */
 }
 
 ul>.bghover:hover {
