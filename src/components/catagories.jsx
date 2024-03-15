@@ -6,6 +6,7 @@ import { Base_Url } from '../helper/helper'
 
 const Catagories = ({ item }) => {
     const [data , setData] = useState(JSON.parse(bolgdata)?.filter((ele) => ele.cate_name.toLowerCase() === item)) 
+
     return (
         <>
             <div className="col-sm-12 p-1">
@@ -17,7 +18,7 @@ const Catagories = ({ item }) => {
                         <div className="row">
                             <div className="col-sm-6 p-1" data-aos="fade-right" data-aos-duration={2000}>
                                 {data && data.length >= 1 ?
-                                    <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 1]?.slug}`}>
+                                    <Link to={`${Route_Path.BLOG}/${Route_Path.B1}/${data && data[data.length - 1]?.slug?.replaceAll(" ","-")}`}>
                                         <div className='shadow p-3 overflow-hidden' style={{ height: "390px" }}>
                                             <img
                                                 src={`${Base_Url()}/${data && data[data.length - 1]?.image}`}
